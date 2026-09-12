@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TOEIC Gold Vocabulary</title>
+    <title>TOEIC Vocabulary</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>📚 TOEIC Gold Vocabulary</h1>
+        <h1>📚 TOEIC Vocabulary</h1>
         <p>日本語・ミャンマー語で学ぶ英単語</p>
     </header>
 
@@ -17,9 +17,13 @@
             <input type="text" id="searchInput" placeholder="単語を検索... (Search)">
         </div>
 
-        <div id="vocabList" class="vocab-list"></div>
+        <!-- Star Filter Button -->
+        <div class="filter-box">
+            <button id="showAllBtn" class="filter-btn active">Show All-全て表示</button>
+            <button id="showStarredBtn" class="filter-btn">⭐ Starred Only-お気に入りのみ</button>
+        </div>
 
-        <!-- ページネーション -->
+        <div id="vocabList" class="vocab-list"></div>
         <div class="pagination" id="pagination"></div>
     </main>
 
