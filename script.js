@@ -25,8 +25,8 @@ const jsonFiles = [
     'data/vocab-851-900.json',
     'data/vocab-901-950.json',
     'data/vocab-951-1000.json',
-    'data/vocab-part1-1001-1100',
-    'data/vocab-part1-1101-1188',
+    'data/vocab-part1-1001-1100.json',
+    'data/vocab-part1-1101-1188.json',
 ];
 
 // 全ファイルを読み込んで結合
