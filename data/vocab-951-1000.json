@@ -1,0 +1,452 @@
+[
+  {
+    "number": "951",
+    "word": "entail",
+    "meaning_jp": "そのポジションは頻繁な出張が求められる。",
+    "meaning_mm": "လိုအပ်သည်၊ ပါဝင်သည်",
+    "example": "The position entails a lot of travel.",
+    "example_jp": "そのポジションは頻繁な出張が求められる。",
+    "example_mm": "အဲဒီရာထူးက အများအပြား ခရီးသွားရန် လိုအပ်ပါတယ်။"
+  },
+  {
+    "number": "952",
+    "word": "fluctuation",
+    "meaning_jp": "気温の変動",
+    "meaning_mm": "အတက်အကျ၊ ပြောင်းလဲမှု",
+    "example": "temperature fluctuations",
+    "example_jp": "気温の変動",
+    "example_mm": "အပူချိန် အတက်အကျများ"
+  },
+  {
+    "number": "953",
+    "word": "foremost",
+    "meaning_jp": "最高の法律事務所の一つ",
+    "meaning_mm": "ထိပ်တန်း၊ အဦးဆုံး",
+    "example": "one of the foremost law firms",
+    "example_jp": "最高の法律事務所の一つ",
+    "example_mm": "ထိပ်တန်း ဥပဒေအကျိုးဆောင်လုပ်ငန်းတစ်ခု"
+  },
+  {
+    "number": "954",
+    "word": "imperative",
+    "meaning_jp": "今行動することが必要だ。",
+    "meaning_mm": "အလွန်အရေးကြီးသော၊ မဖြစ်မနေလိုအပ်သော",
+    "example": "It is imperative that we act now.",
+    "example_jp": "今行動することが必要だ。",
+    "example_mm": "အခုပဲ ဆောင်ရွက်ဖို့ အလွန်အရေးကြီးပါတယ်။"
+  },
+  {
+    "number": "955",
+    "word": "mandatory",
+    "meaning_jp": "参加必須の会議に出席する",
+    "meaning_mm": "မဖြစ်မနေလိုအပ်သော၊ မသင်မနေရ",
+    "example": "attend a mandatory meeting",
+    "example_jp": "参加必須の会議に出席する",
+    "example_mm": "မဖြစ်မနေ တက်ရောက်ရမည့် အစည်းအဝေးသို့ တက်ရောက်သည်"
+  },
+  {
+    "number": "956",
+    "word": "meticulously",
+    "meaning_jp": "細心の注意を払って作られた芸術作品",
+    "meaning_mm": "အလွန်ဂရုတစိုက်၊ အသေးစိတ်",
+    "example": "a meticulously created artwork",
+    "example_jp": "細心の注意を払って作られた芸術作品",
+    "example_mm": "အလွန်ဂရုတစိုက် ဖန်တီးထားသော အနုပညာလက်ရာ"
+  },
+  {
+    "number": "957",
+    "word": "outreach",
+    "meaning_jp": "地域の支援プログラム",
+    "meaning_mm": "အကူအညီပေးရေး လုပ်ငန်း",
+    "example": "a community outreach program",
+    "example_jp": "地域の支援プログラム",
+    "example_mm": "လူ့အဖွဲ့အစည်း အကူအညီပေးရေး အစီအစဉ်"
+  },
+  {
+    "number": "958",
+    "word": "tenure",
+    "meaning_jp": "私の2年間の在職期間中",
+    "meaning_mm": "ရာထူးသက်တမ်း၊ လုပ်သက်",
+    "example": "during my two-year tenure",
+    "example_jp": "私の2年間の在職期間中",
+    "example_mm": "ငါ့ရဲ့ နှစ်နှစ်တာ ရာထူးသက်တမ်းအတွင်း"
+  },
+  {
+    "number": "959",
+    "word": "versatile",
+    "meaning_jp": "多才な人",
+    "meaning_mm": "ဘက်စုံထူးချွန်သော၊ စွယ်စုံရ",
+    "example": "a versatile person",
+    "example_jp": "多才な人",
+    "example_mm": "ဘက်စုံထူးချွန်သူ"
+  },
+  {
+    "number": "960",
+    "word": "alleviate",
+    "meaning_jp": "交通渋滞を緩和する",
+    "meaning_mm": "လျော့ပါးစေသည်၊ သက်သာစေသည်",
+    "example": "alleviate traffic congestion",
+    "example_jp": "交通渋滞を緩和する",
+    "example_mm": "ယာဉ်ကြောကျပ်တည်းမှုကို လျော့ပါးစေသည်"
+  },
+  {
+    "number": "961",
+    "word": "exemplary",
+    "meaning_jp": "模範的な社員",
+    "meaning_mm": "စံပြဖြစ်သော၊ စံတင်လောက်သော",
+    "example": "an exemplary employee",
+    "example_jp": "模範的な社員",
+    "example_mm": "စံပြဖြစ်သော ဝန်ထမ်း"
+  },
+  {
+    "number": "962",
+    "word": "gala",
+    "meaning_jp": "祝賀ディナー",
+    "meaning_mm": "အထူးအခမ်းအနား၊ ပွဲလမ်း",
+    "example": "a gala dinner",
+    "example_jp": "祝賀ディナー",
+    "example_mm": "အထိမ်းအမှတ် ညစာစားပွဲ"
+  },
+  {
+    "number": "963",
+    "word": "mural",
+    "meaning_jp": "壁画を修復する",
+    "meaning_mm": "နံရံပန်းချီ",
+    "example": "restore a mural",
+    "example_jp": "壁画を修復する",
+    "example_mm": "နံရံပန်းချီကို ပြုပြင်သည်"
+  },
+  {
+    "number": "964",
+    "word": "proprietor",
+    "meaning_jp": "洋品店のオーナー",
+    "meaning_mm": "ပိုင်ရှင်၊ ပိုင်ဆိုင်သူ",
+    "example": "the proprietor of a clothing shop",
+    "example_jp": "洋品店のオーナー",
+    "example_mm": "အဝတ်အထည်ဆိုင်၏ ပိုင်ရှင်"
+  },
+  {
+    "number": "965",
+    "word": "stagnant",
+    "meaning_jp": "停滞した市場",
+    "meaning_mm": "တိုးတက်မှုမရှိသော၊ ရပ်တန့်နေသော",
+    "example": "a stagnant market",
+    "example_jp": "停滞した市場",
+    "example_mm": "ရပ်တန့်နေသော စျေးကွက်"
+  },
+  {
+    "number": "966",
+    "word": "stringent",
+    "meaning_jp": "厳しい品質基準",
+    "meaning_mm": "တင်းကျပ်သော၊ ပြင်းထန်သော",
+    "example": "stringent quality standards",
+    "example_jp": "厳しい品質基準",
+    "example_mm": "တင်းကျပ်သော အရည်အသွေး စံနှုန်းများ"
+  },
+  {
+    "number": "967",
+    "word": "testimonial",
+    "meaning_jp": "お客様からの推薦の声",
+    "meaning_mm": "ထောက်ခံချက်၊ ချီးမွမ်းချက်",
+    "example": "testimonials from customers",
+    "example_jp": "お客様からの推薦の声",
+    "example_mm": "ဖောက်သည်များထံမှ ထောက်ခံချက်များ"
+  },
+  {
+    "number": "968",
+    "word": "turnout",
+    "meaning_jp": "コンサートへの来場者数",
+    "meaning_mm": "လူပရိသတ်အရေအတွက်",
+    "example": "the turnout for the concert",
+    "example_jp": "コンサートへの来場者数",
+    "example_mm": "ဂီတဖျော်ဖြေပွဲသို့ လာရောက်သူအရေအတွက်"
+  },
+  {
+    "number": "969",
+    "word": "waive",
+    "meaning_jp": "送料は請求しません。",
+    "meaning_mm": "စွန့်လွှတ်သည်၊ ကင်းလွတ်ခွင့်ပြုသည်",
+    "example": "We will waive the shipping charge.",
+    "example_jp": "送料は請求しません。",
+    "example_mm": "ပို့ဆောင်ခကို ကောက်ခံမည် မဟုတ်ပါ။"
+  },
+  {
+    "number": "970",
+    "word": "faucet",
+    "meaning_jp": "新しい蛇口を取り付ける",
+    "meaning_mm": "ဘုံဘိုင်၊ ရေပိုက်ခေါင်း",
+    "example": "install a new faucet",
+    "example_jp": "新しい蛇口を取り付ける",
+    "example_mm": "ရေပိုက်ခေါင်းအသစ် တပ်ဆင်သည်"
+  },
+  {
+    "number": "971",
+    "word": "amendment",
+    "meaning_jp": "契約書に修正を加える",
+    "meaning_mm": "ပြင်ဆင်ချက်၊ ပြုပြင်မွမ်းမံမှု",
+    "example": "make amendments to the contract",
+    "example_jp": "契約書に修正を加える",
+    "example_mm": "စာချုပ်တွင် ပြင်ဆင်ချက်များ ပြုလုပ်သည်"
+  },
+  {
+    "number": "972",
+    "word": "anonymous",
+    "meaning_jp": "匿名の寄贈者",
+    "meaning_mm": "အမည်မဖော်သော၊ နာမည်မပါသော",
+    "example": "an anonymous donor",
+    "example_jp": "匿名の寄贈者",
+    "example_mm": "အမည်မဖော်သော အလှူရှင်"
+  },
+  {
+    "number": "973",
+    "word": "fraud",
+    "meaning_jp": "詐欺の可能性を報告する",
+    "meaning_mm": "အလိမ်အညာ၊ လိမ်လည်မှု",
+    "example": "report potential fraud",
+    "example_jp": "詐欺の可能性を報告する",
+    "example_mm": "အလိမ်အညာဖြစ်နိုင်ခြေကို အစီရင်ခံသည်"
+  },
+  {
+    "number": "974",
+    "word": "liable",
+    "meaning_jp": "テックスはその損害に関して法的責任があるとされた。",
+    "meaning_mm": "တာဝန်ရှိသော၊ ခံရနိုင်သော",
+    "example": "Tex was held liable for the damage.",
+    "example_jp": "テックスはその損害に関して法的責任があるとされた。",
+    "example_mm": "တက်စ်သည် အဲဒီပျက်စီးမှုအတွက် ဥပဒေအရ တာဝန်ရှိသည်ဟု သတ်မှတ်ခံခဲ့ရသည်။"
+  },
+  {
+    "number": "975",
+    "word": "considerate",
+    "meaning_jp": "他人の気持ちに配慮しなさい。",
+    "meaning_mm": "စာနာတတ်သော၊ ထောက်ထားစာနာသော",
+    "example": "Be considerate of other people's feelings.",
+    "example_jp": "他人の気持ちに配慮しなさい。",
+    "example_mm": "အခြားသူများ၏ ခံစားချက်ကို ထောက်ထားစာနာပါ။"
+  },
+  {
+    "number": "976",
+    "word": "consolidate",
+    "meaning_jp": "2つの部門を1つに統合する",
+    "meaning_mm": "စုစည်းသည်၊ ပေါင်းစပ်သည်",
+    "example": "consolidate two divisions into one",
+    "example_jp": "2つの部門を1つに統合する",
+    "example_mm": "ဌာနနှစ်ခုကို တစ်ခုတည်းအဖြစ် ပေါင်းစပ်သည်"
+  },
+  {
+    "number": "977",
+    "word": "vigorous",
+    "meaning_jp": "精力的なキャンペーン",
+    "meaning_mm": "အားမာန်ပြည့်သော၊ ထက်သန်သော",
+    "example": "a vigorous campaign",
+    "example_jp": "精力的なキャンペーン",
+    "example_mm": "ထက်သန်သော လှုပ်ရှားမှု"
+  },
+  {
+    "number": "978",
+    "word": "retreat",
+    "meaning_jp": "社員研修旅行を計画する",
+    "meaning_mm": "အနားယူခရီး၊ ဆုတ်ခွာသည်",
+    "example": "plan a company retreat",
+    "example_jp": "社員研修旅行を計画する",
+    "example_mm": "ကုမ္ပဏီ ဝန်ထမ်းအနားယူခရီး စီစဉ်သည်"
+  },
+  {
+    "number": "979",
+    "word": "custodian",
+    "meaning_jp": "リゾートの管理人",
+    "meaning_mm": "စောင့်ရှောက်သူ၊ ထိန်းသိမ်းသူ",
+    "example": "a custodian at a resort",
+    "example_jp": "リゾートの管理人",
+    "example_mm": "အပန်းဖြေစခန်း၏ စောင့်ရှောက်သူ"
+  },
+  {
+    "number": "980",
+    "word": "forge",
+    "meaning_jp": "関係を築く",
+    "meaning_mm": "ဖန်တီးသည်၊ တည်ဆောက်သည်",
+    "example": "forge a relationship",
+    "example_jp": "関係を築く",
+    "example_mm": "ဆက်ဆံရေးကို တည်ဆောက်သည်"
+  },
+  {
+    "number": "981",
+    "word": "impending",
+    "meaning_jp": "間近に迫ったトップの交代",
+    "meaning_mm": "မကြာမီဖြစ်လာမည့်၊ နီးကပ်လာသော",
+    "example": "the impending change in leadership",
+    "example_jp": "間近に迫ったトップの交代",
+    "example_mm": "မကြာမီ ဖြစ်လာမည့် ခေါင်းဆောင်မှု အပြောင်းအလဲ"
+  },
+  {
+    "number": "982",
+    "word": "itemize",
+    "meaning_jp": "出張旅費を項目分けする",
+    "meaning_mm": "အချက်အလက်လိုက် စာရင်းပြုစုသည်",
+    "example": "itemize travel expenses",
+    "example_jp": "出張旅費を項目分けする",
+    "example_mm": "ခရီးသွားစရိတ်များကို အချက်လိုက် စာရင်းပြုစုသည်"
+  },
+  {
+    "number": "983",
+    "word": "liaison",
+    "meaning_jp": "経営陣と従業員の間の連絡係",
+    "meaning_mm": "ဆက်သွယ်ရေးတာဝန်ခံ",
+    "example": "a liaison between management and employees",
+    "example_jp": "経営陣と従業員の間の連絡係",
+    "example_mm": "စီမံခန့်ခွဲမှုနှင့် ဝန်ထမ်းများကြား ဆက်သွယ်ရေးတာဝန်ခံ"
+  },
+  {
+    "number": "984",
+    "word": "objectionable",
+    "meaning_jp": "その宿泊客は騒音を不快に感じた。",
+    "meaning_mm": "ကန့်ကွက်ဖွယ်ရာဖြစ်သော၊ မနှစ်မြို့ဖွယ်သော",
+    "example": "The guest found the noise objectionable.",
+    "example_jp": "その宿泊客は騒音を不快に感じた。",
+    "example_mm": "အဲဒီဧည့်သည်က ဆူညံသံကို မနှစ်မြို့ဖွယ်ဖြစ်သည်ဟု ခံစားခဲ့ရသည်။"
+  },
+  {
+    "number": "985",
+    "word": "repave",
+    "meaning_jp": "私道を再舗装する",
+    "meaning_mm": "ပြန်လည်ခင်းသည်၊ ပြုပြင်ခင်းသည်",
+    "example": "repave a driveway",
+    "example_jp": "私道を再舗装する",
+    "example_mm": "ကိုယ်ပိုင်လမ်းကို ပြန်လည်ခင်းသည်"
+  },
+  {
+    "number": "986",
+    "word": "shortcoming",
+    "meaning_jp": "欠点に対応する",
+    "meaning_mm": "ချို့ယွင်းချက်၊ အားနည်းချက်",
+    "example": "address shortcomings",
+    "example_jp": "欠点に対応する",
+    "example_mm": "ချို့ယွင်းချက်များကို ဖြေရှင်းသည်"
+  },
+  {
+    "number": "987",
+    "word": "viable",
+    "meaning_jp": "財政的に実行可能な選択肢",
+    "meaning_mm": "ဖြစ်နိုင်သော၊ လုပ်ဆောင်နိုင်သော",
+    "example": "a financially viable option",
+    "example_jp": "財政的に実行可能な選択肢",
+    "example_mm": "ဘဏ္ဍာရေးအရ ဖြစ်နိုင်သော ရွေးချယ်မှု"
+  },
+  {
+    "number": "988",
+    "word": "memorabilia",
+    "meaning_jp": "ボールや写真などのスポーツの記念品",
+    "meaning_mm": "အမှတ်တရပစ္စည်းများ",
+    "example": "sports memorabilia such as balls and photos",
+    "example_jp": "ボールや写真などのスポーツの記念品",
+    "example_mm": "ဘောလုံးနှင့် ဓာတ်ပုံများကဲ့သို့သော အားကစား အမှတ်တရပစ္စည်းများ"
+  },
+  {
+    "number": "989",
+    "word": "deplete",
+    "meaning_jp": "予算を使い果たす",
+    "meaning_mm": "ကုန်ဆုံးစေသည်၊ လျော့နည်းစေသည်",
+    "example": "deplete the budget",
+    "example_jp": "予算を使い果たす",
+    "example_mm": "ဘတ်ဂျက်ကို ကုန်ဆုံးစေသည်"
+  },
+  {
+    "number": "990",
+    "word": "jeopardy",
+    "meaning_jp": "会社は危機にある。",
+    "meaning_mm": "အန္တရာယ်၊ ဘေးအန္တရာယ်",
+    "example": "The company is in jeopardy.",
+    "example_jp": "会社は危機にある。",
+    "example_mm": "ကုမ္ပဏီက အန္တရာယ်ကျရောက်နေတယ်။"
+  },
+  {
+    "number": "991",
+    "word": "nominal",
+    "meaning_jp": "ほんのわずかな費用で",
+    "meaning_mm": "အမည်ခံမျှသာ၊ အနည်းငယ်သော",
+    "example": "for a nominal fee",
+    "example_jp": "ほんのわずかな費用で",
+    "example_mm": "အမည်ခံသလောက် အနည်းငယ်သော အခကြေးငွေဖြင့်"
+  },
+  {
+    "number": "992",
+    "word": "deviate",
+    "meaning_jp": "元々の計画からそれる",
+    "meaning_mm": "သွေဖည်သည်၊ လမ်းလွဲသည်",
+    "example": "deviate from the original plan",
+    "example_jp": "元々の計画からそれる",
+    "example_mm": "မူလအစီအစဉ်မှ သွေဖည်သွားသည်"
+  },
+  {
+    "number": "993",
+    "word": "forfeit",
+    "meaning_jp": "保証金を没収される",
+    "meaning_mm": "ဆုံးရှုံးသည်၊ လက်လွှတ်လိုက်ရသည်",
+    "example": "forfeit the deposit",
+    "example_jp": "保証金を没収される",
+    "example_mm": "အာမခံငွေ ဆုံးရှုံးရသည်"
+  },
+  {
+    "number": "994",
+    "word": "bolster",
+    "meaning_jp": "販売を強化する",
+    "meaning_mm": "မြှင့်တင်သည်၊ အားဖြည့်သည်",
+    "example": "bolster sales",
+    "example_jp": "販売を強化する",
+    "example_mm": "အရောင်းကို မြှင့်တင်သည်"
+  },
+  {
+    "number": "995",
+    "word": "optimal",
+    "meaning_jp": "最高のパフォーマンスを達成する",
+    "meaning_mm": "အကောင်းဆုံးဖြစ်သော၊ အကောင်းမြတ်ဆုံး",
+    "example": "achieve optimal performance",
+    "example_jp": "最高のパフォーマンスを達成する",
+    "example_mm": "အကောင်းဆုံး စွမ်းဆောင်ရည်ကို ရရှိသည်"
+  },
+  {
+    "number": "996",
+    "word": "purveyor",
+    "meaning_jp": "食料品の販売業者",
+    "meaning_mm": "ထောက်ပံ့သူ၊ ရောင်းချသူ",
+    "example": "a purveyor of groceries",
+    "example_jp": "食料品の販売業者",
+    "example_mm": "ကုန်စုံပစ္စည်း ရောင်းချသူ"
+  },
+  {
+    "number": "997",
+    "word": "raffle",
+    "meaning_jp": "福引のチケットを販売する",
+    "meaning_mm": "ထီ၊ မဲဖွင့်ပွဲ",
+    "example": "sell raffle tickets",
+    "example_jp": "福引のチケットを販売する",
+    "example_mm": "ထီလက်မှတ်များ ရောင်းချသည်"
+  },
+  {
+    "number": "998",
+    "word": "ventilation",
+    "meaning_jp": "風通しの悪さ",
+    "meaning_mm": "လေဝင်လေထွက်၊ လေဝင်လေထွက်စနစ်",
+    "example": "poor ventilation",
+    "example_jp": "風通しの悪さ",
+    "example_mm": "လေဝင်လေထွက် ညံ့ဖျင်းမှု"
+  },
+  {
+    "number": "999",
+    "word": "unwavering",
+    "meaning_jp": "皆さんの不断の努力で",
+    "meaning_mm": "မတုန်လှုပ်သော၊ ခိုင်မာသော",
+    "example": "through your unwavering efforts",
+    "example_jp": "皆さんの不断の努力で",
+    "example_mm": "သင်တို့၏ မတုန်လှုပ်သော အားထုတ်မှုဖြင့်"
+  },
+  {
+    "number": "1000",
+    "word": "exponentially",
+    "meaning_jp": "皆さんの語彙は加速度的に増えました。",
+    "meaning_mm": "အဆမတန်လျင်မြန်စွာ၊ ကိန်းဂဏန်းအလိုက်",
+    "example": "Your vocabulary has grown exponentially.",
+    "example_jp": "皆さんの語彙は加速度的に増えました。",
+    "example_mm": "သင်တို့၏ ဝေါဟာရသည် အဆမတန် လျင်မြန်စွာ တိုးလာခဲ့သည်။"
+  }
+]

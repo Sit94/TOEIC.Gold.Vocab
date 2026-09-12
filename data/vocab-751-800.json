@@ -1,0 +1,452 @@
+[
+  {
+    "number": "751",
+    "word": "scenic",
+    "meaning_jp": "眺めがいいルートを行く",
+    "meaning_mm": "ရှုခင်းကောင်းသော၊ လှပသော",
+    "example": "take the scenic route",
+    "example_jp": "眺めがいいルートを行く",
+    "example_mm": "ရှုခင်းကောင်းသော လမ်းကြောင်းအတိုင်း သွားသည်"
+  },
+  {
+    "number": "752",
+    "word": "state-of-the-art",
+    "meaning_jp": "最新式の機器",
+    "meaning_mm": "နောက်ဆုံးပေါ်၊ ခေတ်အမီဆုံး",
+    "example": "state-of-the-art equipment",
+    "example_jp": "最新式の機器",
+    "example_mm": "နောက်ဆုံးပေါ် စက်ပစ္စည်းများ"
+  },
+  {
+    "number": "753",
+    "word": "cuisine",
+    "meaning_jp": "フランス料理",
+    "meaning_mm": "အစားအစာ၊ ဟင်းလျာ",
+    "example": "French cuisine",
+    "example_jp": "フランス料理",
+    "example_mm": "ပြင်သစ် အစားအစာ"
+  },
+  {
+    "number": "754",
+    "word": "acclaimed",
+    "meaning_jp": "評論家に絶賛されている映画",
+    "meaning_mm": "ချီးကျူးခံရသော၊ အောင်မြင်ကျော်ကြားသော",
+    "example": "a critically acclaimed movie",
+    "example_jp": "評論家に絶賛されている映画",
+    "example_mm": "ဝေဖန်သူများ အလွန်ချီးကျူးသော ရုပ်ရှင်"
+  },
+  {
+    "number": "755",
+    "word": "certified",
+    "meaning_jp": "資格を持った建物の検査官",
+    "meaning_mm": "အသိအမှတ်ပြုခံရသော၊ လက်မှတ်ရသော",
+    "example": "a certified building inspector",
+    "example_jp": "資格を持った建物の検査官",
+    "example_mm": "အသိအမှတ်ပြုလက်မှတ်ရသော အဆောက်အအုံ စစ်ဆေးရေးမှူး"
+  },
+  {
+    "number": "756",
+    "word": "medication",
+    "meaning_jp": "風邪の薬",
+    "meaning_mm": "ဆေးဝါး၊ ဆေး",
+    "example": "cold medication",
+    "example_jp": "風邪の薬",
+    "example_mm": "အအေးမိဆေး"
+  },
+  {
+    "number": "757",
+    "word": "overview",
+    "meaning_jp": "概要を説明する",
+    "meaning_mm": "ခြုံငုံသုံးသပ်ချက်၊ အကျဉ်းချုပ်",
+    "example": "give an overview",
+    "example_jp": "概要を説明する",
+    "example_mm": "ခြုံငုံသုံးသပ်ချက် ပေးသည်"
+  },
+  {
+    "number": "758",
+    "word": "resistant",
+    "meaning_jp": "耐熱ガラス",
+    "meaning_mm": "ခံနိုင်ရည်ရှိသော၊ ခုခံနိုင်သော",
+    "example": "heat-resistant glass",
+    "example_jp": "耐熱ガラス",
+    "example_mm": "အပူဒဏ်ခံနိုင်သော ဖန်ခွက်"
+  },
+  {
+    "number": "759",
+    "word": "superb",
+    "meaning_jp": "素晴らしいプレゼンを行う",
+    "meaning_mm": "အလွန်ကောင်းသော၊ ထူးချွန်သော",
+    "example": "give a superb presentation",
+    "example_jp": "素晴らしいプレゼンを行う",
+    "example_mm": "အလွန်ကောင်းသော တင်ဆက်မှု ပြုလုပ်သည်"
+  },
+  {
+    "number": "760",
+    "word": "array",
+    "meaning_jp": "スラリと並んだ本",
+    "meaning_mm": "စုစည်းမှု၊ အစီအရီ",
+    "example": "an array of books",
+    "example_jp": "スラリと並んだ本",
+    "example_mm": "စီတန်းထားသော စာအုပ်များ"
+  },
+  {
+    "number": "761",
+    "word": "informative",
+    "meaning_jp": "役立つセミナー",
+    "meaning_mm": "အချက်အလက်ပြည့်စုံသော",
+    "example": "an informative seminar",
+    "example_jp": "役立つセミナー",
+    "example_mm": "အချက်အလက်ပြည့်စုံသော ဆွေးနွေးပွဲ"
+  },
+  {
+    "number": "762",
+    "word": "nationwide",
+    "meaning_jp": "全国配送",
+    "meaning_mm": "နိုင်ငံတစ်ဝှမ်း၊ တစ်နိုင်ငံလုံး",
+    "example": "nationwide delivery",
+    "example_jp": "全国配送",
+    "example_mm": "နိုင်ငံတစ်ဝှမ်း ပို့ဆောင်မှု"
+  },
+  {
+    "number": "763",
+    "word": "outdated",
+    "meaning_jp": "時代遅れのTOEIC本",
+    "meaning_mm": "ခေတ်မမီတော့သော၊ ဟောင်းနွမ်းသော",
+    "example": "outdated TOEIC books",
+    "example_jp": "時代遅れのTOEIC本",
+    "example_mm": "ခေတ်မမီတော့သော TOEIC စာအုပ်များ"
+  },
+  {
+    "number": "764",
+    "word": "shareholder",
+    "meaning_jp": "株主総会",
+    "meaning_mm": "အစုရှယ်ယာရှင်",
+    "example": "a shareholders' meeting",
+    "example_jp": "株主総会",
+    "example_mm": "အစုရှယ်ယာရှင်များ အစည်းအဝေး"
+  },
+  {
+    "number": "765",
+    "word": "voucher",
+    "meaning_jp": "旅行券",
+    "meaning_mm": "ဘောက်ချာ၊ လက်မှတ်",
+    "example": "a travel voucher",
+    "example_jp": "旅行券",
+    "example_mm": "ခရီးသွား ဘောက်ချာ"
+  },
+  {
+    "number": "766",
+    "word": "adjacent",
+    "meaning_jp": "ホテルに隣接したレストラン",
+    "meaning_mm": "ကပ်လျက်၊ ကပ်ရက်",
+    "example": "the restaurant adjacent to the hotel",
+    "example_jp": "ホテルに隣接したレストラン",
+    "example_mm": "ဟိုတယ်နှင့် ကပ်လျက်ရှိ စားသောက်ဆိုင်"
+  },
+  {
+    "number": "767",
+    "word": "correspondence",
+    "meaning_jp": "前回のやり取りで",
+    "meaning_mm": "စာပေးစာယူမှု၊ စာချွန်လွှာ",
+    "example": "in the previous correspondence",
+    "example_jp": "前回のやり取りで",
+    "example_mm": "ယခင် စာပေးစာယူမှုတွင်"
+  },
+  {
+    "number": "768",
+    "word": "detergent",
+    "meaning_jp": "液体洗剤",
+    "meaning_mm": "ဆပ်ပြာမှုန့်၊ ဆေးရည်",
+    "example": "liquid detergent",
+    "example_jp": "液体洗剤",
+    "example_mm": "အရည်ဆပ်ပြာ"
+  },
+  {
+    "number": "769",
+    "word": "duration",
+    "meaning_jp": "イベントの期間中",
+    "meaning_mm": "ကာလ၊ ကြာချိန်",
+    "example": "for the duration of the event",
+    "example_jp": "イベントの期間中",
+    "example_mm": "ပွဲ၏ ကာလအတွင်း"
+  },
+  {
+    "number": "770",
+    "word": "functional",
+    "meaning_jp": "その機械はまだちゃんと機能している。",
+    "meaning_mm": "အလုပ်လုပ်သော၊ လုပ်ဆောင်နိုင်သော",
+    "example": "The machine is still functional.",
+    "example_jp": "その機械はまだちゃんと機能している。",
+    "example_mm": "အဲဒီစက်က ကောင်းကောင်း အလုပ်လုပ်နေတုန်းပဲ။"
+  },
+  {
+    "number": "771",
+    "word": "hands-on",
+    "meaning_jp": "実地の訓練",
+    "meaning_mm": "လက်တွေ့၊ လက်ဖြင့်ပြုလုပ်သော",
+    "example": "hands-on training",
+    "example_jp": "実地の訓練",
+    "example_mm": "လက်တွေ့ လေ့ကျင့်မှု"
+  },
+  {
+    "number": "772",
+    "word": "intensive",
+    "meaning_jp": "3日間の集中的な研修",
+    "meaning_mm": "အထူးကြပ်မတ်သော၊ ပြင်းထန်သော",
+    "example": "a three-day intensive training seminar",
+    "example_jp": "3日間の集中的な研修",
+    "example_mm": "သုံးရက်တာ အထူးကြပ်မတ် သင်တန်းဆွေးနွေးပွဲ"
+  },
+  {
+    "number": "773",
+    "word": "last-minute",
+    "meaning_jp": "間際になっての変更",
+    "meaning_mm": "နောက်ဆုံးမိနစ်၊ အချိန်နောက်ကျသော",
+    "example": "a last-minute change",
+    "example_jp": "間際になっての変更",
+    "example_mm": "နောက်ဆုံးမိနစ် အပြောင်းအလဲ"
+  },
+  {
+    "number": "774",
+    "word": "thrilled",
+    "meaning_jp": "お会いできてとても感激しています。",
+    "meaning_mm": "အလွန်ဝမ်းသာသော၊ အလွန်စိတ်လှုပ်ရှားသော",
+    "example": "I'm thrilled to see you.",
+    "example_jp": "お会いできてとても感激しています。",
+    "example_mm": "သင့်ကို တွေ့ရတာ အလွန်ဝမ်းသာပါတယ်။"
+  },
+  {
+    "number": "775",
+    "word": "spectacular",
+    "meaning_jp": "壮観な夕焼け",
+    "meaning_mm": "အံ့မခန်းဖွယ်ကောင်းသော၊ ကြည်နူးဖွယ်သော",
+    "example": "a spectacular sunset",
+    "example_jp": "壮観な夕焼け",
+    "example_mm": "အံ့မခန်းဖွယ် နေဝင်ချိန်"
+  },
+  {
+    "number": "776",
+    "word": "entrepreneur",
+    "meaning_jp": "若き起業家",
+    "meaning_mm": "စွန့်ဦးတီထွင်သူ၊ လုပ်ငန်းရှင်",
+    "example": "a young entrepreneur",
+    "example_jp": "若き起業家",
+    "example_mm": "လူငယ် စွန့်ဦးတီထွင်သူ"
+  },
+  {
+    "number": "777",
+    "word": "introductory",
+    "meaning_jp": "入門コース",
+    "meaning_mm": "နိဒါန်း၊ အစပျိုး",
+    "example": "an introductory course",
+    "example_jp": "入門コース",
+    "example_mm": "နိဒါန်း သင်တန်း"
+  },
+  {
+    "number": "778",
+    "word": "minimize",
+    "meaning_jp": "コストを最低限に抑え、利益を最大化する",
+    "meaning_mm": "လျှော့ချသည်၊ အနည်းဆုံးဖြစ်စေသည်",
+    "example": "minimize costs and maximize profits",
+    "example_jp": "コストを最低限に抑え、利益を最大化する",
+    "example_mm": "ကုန်ကျစရိတ်ကို အနည်းဆုံးဖြစ်စေပြီး အမြတ်ကို အများဆုံးဖြစ်စေသည်"
+  },
+  {
+    "number": "779",
+    "word": "prestigious",
+    "meaning_jp": "権威のある賞",
+    "meaning_mm": "ဂုဏ်သတင်းကြီးသော၊ ကျော်ကြားသော",
+    "example": "a prestigious award",
+    "example_jp": "権威のある賞",
+    "example_mm": "ဂုဏ်သတင်းကြီးသော ဆု"
+  },
+  {
+    "number": "780",
+    "word": "screening",
+    "meaning_jp": "映画の上映",
+    "meaning_mm": "ပြသခြင်း၊ စစ်ဆေးခြင်း",
+    "example": "a screening of a film",
+    "example_jp": "映画の上映",
+    "example_mm": "ရုပ်ရှင် ပြသခြင်း"
+  },
+  {
+    "number": "781",
+    "word": "amenity",
+    "meaning_jp": "ジムやプールといった娯楽施設",
+    "meaning_mm": "အဆင်ပြေစေသော အသုံးအဆောင်",
+    "example": "amenities such as gyms and swimming pools",
+    "example_jp": "ジムやプールといった娯楽施設",
+    "example_mm": "အားကစားခန်းမနှင့် ရေကူးကန်ကဲ့သို့သော အဆင်ပြေစေသည့် အရာများ"
+  },
+  {
+    "number": "782",
+    "word": "lengthy",
+    "meaning_jp": "長期にわたるプロセス",
+    "meaning_mm": "ရှည်လျားသော၊ ကြာမြင့်သော",
+    "example": "a lengthy process",
+    "example_jp": "長期にわたるプロセス",
+    "example_mm": "ရှည်လျားသော လုပ်ငန်းစဉ်"
+  },
+  {
+    "number": "783",
+    "word": "compensate",
+    "meaning_jp": "あなたは損害の補償を受けます。",
+    "meaning_mm": "လျော်ကြေးပေးသည်၊ ပြန်လည်ပေးသည်",
+    "example": "You will be compensated for the damage.",
+    "example_jp": "あなたは損害の補償を受けます。",
+    "example_mm": "သင် ပျက်စီးဆုံးရှုံးမှုအတွက် လျော်ကြေး ရရှိပါမည်။"
+  },
+  {
+    "number": "784",
+    "word": "misplace",
+    "meaning_jp": "私は電話を紛失した。",
+    "meaning_mm": "နေရာမှားထားသည်၊ ပျောက်ဆုံးသည်",
+    "example": "I have misplaced my phone.",
+    "example_jp": "私は電話を紛失した。",
+    "example_mm": "ငါ ဖုန်းကို နေရာမှားထားမိတယ်။"
+  },
+  {
+    "number": "785",
+    "word": "notable",
+    "meaning_jp": "注目すべき特徴",
+    "meaning_mm": "ထင်ရှားသော၊ မှတ်သားဖွယ်သော",
+    "example": "a notable feature",
+    "example_jp": "注目すべき特徴",
+    "example_mm": "မှတ်သားဖွယ်ရာ ထူးခြားချက်"
+  },
+  {
+    "number": "786",
+    "word": "subsidiary",
+    "meaning_jp": "日本企業の子会社",
+    "meaning_mm": "လက်အောက်ခံကုမ္ပဏီ",
+    "example": "a subsidiary of a Japanese company",
+    "example_jp": "日本企業の子会社",
+    "example_mm": "ဂျပန်ကုမ္ပဏီတစ်ခု၏ လက်အောက်ခံကုမ္ပဏီ"
+  },
+  {
+    "number": "787",
+    "word": "authentic",
+    "meaning_jp": "本物の芸術作品",
+    "meaning_mm": "စစ်မှန်သော၊ အစစ်အမှန်",
+    "example": "authentic works of art",
+    "example_jp": "本物の芸術作品",
+    "example_mm": "စစ်မှန်သော အနုပညာလက်ရာများ"
+  },
+  {
+    "number": "788",
+    "word": "designated",
+    "meaning_jp": "指定の駐車区域",
+    "meaning_mm": "သတ်မှတ်ထားသော၊ သတ်မှတ်သည်",
+    "example": "a designated parking area",
+    "example_jp": "指定の駐車区域",
+    "example_mm": "သတ်မှတ်ထားသော ကားရပ်နားရာနေရာ"
+  },
+  {
+    "number": "789",
+    "word": "disruption",
+    "meaning_jp": "交通の混乱を引き起こす",
+    "meaning_mm": "အနှောင့်အယှက်၊ ကြန့်ကြာမှု",
+    "example": "cause disruption to traffic",
+    "example_jp": "交通の混乱を引き起こす",
+    "example_mm": "ယာဉ်ကြော အနှောင့်အယှက်ဖြစ်စေသည်"
+  },
+  {
+    "number": "790",
+    "word": "fragile",
+    "meaning_jp": "壊れやすい物",
+    "meaning_mm": "ကွဲလွယ်သော၊ ပျက်စီးလွယ်သော",
+    "example": "fragile items",
+    "example_jp": "壊れやすい物",
+    "example_mm": "ကွဲလွယ်သော ပစ္စည်းများ"
+  },
+  {
+    "number": "791",
+    "word": "ongoing",
+    "meaning_jp": "進行中のプロジェクト",
+    "meaning_mm": "ဆက်လက်ဖြစ်ပေါ်နေသော၊ လုပ်ဆောင်နေသော",
+    "example": "an ongoing project",
+    "example_jp": "進行中のプロジェクト",
+    "example_mm": "လုပ်ဆောင်နေဆဲ စီမံကိန်း"
+  },
+  {
+    "number": "792",
+    "word": "periodical",
+    "meaning_jp": "定期刊行物を出版する",
+    "meaning_mm": "ပုံမှန်ထုတ်ဝေသော စာစောင်",
+    "example": "publish a periodical",
+    "example_jp": "定期刊行物を出版する",
+    "example_mm": "ပုံမှန်ထုတ်ဝေသော စာစောင် ထုတ်ဝေသည်"
+  },
+  {
+    "number": "793",
+    "word": "plumber",
+    "meaning_jp": "配管工に電話する",
+    "meaning_mm": "ရေပိုက်သမား",
+    "example": "call a plumber",
+    "example_jp": "配管工に電話する",
+    "example_mm": "ရေပိုက်သမားကို ဖုန်းဆက်သည်"
+  },
+  {
+    "number": "794",
+    "word": "incur",
+    "meaning_jp": "罰金を受ける",
+    "meaning_mm": "ခံရသည်၊ ကြုံရသည်",
+    "example": "incur a fine",
+    "example_jp": "罰金を受ける",
+    "example_mm": "ဒဏ်ကြေး ခံရသည်"
+  },
+  {
+    "number": "795",
+    "word": "oversee",
+    "meaning_jp": "部門を監督する",
+    "meaning_mm": "ကြီးကြပ်သည်၊ ကြည့်ရှုသည်",
+    "example": "oversee a department",
+    "example_jp": "部門を監督する",
+    "example_mm": "ဌာနတစ်ခုကို ကြီးကြပ်သည်"
+  },
+  {
+    "number": "796",
+    "word": "retrieve",
+    "meaning_jp": "データを取り出す",
+    "meaning_mm": "ပြန်လည်ရယူသည်၊ ရှာဖွေယူသည်",
+    "example": "retrieve the data",
+    "example_jp": "データを取り出す",
+    "example_mm": "ဒေတာကို ပြန်လည်ရယူသည်"
+  },
+  {
+    "number": "797",
+    "word": "reunion",
+    "meaning_jp": "クラスの同窓会に参加する",
+    "meaning_mm": "ပြန်လည်ဆုံဆည်းပွဲ",
+    "example": "attend a class reunion",
+    "example_jp": "クラスの同窓会に参加する",
+    "example_mm": "အတန်းပြန် ဆုံဆည်းပွဲ တက်ရောက်သည်"
+  },
+  {
+    "number": "798",
+    "word": "rigorous",
+    "meaning_jp": "厳格な検査工程",
+    "meaning_mm": "တင်းကျပ်သော၊ ခက်ခဲသော",
+    "example": "a rigorous testing process",
+    "example_jp": "厳格な検査工程",
+    "example_mm": "တင်းကျပ်သော စမ်းသပ်စစ်ဆေးမှု လုပ်ငန်းစဉ်"
+  },
+  {
+    "number": "799",
+    "word": "specification",
+    "meaning_jp": "プロジェクトの仕様書",
+    "meaning_mm": "အသေးစိတ်ဖော်ပြချက်၊ သတ်မှတ်ချက်",
+    "example": "specifications for the project",
+    "example_jp": "プロジェクトの仕様書",
+    "example_mm": "စီမံကိန်းအတွက် အသေးစိတ်သတ်မှတ်ချက်များ"
+  },
+  {
+    "number": "800",
+    "word": "tentative",
+    "meaning_jp": "仮のスケジュール",
+    "meaning_mm": "ယာယီ၊ ယာယီသတ်မှတ်ထားသော",
+    "example": "a tentative schedule",
+    "example_jp": "仮のスケジュール",
+    "example_mm": "ယာယီ အစီအစဉ်"
+  }
+]

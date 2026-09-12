@@ -1,0 +1,452 @@
+[
+  {
+    "number": "051",
+    "word": "display",
+    "meaning_jp": "展示、展示する",
+    "meaning_mm": "ပြသခြင်း၊ ခင်းကျင်းပြသသည်",
+    "example": "products on display",
+    "example_jp": "展示されている製品",
+    "example_mm": "ပြသထားသော ထုတ်ကုန်များ"
+  },
+  {
+    "number": "052",
+    "word": "candidate",
+    "meaning_jp": "候補者",
+    "meaning_mm": "လျှောက်ထားသူ၊ ကိုယ်စားလှယ်လောင်း",
+    "example": "a successful candidate",
+    "example_jp": "合格した候補者",
+    "example_mm": "အောင်မြင်သော လျှောက်ထားသူ"
+  },
+  {
+    "number": "053",
+    "word": "state",
+    "meaning_jp": "述べる",
+    "meaning_mm": "ဖော်ပြသည်၊ ပြောဆိုသည်",
+    "example": "What is stated about the hotel?",
+    "example_jp": "ホテルについて何が述べられていますか。",
+    "example_mm": "ဟိုတယ်အကြောင်း ဘာဖော်ပြထားသနည်း။"
+  },
+  {
+    "number": "054",
+    "word": "exhibit",
+    "meaning_jp": "展示物、展示会、展示する",
+    "meaning_mm": "ပြသထားသောပစ္စည်း၊ ပြပွဲ၊ ပြသသည်",
+    "example": "a museum exhibit",
+    "example_jp": "博物館の展示物",
+    "example_mm": "ပြတိုက် ပြသထားသောပစ္စည်း"
+  },
+  {
+    "number": "055",
+    "word": "session",
+    "meaning_jp": "時間、集まり",
+    "meaning_mm": "အစည်းအဝေး၊ သင်တန်းအချိန်",
+    "example": "a Q&A session",
+    "example_jp": "質疑応答の時間",
+    "example_mm": "မေးဖြေ အစည်းအဝေး"
+  },
+  {
+    "number": "056",
+    "word": "note",
+    "meaning_jp": "注意する、述べる、メモ",
+    "meaning_mm": "သတိပြုသည်၊ ဖော်ပြသည်၊ မှတ်စု",
+    "example": "Please note that prices may change.",
+    "example_jp": "値段は変更になる場合があるので、注意してください。",
+    "example_mm": "စျေးနှုန်းများ ပြောင်းလဲနိုင်သောကြောင့် သတိပြုပါ။"
+  },
+  {
+    "number": "057",
+    "word": "process",
+    "meaning_jp": "処理する、プロセス、過程、処理",
+    "meaning_mm": "ဆောင်ရွက်သည်၊ လုပ်ငန်းစဉ်",
+    "example": "process an order",
+    "example_jp": "注文を処理する",
+    "example_mm": "အော်ဒါကို ဆောင်ရွက်သည်"
+  },
+  {
+    "number": "058",
+    "word": "instruction",
+    "meaning_jp": "説明書、説明、指示",
+    "meaning_mm": "လမ်းညွှန်ချက်၊ ရှင်းလင်းချက်",
+    "example": "Please read all the instructions.",
+    "example_jp": "説明書をすべてお読みください。",
+    "example_mm": "လမ်းညွှန်ချက်အားလုံးကို ဖတ်ပါ။"
+  },
+  {
+    "number": "059",
+    "word": "membership",
+    "meaning_jp": "会員（であること）、会員資格、会員数",
+    "meaning_mm": "အသင်းဝင်ဖြစ်ခြင်း၊ အသင်းဝင်အရေအတွက်",
+    "example": "sign up for membership",
+    "example_jp": "会員登録する",
+    "example_mm": "အသင်းဝင်အဖြစ် စာရင်းသွင်းသည်"
+  },
+  {
+    "number": "060",
+    "word": "agency",
+    "meaning_jp": "代理店、機関",
+    "meaning_mm": "အေဂျင်စီ၊ ကိုယ်စားလှယ်ရုံး",
+    "example": "a travel agency",
+    "example_jp": "旅行代理店",
+    "example_mm": "ခရီးသွား အေဂျင်စီ"
+  },
+  {
+    "number": "061",
+    "word": "based",
+    "meaning_jp": "拠点のある、基づく",
+    "meaning_mm": "အခြေစိုက်သော၊ အခြေခံသော",
+    "example": "a Seattle-based company",
+    "example_jp": "シアトルに拠点を置く会社",
+    "example_mm": "ဆီယက်တဲလ်တွင် အခြေစိုက်သော ကုမ္ပဏီ"
+  },
+  {
+    "number": "062",
+    "word": "facility",
+    "meaning_jp": "施設",
+    "meaning_mm": "အဆောက်အအုံ၊ စက်ရုံ၊ ဌာန",
+    "example": "a research facility",
+    "example_jp": "研究施設",
+    "example_mm": "သုတေသန ဌာန"
+  },
+  {
+    "number": "063",
+    "word": "advance",
+    "meaning_jp": "先行した、事前の、進歩、前進",
+    "meaning_mm": "ကြိုတင်သော၊ တိုးတက်မှု",
+    "example": "advance notice",
+    "example_jp": "事前の告知",
+    "example_mm": "ကြိုတင် အသိပေးချက်"
+  },
+  {
+    "number": "064",
+    "word": "committee",
+    "meaning_jp": "委員会",
+    "meaning_mm": "ကော်မတီ",
+    "example": "join a committee",
+    "example_jp": "委員会に入る",
+    "example_mm": "ကော်မတီတွင် ပါဝင်သည်"
+  },
+  {
+    "number": "065",
+    "word": "successful",
+    "meaning_jp": "成功した、うまく行く",
+    "meaning_mm": "အောင်မြင်သော၊ အဆင်ပြေသော",
+    "example": "The event was successful.",
+    "example_jp": "そのイベントは成功だった。",
+    "example_mm": "အဲဒီပွဲက အောင်မြင်ခဲ့သည်။"
+  },
+  {
+    "number": "066",
+    "word": "excellent",
+    "meaning_jp": "素晴らしい",
+    "meaning_mm": "အလွန်ကောင်းသော၊ ထူးချွန်သော",
+    "example": "excellent service",
+    "example_jp": "素晴らしいサービス",
+    "example_mm": "အလွန်ကောင်းသော ဝန်ဆောင်မှု"
+  },
+  {
+    "number": "067",
+    "word": "industry",
+    "meaning_jp": "産業、業界",
+    "meaning_mm": "စက်မှုလုပ်ငန်း၊ လုပ်ငန်းနယ်ပယ်",
+    "example": "the fashion industry",
+    "example_jp": "ファッション業界",
+    "example_mm": "ဖက်ရှင် လုပ်ငန်းနယ်ပယ်"
+  },
+  {
+    "number": "068",
+    "word": "fee",
+    "meaning_jp": "料金",
+    "meaning_mm": "အခကြေးငွေ၊ ဝန်ဆောင်ခ",
+    "example": "pay a late fee",
+    "example_jp": "延滞料金を払う",
+    "example_mm": "နောက်ကျကြေး ပေးဆောင်သည်"
+  },
+  {
+    "number": "069",
+    "word": "accept",
+    "meaning_jp": "受け入れる",
+    "meaning_mm": "လက်ခံသည်",
+    "example": "accept an offer",
+    "example_jp": "オファーを受け入れる",
+    "example_mm": "ကမ်းလှမ်းချက်ကို လက်ခံသည်"
+  },
+  {
+    "number": "070",
+    "word": "upcoming",
+    "meaning_jp": "今度の",
+    "meaning_mm": "လာမည့်၊ နောက်လာမည့်",
+    "example": "prepare for an upcoming event",
+    "example_jp": "今度のイベントの準備をする",
+    "example_mm": "လာမည့်ပွဲအတွက် ပြင်ဆင်သည်"
+  },
+  {
+    "number": "071",
+    "word": "latest",
+    "meaning_jp": "最新の",
+    "meaning_mm": "နောက်ဆုံးပေါ်၊ အသစ်ဆုံး",
+    "example": "Haruki Murakami's latest novel",
+    "example_jp": "村上春樹の最新の小説",
+    "example_mm": "ဟာရူကီ မူရာကာမီ၏ နောက်ဆုံးဝတ္ထု"
+  },
+  {
+    "number": "072",
+    "word": "submit",
+    "meaning_jp": "提出する",
+    "meaning_mm": "တင်သွင်းသည်၊ ပေးအပ်သည်",
+    "example": "submit a report",
+    "example_jp": "レポートを提出する",
+    "example_mm": "အစီရင်ခံစာ တင်သွင်းသည်"
+  },
+  {
+    "number": "073",
+    "word": "transportation",
+    "meaning_jp": "輸送手段",
+    "meaning_mm": "သယ်ယူပို့ဆောင်ရေး",
+    "example": "use public transportation",
+    "example_jp": "公共の交通機関を利用する",
+    "example_mm": "အများသုံး သယ်ယူပို့ဆောင်ရေး အသုံးပြုသည်"
+  },
+  {
+    "number": "074",
+    "word": "résumé",
+    "meaning_jp": "履歴書",
+    "meaning_mm": "ကိုယ်ရေးရာဇဝင်",
+    "example": "send a résumé",
+    "example_jp": "履歴書を送る",
+    "example_mm": "ကိုယ်ရေးရာဇဝင် ပို့သည်"
+  },
+  {
+    "number": "075",
+    "word": "executive",
+    "meaning_jp": "重役、重役（用）の、高級な",
+    "meaning_mm": "အမှုဆောင်၊ အကြီးတန်း",
+    "example": "a company executive",
+    "example_jp": "会社の重役",
+    "example_mm": "ကုမ္ပဏီ အမှုဆောင်"
+  },
+  {
+    "number": "076",
+    "word": "introduce",
+    "meaning_jp": "導入する、紹介する",
+    "meaning_mm": "မိတ်ဆက်သည်၊ စတင်အသုံးပြုသည်",
+    "example": "introduce a new line of products",
+    "example_jp": "新たな商品ラインを導入する",
+    "example_mm": "ထုတ်ကုန်လိုင်းအသစ် မိတ်ဆက်သည်"
+  },
+  {
+    "number": "077",
+    "word": "previous",
+    "meaning_jp": "前の、以前の",
+    "meaning_mm": "ယခင်၊ အရင်",
+    "example": "have no previous experience",
+    "example_jp": "以前の経験がない",
+    "example_mm": "ယခင် အတွေ့အကြုံ မရှိဘူး"
+  },
+  {
+    "number": "078",
+    "word": "proposal",
+    "meaning_jp": "提案、提案書",
+    "meaning_mm": "အဆိုပြုချက်၊ အဆိုပြုစာ",
+    "example": "review a proposal",
+    "example_jp": "提案に目を通す",
+    "example_mm": "အဆိုပြုချက်ကို ပြန်လည်သုံးသပ်သည်"
+  },
+  {
+    "number": "079",
+    "word": "supply",
+    "meaning_jp": "必需品、供給する",
+    "meaning_mm": "လိုအပ်ပစ္စည်း၊ ထောက်ပံ့သည်",
+    "example": "office supplies",
+    "example_jp": "オフィス用品",
+    "example_mm": "ရုံးသုံး ပစ္စည်းများ"
+  },
+  {
+    "number": "080",
+    "word": "enclose",
+    "meaning_jp": "同封する、囲む",
+    "meaning_mm": "ပူးတွဲထည့်သည်၊ ဝိုင်းရံသည်",
+    "example": "My résumé is enclosed.",
+    "example_jp": "履歴書を同封いたします。",
+    "example_mm": "ကိုယ်ရေးရာဇဝင်ကို ပူးတွဲပေးပို့ပါသည်။"
+  },
+  {
+    "number": "081",
+    "word": "policy",
+    "meaning_jp": "規定、方針",
+    "meaning_mm": "မူဝါဒ၊ စည်းမျဉ်း",
+    "example": "returns policy",
+    "example_jp": "返品規定",
+    "example_mm": "ပစ္စည်းပြန်အမ်း မူဝါဒ"
+  },
+  {
+    "number": "082",
+    "word": "register",
+    "meaning_jp": "登録する、レジ",
+    "meaning_mm": "မှတ်ပုံတင်သည်၊ ကောင်တာ",
+    "example": "register for employee training",
+    "example_jp": "社員研修に登録する",
+    "example_mm": "ဝန်ထမ်းသင်တန်းအတွက် မှတ်ပုံတင်သည်"
+  },
+  {
+    "number": "083",
+    "word": "arrange",
+    "meaning_jp": "手配する、並べる",
+    "meaning_mm": "စီစဉ်သည်၊ စီစဉ်ပေးသည်",
+    "example": "arrange a meeting",
+    "example_jp": "会議の手配をする",
+    "example_mm": "အစည်းအဝေး စီစဉ်သည်"
+  },
+  {
+    "number": "084",
+    "word": "bill",
+    "meaning_jp": "請求書、請求書を送る",
+    "meaning_mm": "ငွေတောင်းခံလွှာ၊ ငွေတောင်းခံသည်",
+    "example": "receive a bill",
+    "example_jp": "請求書を受け取る",
+    "example_mm": "ငွေတောင်းခံလွှာ လက်ခံရရှိသည်"
+  },
+  {
+    "number": "085",
+    "word": "hire",
+    "meaning_jp": "雇う",
+    "meaning_mm": "ငှားရမ်းသည်၊ အလုပ်ခန့်သည်",
+    "example": "hire an assistant",
+    "example_jp": "アシスタントを雇う",
+    "example_mm": "လက်ထောက်တစ်ဦး ခန့်အပ်သည်"
+  },
+  {
+    "number": "086",
+    "word": "approve",
+    "meaning_jp": "承認する、賛成する",
+    "meaning_mm": "အတည်ပြုသည်၊ သဘောတူသည်",
+    "example": "approve a plan",
+    "example_jp": "計画を承認する",
+    "example_mm": "အစီအစဉ်ကို အတည်ပြုသည်"
+  },
+  {
+    "number": "087",
+    "word": "conduct",
+    "meaning_jp": "実行する、実施する",
+    "meaning_mm": "ဆောင်ရွက်သည်၊ ပြုလုပ်သည်",
+    "example": "conduct a survey",
+    "example_jp": "アンケート調査を行う",
+    "example_mm": "စစ်တမ်း ကောက်ယူသည်"
+  },
+  {
+    "number": "088",
+    "word": "opportunity",
+    "meaning_jp": "機会、チャンス",
+    "meaning_mm": "အခွင့်အရေး၊ အခွင့်အလမ်း",
+    "example": "an opportunity to work with you",
+    "example_jp": "あなたとお仕事をする機会",
+    "example_mm": "သင့်နှင့် အလုပ်လုပ်ရန် အခွင့်အရေး"
+  },
+  {
+    "number": "089",
+    "word": "deadline",
+    "meaning_jp": "締め切り、期限",
+    "meaning_mm": "နောက်ဆုံးသတ်မှတ်ရက်၊ သတ်မှတ်ချိန်",
+    "example": "the deadline for the project",
+    "example_jp": "プロジェクトの締め切り",
+    "example_mm": "စီမံကိန်း၏ နောက်ဆုံးသတ်မှတ်ရက်"
+  },
+  {
+    "number": "090",
+    "word": "corporate",
+    "meaning_jp": "企業の、法人の",
+    "meaning_mm": "ကော်ပိုရေးရှင်း၊ ကုမ္ပဏီ",
+    "example": "a corporate trainer",
+    "example_jp": "企業のトレーナー",
+    "example_mm": "ကုမ္ပဏီ သင်တန်းဆရာ"
+  },
+  {
+    "number": "091",
+    "word": "warranty",
+    "meaning_jp": "保証、保証書",
+    "meaning_mm": "အာမခံ၊ အာမခံလက်မှတ်",
+    "example": "a three-year warranty",
+    "example_jp": "3年保証",
+    "example_mm": "၃ နှစ် အာမခံ"
+  },
+  {
+    "number": "092",
+    "word": "necessary",
+    "meaning_jp": "必要な",
+    "meaning_mm": "လိုအပ်သော၊ မဖြစ်မနေလိုအပ်သော",
+    "example": "necessary forms",
+    "example_jp": "必要な用紙",
+    "example_mm": "လိုအပ်သော ဖောင်များ"
+  },
+  {
+    "number": "093",
+    "word": "reserve",
+    "meaning_jp": "予約する、確保する、蓄え",
+    "meaning_mm": "ကြိုတင်မှာယူသည်၊ သိမ်းဆည်းသည်",
+    "example": "reserve a room at a hotel",
+    "example_jp": "ホテルの部屋を予約する",
+    "example_mm": "ဟိုတယ်ခန်း ကြိုတင်မှာယူသည်"
+  },
+  {
+    "number": "094",
+    "word": "resident",
+    "meaning_jp": "住民、住人",
+    "meaning_mm": "နေထိုင်သူ၊ ဒေသခံ",
+    "example": "local residents",
+    "example_jp": "地元の住民",
+    "example_mm": "ဒေသခံ နေထိုင်သူများ"
+  },
+  {
+    "number": "095",
+    "word": "create",
+    "meaning_jp": "創造する、作り出す",
+    "meaning_mm": "ဖန်တီးသည်၊ ဖန်တီးထုတ်လုပ်သည်",
+    "example": "create a new logo",
+    "example_jp": "新しいロゴを作り出す",
+    "example_mm": "လိုဂိုအသစ် ဖန်တီးသည်"
+  },
+  {
+    "number": "096",
+    "word": "inform",
+    "meaning_jp": "知らせる、影響を与える",
+    "meaning_mm": "အသိပေးသည်၊ သက်ရောက်မှုရှိသည်",
+    "example": "We are happy to inform you that",
+    "example_jp": "〜を知らせることができて嬉しい",
+    "example_mm": "သင့်ကို အသိပေးရတာ ဝမ်းသာပါတယ်"
+  },
+  {
+    "number": "097",
+    "word": "allow",
+    "meaning_jp": "許す、可能にする",
+    "meaning_mm": "ခွင့်ပြုသည်၊ ဖြစ်နိုင်စေသည်",
+    "example": "allow customers to pay online",
+    "example_jp": "顧客がオンラインで支払うことを可能にする",
+    "example_mm": "ဖောက်သည်များ အွန်လိုင်းမှ ငွေပေးချေနိုင်စေသည်"
+  },
+  {
+    "number": "098",
+    "word": "mention",
+    "meaning_jp": "述べる、言及する、言及",
+    "meaning_mm": "ဖော်ပြသည်၊ ပြောဆိုသည်",
+    "example": "What problem does the man mention?",
+    "example_jp": "男性はどんな問題について述べていますか。",
+    "example_mm": "အမျိုးသားက ဘယ်ပြဿနာအကြောင်း ဖော်ပြနေသနည်း။"
+  },
+  {
+    "number": "099",
+    "word": "appreciate",
+    "meaning_jp": "感謝する",
+    "meaning_mm": "ကျေးဇူးတင်သည်",
+    "example": "I really appreciate your help.",
+    "example_jp": "助けて頂いて本当に感謝しています。",
+    "example_mm": "ကူညီပေးတဲ့အတွက် တကယ်ကို ကျေးဇူးတင်ပါတယ်။"
+  },
+  {
+    "number": "100",
+    "word": "replacement",
+    "meaning_jp": "交換、交換品、後任",
+    "meaning_mm": "အစားထိုးခြင်း၊ အစားထိုးပစ္စည်း",
+    "example": "replacement parts",
+    "example_jp": "交換部品",
+    "example_mm": "အစားထိုး အစိတ်အပိုင်းများ"
+  }
+]

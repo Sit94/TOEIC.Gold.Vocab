@@ -1,0 +1,452 @@
+[
+  {
+    "number": "501",
+    "word": "fund-raising",
+    "meaning_jp": "資金集めの夕食会",
+    "meaning_mm": "ရန်ပုံငွေရှာဖွေခြင်း",
+    "example": "the fund-raising dinner",
+    "example_jp": "資金集めの夕食会",
+    "example_mm": "ရန်ပုံငွေရှာဖွေရေး ညစာစားပွဲ"
+  },
+  {
+    "number": "502",
+    "word": "accomplished",
+    "meaning_jp": "熟練したデザイナー",
+    "meaning_mm": "ကျွမ်းကျင်သော၊ ပြီးမြောက်သော",
+    "example": "an accomplished designer",
+    "example_jp": "熟練したデザイナー",
+    "example_mm": "ကျွမ်းကျင်သော ဒီဇိုင်နာ"
+  },
+  {
+    "number": "503",
+    "word": "acquire",
+    "meaning_jp": "会社を買収する",
+    "meaning_mm": "ဝယ်ယူသည်၊ ရယူသည်",
+    "example": "acquire a company",
+    "example_jp": "会社を買収する",
+    "example_mm": "ကုမ္ပဏီတစ်ခုကို ဝယ်ယူသည်"
+  },
+  {
+    "number": "504",
+    "word": "accordingly",
+    "meaning_jp": "それに応じて",
+    "meaning_mm": "အညီ၊ လိုက်လျောညီထွေ",
+    "example": "The weather is cold, so dress accordingly.",
+    "example_jp": "気候が寒冷なので、それに応じた服を着てください。",
+    "example_mm": "ရာသီဥတုက အေးတာမို့ အဲဒါနဲ့ လိုက်လျောညီထွေတဲ့ အဝတ်အစား ဝတ်ပါ။"
+  },
+  {
+    "number": "505",
+    "word": "critic",
+    "meaning_jp": "評価家からの好意的なレビュー",
+    "meaning_mm": "ဝေဖန်သူ၊ သုံးသပ်သူ",
+    "example": "positive reviews from critics",
+    "example_jp": "評論家からの好意的なレビュー",
+    "example_mm": "ဝေဖန်သူများထံမှ အပြုသဘောဆောင်သော သုံးသပ်ချက်များ"
+  },
+  {
+    "number": "506",
+    "word": "highlight",
+    "meaning_jp": "違いを強調する",
+    "meaning_mm": "အဓိကအချက်ကို မီးမောင်းထိုးပြသည်",
+    "example": "highlight differences",
+    "example_jp": "違いを強調する",
+    "example_mm": "ကွဲပြားမှုများကို မီးမောင်းထိုးပြသည်"
+  },
+  {
+    "number": "507",
+    "word": "profile",
+    "meaning_jp": "ビジネスパーソンの人物紹介をする",
+    "meaning_mm": "ကိုယ်ရေးအကျဉ်း၊ မိတ်ဆက်",
+    "example": "a businessperson profile",
+    "example_jp": "ビジネスパーソンの人物紹介",
+    "example_mm": "စီးပွားရေးလုပ်ငန်းရှင်၏ ကိုယ်ရေးအကျဉ်း"
+  },
+  {
+    "number": "508",
+    "word": "motivate",
+    "meaning_jp": "社員をやる気にさせる",
+    "meaning_mm": "စိတ်အားထက်သန်စေသည်",
+    "example": "motivate employees",
+    "example_jp": "社員をやる気にさせる",
+    "example_mm": "ဝန်ထမ်းများကို စိတ်အားထက်သန်စေသည်"
+  },
+  {
+    "number": "509",
+    "word": "subscription",
+    "meaning_jp": "雑誌の購読",
+    "meaning_mm": "စာရင်းသွင်းခြင်း၊ စာဖတ်ခ",
+    "example": "a magazine subscription",
+    "example_jp": "雑誌の購読",
+    "example_mm": "မဂ္ဂဇင်း စာရင်းသွင်းမှု"
+  },
+  {
+    "number": "510",
+    "word": "encounter",
+    "meaning_jp": "重大な問題に直面する",
+    "meaning_mm": "ကြုံတွေ့သည်၊ ရင်ဆိုင်ရသည်",
+    "example": "encounter a serious problem",
+    "example_jp": "重大な問題に直面する",
+    "example_mm": "ကြီးလေးသော ပြဿနာတစ်ခုကို ရင်ဆိုင်ရသည်"
+  },
+  {
+    "number": "511",
+    "word": "luxury",
+    "meaning_jp": "高級セダン車",
+    "meaning_mm": "ဇိမ်ခံပစ္စည်း၊ ခမ်းနားသော",
+    "example": "a luxury sedan",
+    "example_jp": "高級セダン車",
+    "example_mm": "ဇိမ်ခံ ဆီဒန်ကား"
+  },
+  {
+    "number": "512",
+    "word": "prohibit",
+    "meaning_jp": "禁止する",
+    "meaning_mm": "တားမြစ်သည်၊ ပိတ်ပင်သည်",
+    "example": "Street parking is prohibited in this area.",
+    "example_jp": "路上駐車はこの地域では禁止されています。",
+    "example_mm": "ဒီဒေသမှာ လမ်းဘေးကား ရပ်ခြင်း တားမြစ်ထားပါတယ်။"
+  },
+  {
+    "number": "513",
+    "word": "resolve",
+    "meaning_jp": "解決する",
+    "meaning_mm": "ဖြေရှင်းသည်၊ ဆုံးဖြတ်သည်",
+    "example": "The problem was resolved.",
+    "example_jp": "問題は解決された。",
+    "example_mm": "ပြဿနာကို ဖြေရှင်းပြီးပါပြီ။"
+  },
+  {
+    "number": "514",
+    "word": "restore",
+    "meaning_jp": "復旧させる、取り戻す、修復する",
+    "meaning_mm": "ပြန်လည်ကောင်းမွန်စေသည်၊ ပြုပြင်သည်",
+    "example": "Telephone service was restored this morning.",
+    "example_jp": "通話サービスは今日の午前中に復旧した。",
+    "example_mm": "တယ်လီဖုန်းဝန်ဆောင်မှုက ဒီမနက် ပြန်လည်ကောင်းမွန်လာတယ်။"
+  },
+  {
+    "number": "515",
+    "word": "surrounding",
+    "meaning_jp": "周辺の地域",
+    "meaning_mm": "ပတ်ဝန်းကျင်၊ အနီးတစ်ဝိုက်",
+    "example": "surrounding areas",
+    "example_jp": "周辺の地域",
+    "example_mm": "ပတ်ဝန်းကျင် ဒေသများ"
+  },
+  {
+    "number": "516",
+    "word": "alert",
+    "meaning_jp": "（人などに）警告する、警戒する",
+    "meaning_mm": "သတိပေးသည်၊ နိုးကြားစေသည်",
+    "example": "Text to the problem",
+    "example_jp": "テックスに問題を知らせる",
+    "example_mm": "တက်စ်ကို ပြဿနာအကြောင်း အသိပေးသည်"
+  },
+  {
+    "number": "517",
+    "word": "anticipated",
+    "meaning_jp": "非常に期待されている新刊",
+    "meaning_mm": "မျှော်လင့်ထားသော၊ မျှော်မှန်းထားသော",
+    "example": "the highly anticipated new book",
+    "example_jp": "非常に期待されている新刊",
+    "example_mm": "အလွန်မျှော်လင့်ထားသော စာအုပ်အသစ်"
+  },
+  {
+    "number": "518",
+    "word": "consistently",
+    "meaning_jp": "常にトップ10の大学にランクインしている",
+    "meaning_mm": "တသမတ်တည်း၊ အမြဲတမ်း",
+    "example": "consistently rank among the top 10 universities",
+    "example_jp": "常にトップ10の大学にランクインしている",
+    "example_mm": "ထိပ်တန်း ၁၀ တက္ကသိုလ်စာရင်းတွင် အမြဲပါဝင်သည်"
+  },
+  {
+    "number": "519",
+    "word": "dairy",
+    "meaning_jp": "無脂肪の乳製品",
+    "meaning_mm": "နို့ထွက်ပစ္စည်း",
+    "example": "fat-free dairy products",
+    "example_jp": "無脂肪の乳製品",
+    "example_mm": "အဆီမပါသော နို့ထွက်ပစ္စည်းများ"
+  },
+  {
+    "number": "520",
+    "word": "phase",
+    "meaning_jp": "第一段階",
+    "meaning_mm": "အဆင့်၊ အဆင့်တစ်ခု",
+    "example": "the first phase",
+    "example_jp": "第一段階",
+    "example_mm": "ပထမအဆင့်"
+  },
+  {
+    "number": "521",
+    "word": "manuscript",
+    "meaning_jp": "原稿を編集する",
+    "meaning_mm": "စာမူ၊ မူကြမ်း",
+    "example": "edit a manuscript",
+    "example_jp": "原稿を編集する",
+    "example_mm": "စာမူကို တည်းဖြတ်သည်"
+  },
+  {
+    "number": "522",
+    "word": "overtime",
+    "meaning_jp": "長時間残業する",
+    "meaning_mm": "အချိန်ပို၊ အချိန်ပိုလုပ်သည်",
+    "example": "work a lot of overtime",
+    "example_jp": "長時間残業する",
+    "example_mm": "အချိန်ပို အများကြီး လုပ်သည်"
+  },
+  {
+    "number": "523",
+    "word": "premises",
+    "meaning_jp": "敷地内で",
+    "meaning_mm": "အဆောက်အအုံနှင့် မြေကွက်",
+    "example": "on the premises",
+    "example_jp": "敷地内で",
+    "example_mm": "ခြံဝင်းအတွင်းတွင်"
+  },
+  {
+    "number": "524",
+    "word": "utility",
+    "meaning_jp": "家賃にはすべての公共料金が含まれています。",
+    "meaning_mm": "အသုံးအဆောင်၊ အများပြည်သူသုံး",
+    "example": "The rent includes all utilities.",
+    "example_jp": "家賃にはすべての公共料金が含まれています。",
+    "example_mm": "အိမ်ငှားခတွင် အများပြည်သူသုံး ဝန်ဆောင်မှုအားလုံး ပါဝင်သည်။"
+  },
+  {
+    "number": "525",
+    "word": "laundry",
+    "meaning_jp": "洗濯部屋",
+    "meaning_mm": "အဝတ်လျှော်ခန်း",
+    "example": "a laundry room",
+    "example_jp": "洗濯部屋",
+    "example_mm": "အဝတ်လျှော်ခန်း"
+  },
+  {
+    "number": "526",
+    "word": "enthusiastic",
+    "meaning_jp": "私はそのプロジェクトに乗り気です。",
+    "meaning_mm": "စိတ်အားထက်သန်သော၊ စိတ်ပါဝင်စားသော",
+    "example": "I am enthusiastic about the project.",
+    "example_jp": "私はそのプロジェクトに乗り気です。",
+    "example_mm": "ငါ အဲဒီစီမံကိန်းကို စိတ်အားထက်သန်နေတယ်။"
+  },
+  {
+    "number": "527",
+    "word": "outline",
+    "meaning_jp": "方針の概要を説明する",
+    "meaning_mm": "အကြမ်းဖျင်း ဖော်ပြချက်",
+    "example": "outline a policy",
+    "example_jp": "方針の概要を説明する",
+    "example_mm": "မူဝါဒတစ်ခု၏ အကြမ်းဖျင်း ဖော်ပြသည်"
+  },
+  {
+    "number": "528",
+    "word": "packet",
+    "meaning_jp": "袋入りの資料",
+    "meaning_mm": "အထုပ်၊ ပါကတ်",
+    "example": "a packet of materials",
+    "example_jp": "袋入りの資料",
+    "example_mm": "အထုပ်လိုက် စာရွက်စာတမ်းများ"
+  },
+  {
+    "number": "529",
+    "word": "retain",
+    "meaning_jp": "レシートを保管する",
+    "meaning_mm": "သိမ်းဆည်းသည်၊ ထိန်းသိမ်းသည်",
+    "example": "retain a receipt",
+    "example_jp": "レシートを保管する",
+    "example_mm": "ပြေစာကို သိမ်းဆည်းသည်"
+  },
+  {
+    "number": "530",
+    "word": "belongings",
+    "meaning_jp": "所持品をお持ちかご確認ください。",
+    "meaning_mm": "ပိုင်ဆိုင်ပစ္စည်းများ၊ ကိုယ်ပိုင်ပစ္စည်းများ",
+    "example": "Make sure you have all your belongings.",
+    "example_jp": "所持品をお持ちかご確認ください。",
+    "example_mm": "သင့်ကိုယ်ပိုင်ပစ္စည်းအားလုံး ပါမပါ စစ်ဆေးပါ။"
+  },
+  {
+    "number": "531",
+    "word": "conservation",
+    "meaning_jp": "エネルギー節約",
+    "meaning_mm": "ထိန်းသိမ်းရေး၊ ထိန်းသိမ်းခြင်း",
+    "example": "energy conservation",
+    "example_jp": "エネルギー節約",
+    "example_mm": "စွမ်းအင် ချွေတာရေး"
+  },
+  {
+    "number": "532",
+    "word": "routine",
+    "meaning_jp": "普段行われているメンテナンス作業",
+    "meaning_mm": "လုပ်ရိုးလုပ်စဉ်၊ ပုံမှန်လုပ်ငန်း",
+    "example": "routine maintenance work",
+    "example_jp": "普段行われているメンテナンス作業",
+    "example_mm": "ပုံမှန် ပြုပြင်ထိန်းသိမ်းရေး လုပ်ငန်း"
+  },
+  {
+    "number": "533",
+    "word": "urban",
+    "meaning_jp": "都市部に住む",
+    "meaning_mm": "မြို့ပြ၊ မြို့တွင်း",
+    "example": "live in urban areas",
+    "example_jp": "都市部に住む",
+    "example_mm": "မြို့ပြဒေသများတွင် နေထိုင်သည်"
+  },
+  {
+    "number": "534",
+    "word": "workforce",
+    "meaning_jp": "全従業員の50%",
+    "meaning_mm": "လုပ်သားအင်အား၊ ဝန်ထမ်းအင်အား",
+    "example": "50 percent of the workforce",
+    "example_jp": "全従業員の50%",
+    "example_mm": "လုပ်သားအင်အား၏ ၅၀ ရာခိုင်နှုန်း"
+  },
+  {
+    "number": "535",
+    "word": "biography",
+    "meaning_jp": "著者の簡単な人物紹介（略歴）",
+    "meaning_mm": "အတ္ထုပ္ပတ္တိ",
+    "example": "a brief biography of the author",
+    "example_jp": "著者の簡単な人物紹介（略歴）",
+    "example_mm": "စာရေးဆရာ၏ အတိုချုံး အတ္ထုပ္ပတ္တိ"
+  },
+  {
+    "number": "536",
+    "word": "ownership",
+    "meaning_jp": "その会社は最近、所有権が移動した。",
+    "meaning_mm": "ပိုင်ဆိုင်မှု၊ ပိုင်ဆိုင်ခွင့်",
+    "example": "The company has recently changed ownership.",
+    "example_jp": "その会社は最近、所有権が移動した。",
+    "example_mm": "အဲဒီကုမ္ပဏီရဲ့ ပိုင်ဆိုင်မှုက မကြာသေးမီက ပြောင်းလဲသွားတယ်။"
+  },
+  {
+    "number": "537",
+    "word": "pastry",
+    "meaning_jp": "焼き菓子のシェフ",
+    "meaning_mm": "မုန့်၊ ကိတ်မုန့်",
+    "example": "a pastry chef",
+    "example_jp": "焼き菓子のシェフ",
+    "example_mm": "မုန့်ဖုတ် စားဖိုမှူး"
+  },
+  {
+    "number": "538",
+    "word": "tenant",
+    "meaning_jp": "建物の管理人も入居者も",
+    "meaning_mm": "ငှားရမ်းနေထိုင်သူ",
+    "example": "both building managers and tenants",
+    "example_jp": "建物の管理人も入居者も",
+    "example_mm": "အဆောက်အအုံ မန်နေဂျာများနှင့် ငှားရမ်းနေထိုင်သူများ နှစ်ဦးစလုံး"
+  },
+  {
+    "number": "539",
+    "word": "workload",
+    "meaning_jp": "仕事量を減らす",
+    "meaning_mm": "အလုပ်ပမာဏ",
+    "example": "reduce the workload",
+    "example_jp": "仕事量を減らす",
+    "example_mm": "အလုပ်ပမာဏ လျှော့ချသည်"
+  },
+  {
+    "number": "540",
+    "word": "sufficient",
+    "meaning_jp": "十分な時間",
+    "meaning_mm": "လုံလောက်သော၊ ပြည့်စုံသော",
+    "example": "sufficient time",
+    "example_jp": "十分な時間",
+    "example_mm": "လုံလောက်သော အချိန်"
+  },
+  {
+    "number": "541",
+    "word": "characteristic",
+    "meaning_jp": "その製品の主な特徴",
+    "meaning_mm": "ဝိသေသလက္ခဏာ၊ ထူးခြားချက်",
+    "example": "main characteristics of the product",
+    "example_jp": "その製品の主な特徴",
+    "example_mm": "ထုတ်ကုန်၏ အဓိက ထူးခြားချက်များ"
+  },
+  {
+    "number": "542",
+    "word": "combined",
+    "meaning_jp": "共同の努力",
+    "meaning_mm": "ပေါင်းစပ်၊ စုပေါင်း",
+    "example": "a combined effort",
+    "example_jp": "共同の努力",
+    "example_mm": "စုပေါင်းအားထုတ်မှု"
+  },
+  {
+    "number": "543",
+    "word": "conclude",
+    "meaning_jp": "イベントはコンサートで締めくくられる予定です。",
+    "meaning_mm": "နိဂုံးချုပ်သည်၊ အဆုံးသတ်သည်",
+    "example": "The event will conclude with a concert.",
+    "example_jp": "イベントはコンサートで締めくくられる予定です。",
+    "example_mm": "ပွဲကို ဂီတဖျော်ဖြေပွဲနဲ့ အဆုံးသတ်မှာ ဖြစ်ပါတယ်။"
+  },
+  {
+    "number": "544",
+    "word": "associate",
+    "meaning_jp": "家の購入に関連したコスト",
+    "meaning_mm": "ဆက်စပ်သည်၊ ပေါင်းသင်းသည်",
+    "example": "costs associated with buying a house",
+    "example_jp": "家の購入に関連したコスト",
+    "example_mm": "အိမ်ဝယ်ခြင်းနှင့် ဆက်စပ်သော ကုန်ကျစရိတ်များ"
+  },
+  {
+    "number": "545",
+    "word": "conflict",
+    "meaning_jp": "スケジュールがかち合ったので",
+    "meaning_mm": "ပဋိပက္ခ၊ ထိပ်တိုက်တွေ့မှု",
+    "example": "because of a scheduling conflict",
+    "example_jp": "スケジュールがかち合ったので",
+    "example_mm": "အစီအစဉ် ထိပ်တိုက်တွေ့မှုကြောင့်"
+  },
+  {
+    "number": "546",
+    "word": "investment",
+    "meaning_jp": "不動産投資",
+    "meaning_mm": "ရင်းနှီးမြှုပ်နှံမှု",
+    "example": "real estate investment",
+    "example_jp": "不動産投資",
+    "example_mm": "အိမ်ခြံမြေ ရင်းနှီးမြှုပ်နှံမှု"
+  },
+  {
+    "number": "547",
+    "word": "physician",
+    "meaning_jp": "医師に診てもらう",
+    "meaning_mm": "သမားတော်၊ ဆရာဝန်",
+    "example": "see a physician",
+    "example_jp": "医師に診てもらう",
+    "example_mm": "ဆရာဝန်နှင့် ပြသသည်"
+  },
+  {
+    "number": "548",
+    "word": "token",
+    "meaning_jp": "〜への我々の感謝の印として",
+    "meaning_mm": "အမှတ်လက္ခဏာ၊ သင်္ကေတ",
+    "example": "as a token of our appreciation for",
+    "example_jp": "〜への我々の感謝の印として",
+    "example_mm": "ကျွန်ုပ်တို့၏ ကျေးဇူးတင်မှု အမှတ်လက္ခဏာအနေဖြင့်"
+  },
+  {
+    "number": "549",
+    "word": "partial",
+    "meaning_jp": "部分返金",
+    "meaning_mm": "တစ်စိတ်တစ်ပိုင်း၊ အပိုင်းအစ",
+    "example": "a partial refund",
+    "example_jp": "部分返金",
+    "example_mm": "တစ်စိတ်တစ်ပိုင်း ငွေပြန်အမ်းခြင်း"
+  },
+  {
+    "number": "550",
+    "word": "resume",
+    "meaning_jp": "操業を再開する",
+    "meaning_mm": "ပြန်လည်စတင်သည်၊ ဆက်လုပ်သည်",
+    "example": "resume operations",
+    "example_jp": "操業を再開する",
+    "example_mm": "လုပ်ငန်းလည်ပတ်မှု ပြန်လည်စတင်သည်"
+  }
+]

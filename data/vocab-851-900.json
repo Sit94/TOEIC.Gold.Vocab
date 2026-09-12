@@ -1,0 +1,452 @@
+[
+  {
+    "number": "851",
+    "word": "prosperous",
+    "meaning_jp": "栄えている町",
+    "meaning_mm": "ထွန်းကားသော၊ ကြီးပွားသော",
+    "example": "a prosperous town",
+    "example_jp": "栄えている町",
+    "example_mm": "ထွန်းကားသော မြို့"
+  },
+  {
+    "number": "852",
+    "word": "quote",
+    "meaning_jp": "最初の提示価格",
+    "meaning_mm": "ကိုးကားသည်၊ စျေးနှုန်းဖော်ပြသည်",
+    "example": "the original quote",
+    "example_jp": "最初の提示価格",
+    "example_mm": "မူရင်း စျေးနှုန်းဖော်ပြချက်"
+  },
+  {
+    "number": "853",
+    "word": "reluctant",
+    "meaning_jp": "男性が気乗りしないことは何ですか。",
+    "meaning_mm": "မလိုလားသော၊ တုံ့ဆိုင်းသော",
+    "example": "What is the man reluctant to do?",
+    "example_jp": "男性が気乗りしないことは何ですか。",
+    "example_mm": "အမျိုးသားက ဘာလုပ်ဖို့ မလိုလားတာလဲ။"
+  },
+  {
+    "number": "854",
+    "word": "remedy",
+    "meaning_jp": "不振の売り上げに対する改善策",
+    "meaning_mm": "ဖြေရှင်းနည်း၊ ကုစားနည်း",
+    "example": "a remedy for slow sales",
+    "example_jp": "不振の売り上げに対する改善策",
+    "example_mm": "အရောင်းနှေးကွေးမှုအတွက် ဖြေရှင်းနည်း"
+  },
+  {
+    "number": "855",
+    "word": "solely",
+    "meaning_jp": "結論に一人で責任を持つ",
+    "meaning_mm": "သီးသန့်၊ တစ်ဦးတည်း",
+    "example": "be solely responsible for the decision",
+    "example_jp": "結論に一人で責任を持つ",
+    "example_mm": "ဆုံးဖြတ်ချက်အတွက် တစ်ဦးတည်း တာဝန်ရှိသည်"
+  },
+  {
+    "number": "856",
+    "word": "vital",
+    "meaning_jp": "良好なコミュニケーションが職場では不可欠だ。",
+    "meaning_mm": "အလွန်အရေးကြီးသော၊ မရှိမဖြစ်လိုအပ်သော",
+    "example": "Good communication is vital in the workplace.",
+    "example_jp": "良好なコミュニケーションが職場では不可欠だ。",
+    "example_mm": "အလုပ်ခွင်မှာ ကောင်းမွန်သော ဆက်သွယ်ပြောဆိုမှုက အလွန်အရေးကြီးပါတယ်။"
+  },
+  {
+    "number": "857",
+    "word": "revitalize",
+    "meaning_jp": "地域を再活性化する",
+    "meaning_mm": "ပြန်လည်ရှင်သန်စေသည်",
+    "example": "revitalize a community",
+    "example_jp": "地域を再活性化する",
+    "example_mm": "လူ့အဖွဲ့အစည်းကို ပြန်လည်ရှင်သန်စေသည်"
+  },
+  {
+    "number": "858",
+    "word": "commence",
+    "meaning_jp": "建設作業は9月に始まる。",
+    "meaning_mm": "စတင်သည်၊ စတင်ဆောင်ရွက်သည်",
+    "example": "Construction will commence in September.",
+    "example_jp": "建設作業は9月に始まる。",
+    "example_mm": "ဆောက်လုပ်ရေး လုပ်ငန်းက စက်တင်ဘာလမှာ စတင်ပါမည်။"
+  },
+  {
+    "number": "859",
+    "word": "countless",
+    "meaning_jp": "数えきれないほど何度も",
+    "meaning_mm": "မရေတွက်နိုင်သော၊ အများအပြား",
+    "example": "countless times",
+    "example_jp": "数えきれないほど何度も",
+    "example_mm": "မရေတွက်နိုင်လောက်အောင် အကြိမ်ကြိမ်"
+  },
+  {
+    "number": "860",
+    "word": "devise",
+    "meaning_jp": "方法を考案する",
+    "meaning_mm": "ကြံစည်သည်၊ တီထွင်သည်",
+    "example": "devise a method",
+    "example_jp": "方法を考案する",
+    "example_mm": "နည်းလမ်းတစ်ခုကို ကြံစည်သည်"
+  },
+  {
+    "number": "861",
+    "word": "execute",
+    "meaning_jp": "計画を実行する",
+    "meaning_mm": "အကောင်အထည်ဖော်သည်၊ ဆောင်ရွက်သည်",
+    "example": "execute a plan",
+    "example_jp": "計画を実行する",
+    "example_mm": "အစီအစဉ်ကို အကောင်အထည်ဖော်သည်"
+  },
+  {
+    "number": "862",
+    "word": "foster",
+    "meaning_jp": "良い労働環境を促進する",
+    "meaning_mm": "မြှင့်တင်သည်၊ အားပေးသည်",
+    "example": "foster a good work environment",
+    "example_jp": "良い労働環境を促進する",
+    "example_mm": "ကောင်းမွန်သော အလုပ်ခွင် ပတ်ဝန်းကျင်ကို မြှင့်တင်သည်"
+  },
+  {
+    "number": "863",
+    "word": "initiate",
+    "meaning_jp": "交渉を開始する",
+    "meaning_mm": "စတင်သည်၊ စတင်ဆောင်ရွက်သည်",
+    "example": "initiate a negotiation",
+    "example_jp": "交渉を開始する",
+    "example_mm": "ညှိနှိုင်းမှုကို စတင်သည်"
+  },
+  {
+    "number": "864",
+    "word": "insight",
+    "meaning_jp": "問題の原因に対する洞察",
+    "meaning_mm": "ထိုးထွင်းသိမြင်မှု၊ အမြင်",
+    "example": "insight into the cause of the problem",
+    "example_jp": "問題の原因に対する洞察",
+    "example_mm": "ပြဿနာ၏ အကြောင်းရင်းအပေါ် ထိုးထွင်းသိမြင်မှု"
+  },
+  {
+    "number": "865",
+    "word": "misleading",
+    "meaning_jp": "その広告は誤解を招く恐れがあった。",
+    "meaning_mm": "လွဲမှားစေသော၊ မှားယွင်းစေသော",
+    "example": "The advertisement was misleading.",
+    "example_jp": "その広告は誤解を招く恐れがあった。",
+    "example_mm": "အဲဒီကြော်ငြာက လွဲမှားစေနိုင်တဲ့ အနေအထားဖြစ်ခဲ့တယ်။"
+  },
+  {
+    "number": "866",
+    "word": "precaution",
+    "meaning_jp": "予防措置として",
+    "meaning_mm": "ကြိုတင်ကာကွယ်မှု",
+    "example": "as a precaution",
+    "example_jp": "予防措置として",
+    "example_mm": "ကြိုတင်ကာကွယ်မှုအနေဖြင့်"
+  },
+  {
+    "number": "867",
+    "word": "transparent",
+    "meaning_jp": "透明のガラス",
+    "meaning_mm": "ဖောက်ထွင်းမြင်ရသော၊ ရှင်းလင်းသော",
+    "example": "transparent glass",
+    "example_jp": "透明のガラス",
+    "example_mm": "ဖောက်ထွင်းမြင်ရသော ဖန်ခွက်"
+  },
+  {
+    "number": "868",
+    "word": "coincide",
+    "meaning_jp": "そのイベントは私の誕生日と重なっている。",
+    "meaning_mm": "တိုက်ဆိုင်သည်၊ ကိုက်ညီသည်",
+    "example": "The event coincides with my birthday.",
+    "example_jp": "そのイベントは私の誕生日と重なっている。",
+    "example_mm": "အဲဒီပွဲက ငါ့မွေးနေ့နဲ့ တိုက်ဆိုင်နေတယ်။"
+  },
+  {
+    "number": "869",
+    "word": "concise",
+    "meaning_jp": "そのレポートはわかりやすく簡潔だった。",
+    "meaning_mm": "ကျစ်လျစ်သော၊ တိုတောင်းသော",
+    "example": "The report was clear and concise.",
+    "example_jp": "そのレポートはわかりやすく簡潔だった。",
+    "example_mm": "အဲဒီအစီရင်ခံစာက ရှင်းလင်းပြီး ကျစ်လျစ်တယ်။"
+  },
+  {
+    "number": "870",
+    "word": "delegation",
+    "meaning_jp": "日本からの技術者の代表団",
+    "meaning_mm": "ကိုယ်စားလှယ်အဖွဲ့",
+    "example": "a delegation of engineers from Japan",
+    "example_jp": "日本からの技術者の代表団",
+    "example_mm": "ဂျပန်မှ အင်ဂျင်နီယာများ၏ ကိုယ်စားလှယ်အဖွဲ့"
+  },
+  {
+    "number": "871",
+    "word": "diagnosis",
+    "meaning_jp": "医療の診断を受ける",
+    "meaning_mm": "ရောဂါရှာဖွေတွေ့ရှိမှု၊ စစ်ဆေးတွေ့ရှိမှု",
+    "example": "receive a medical diagnosis",
+    "example_jp": "医療の診断を受ける",
+    "example_mm": "ဆေးဘက်ဆိုင်ရာ ရောဂါရှာဖွေတွေ့ရှိမှု ခံယူသည်"
+  },
+  {
+    "number": "872",
+    "word": "enforce",
+    "meaning_jp": "新しい規則を施行する",
+    "meaning_mm": "ပြဋ္ဌာန်းသည်၊ အကောင်အထည်ဖော်သည်",
+    "example": "enforce a new policy",
+    "example_jp": "新しい規則を施行する",
+    "example_mm": "မူဝါဒအသစ်ကို အကောင်အထည်ဖော်သည်"
+  },
+  {
+    "number": "873",
+    "word": "hypothesis",
+    "meaning_jp": "仮説を証明する",
+    "meaning_mm": "အယူအဆ၊ ယူဆချက်",
+    "example": "prove a hypothesis",
+    "example_jp": "仮説を証明する",
+    "example_mm": "ယူဆချက်ကို သက်သေပြသည်"
+  },
+  {
+    "number": "874",
+    "word": "predecessor",
+    "meaning_jp": "前任者と異なる",
+    "meaning_mm": "ရှေ့လူ၊ ယခင်လူ",
+    "example": "different from the predecessor",
+    "example_jp": "前任者と異なる",
+    "example_mm": "ယခင်လူနှင့် မတူညီဘူး"
+  },
+  {
+    "number": "875",
+    "word": "prominently",
+    "meaning_jp": "雑誌に目立って掲載されている",
+    "meaning_mm": "ထင်ရှားစွာ၊ ထင်ရှားသော",
+    "example": "displayed prominently in a magazine",
+    "example_jp": "雑誌に目立って掲載されている",
+    "example_mm": "မဂ္ဂဇင်းတွင် ထင်ရှားစွာ ဖော်ပြထားသည်"
+  },
+  {
+    "number": "876",
+    "word": "adoption",
+    "meaning_jp": "新しい方法の採用",
+    "meaning_mm": "လက်ခံကျင့်သုံးမှု၊ မွေးစားမှု",
+    "example": "adoption of a new method",
+    "example_jp": "新しい方法の採用",
+    "example_mm": "နည်းလမ်းအသစ်ကို လက်ခံကျင့်သုံးမှု"
+  },
+  {
+    "number": "877",
+    "word": "accelerate",
+    "meaning_jp": "成長を加速させる",
+    "meaning_mm": "အရှိန်မြှင့်သည်၊ မြန်ဆန်စေသည်",
+    "example": "accelerate growth",
+    "example_jp": "成長を加速させる",
+    "example_mm": "တိုးတက်မှုကို အရှိန်မြှင့်သည်"
+  },
+  {
+    "number": "878",
+    "word": "adhere",
+    "meaning_jp": "手順に忠実に従う",
+    "meaning_mm": "လိုက်နာသည်၊ လိုက်လျောသည်",
+    "example": "adhere to a procedure",
+    "example_jp": "手順に忠実に従う",
+    "example_mm": "လုပ်ထုံးလုပ်နည်းကို လိုက်နာသည်"
+  },
+  {
+    "number": "879",
+    "word": "allocate",
+    "meaning_jp": "プロジェクトに十分な資金を割り当てる",
+    "meaning_mm": "ခွဲဝေချထားသည်၊ သတ်မှတ်ပေးသည်",
+    "example": "allocate sufficient funds for a project",
+    "example_jp": "プロジェクトに十分な資金を割り当てる",
+    "example_mm": "စီမံကိန်းအတွက် လုံလောက်သော ရန်ပုံငွေကို ခွဲဝေချထားသည်"
+  },
+  {
+    "number": "880",
+    "word": "appraisal",
+    "meaning_jp": "家の査定",
+    "meaning_mm": "အကဲဖြတ်မှု၊ သုံးသပ်မှု",
+    "example": "an appraisal of a house",
+    "example_jp": "家の査定",
+    "example_mm": "အိမ်တစ်လုံး၏ အကဲဖြတ်မှု"
+  },
+  {
+    "number": "881",
+    "word": "compile",
+    "meaning_jp": "参加者のリストを取りまとめる",
+    "meaning_mm": "စုစည်းသည်၊ ပြုစုသည်",
+    "example": "compile a list of participants",
+    "example_jp": "参加者のリストを取りまとめる",
+    "example_mm": "ပါဝင်သူများ၏ စာရင်းကို စုစည်းသည်"
+  },
+  {
+    "number": "882",
+    "word": "conform",
+    "meaning_jp": "国際基準に合わせる",
+    "meaning_mm": "လိုက်နာသည်၊ ကိုက်ညီသည်",
+    "example": "conform to international standards",
+    "example_jp": "国際基準に合わせる",
+    "example_mm": "နိုင်ငံတကာ စံနှုန်းများနှင့် ကိုက်ညီသည်"
+  },
+  {
+    "number": "883",
+    "word": "constraint",
+    "meaning_jp": "時間に制約があるため",
+    "meaning_mm": "ကန့်သတ်ချက်၊ အတားအဆီး",
+    "example": "due to time constraints",
+    "example_jp": "時間に制約があるため",
+    "example_mm": "အချိန်ကန့်သတ်ချက်ကြောင့်"
+  },
+  {
+    "number": "884",
+    "word": "distraction",
+    "meaning_jp": "職場で注意の妨げになるものを最小限にする",
+    "meaning_mm": "အာရုံပျံ့လွင့်စေမှု",
+    "example": "minimize distractions at work",
+    "example_jp": "職場で注意の妨げになるものを最小限にする",
+    "example_mm": "အလုပ်ခွင်တွင် အာရုံပျံ့လွင့်စေမှုကို အနည်းဆုံးဖြစ်စေသည်"
+  },
+  {
+    "number": "885",
+    "word": "facilitate",
+    "meaning_jp": "議論を促進する",
+    "meaning_mm": "လွယ်ကူစေသည်၊ ကူညီသည်",
+    "example": "facilitate a discussion",
+    "example_jp": "議論を促進する",
+    "example_mm": "ဆွေးနွေးမှုကို လွယ်ကူစေသည်"
+  },
+  {
+    "number": "886",
+    "word": "integral",
+    "meaning_jp": "インターネットは我々の生活に不可欠だ。",
+    "meaning_mm": "မရှိမဖြစ်လိုအပ်သော၊ အဓိကကျသော",
+    "example": "The Internet is integral to our lives.",
+    "example_jp": "インターネットは我々の生活に不可欠だ。",
+    "example_mm": "အင်တာနက်က ကျွန်တော်တို့ ဘဝအတွက် မရှိမဖြစ် လိုအပ်ပါတယ်။"
+  },
+  {
+    "number": "887",
+    "word": "interact",
+    "meaning_jp": "同僚と交流する",
+    "meaning_mm": "အပြန်အလှန် ဆက်ဆံသည်၊ ဆက်သွယ်သည်",
+    "example": "interact with colleagues",
+    "example_jp": "同僚と交流する",
+    "example_mm": "လုပ်ဖော်ကိုင်ဖက်များနှင့် ဆက်ဆံသည်"
+  },
+  {
+    "number": "888",
+    "word": "persistence",
+    "meaning_jp": "私の粘り強さが実った。",
+    "meaning_mm": "ဇွဲ၊ လုံ့လ",
+    "example": "My persistence paid off.",
+    "example_jp": "私の粘り強さが実った。",
+    "example_mm": "ငါ့ရဲ့ ဇွဲက အကျိုးရလာဒ် ဖြစ်ထွန်းခဲ့တယ်။"
+  },
+  {
+    "number": "889",
+    "word": "quota",
+    "meaning_jp": "売上ノルマ",
+    "meaning_mm": "ခွဲတမ်း၊ သတ်မှတ်ပမာဏ",
+    "example": "a sales quota",
+    "example_jp": "売上ノルマ",
+    "example_mm": "အရောင်း ခွဲတမ်း"
+  },
+  {
+    "number": "890",
+    "word": "congested",
+    "meaning_jp": "駐車場は非常に渋滞していた。",
+    "meaning_mm": "ကျပ်တည်းသော၊ ပြည့်ကျပ်နေသော",
+    "example": "The parking lot was too congested.",
+    "example_jp": "駐車場は非常に渋滞していた。",
+    "example_mm": "ကားရပ်နားရာနေရာက အရမ်းကျပ်တည်းနေခဲ့တယ်။"
+  },
+  {
+    "number": "891",
+    "word": "deduct",
+    "meaning_jp": "支払いから税金を控除する",
+    "meaning_mm": "နုတ်ယူသည်၊ လျှော့ချသည်",
+    "example": "deduct tax from payments",
+    "example_jp": "支払いから税金を控除する",
+    "example_mm": "ငွေပေးချေမှုမှ အခွန်နုတ်ယူသည်"
+  },
+  {
+    "number": "892",
+    "word": "embrace",
+    "meaning_jp": "考えを積極的に受け入れる",
+    "meaning_mm": "လက်ခံသည်၊ ပွေ့ဖက်သည်",
+    "example": "embrace an idea",
+    "example_jp": "考えを積極的に受け入れる",
+    "example_mm": "စိတ်ကူးတစ်ခုကို လက်ခံသည်"
+  },
+  {
+    "number": "893",
+    "word": "synthetic",
+    "meaning_jp": "合成素材",
+    "meaning_mm": "ဓာတုဗေဒနည်းဖြင့် ပြုလုပ်ထားသော",
+    "example": "synthetic materials",
+    "example_jp": "合成素材",
+    "example_mm": "ဓာတုဗေဒနည်းဖြင့် ပြုလုပ်ထားသော ပစ္စည်းများ"
+  },
+  {
+    "number": "894",
+    "word": "terminate",
+    "meaning_jp": "契約を終了させる",
+    "meaning_mm": "အဆုံးသတ်သည်၊ ရပ်ဆိုင်းသည်",
+    "example": "terminate a contract",
+    "example_jp": "契約を終了させる",
+    "example_mm": "စာချုပ်ကို အဆုံးသတ်သည်"
+  },
+  {
+    "number": "895",
+    "word": "detect",
+    "meaning_jp": "ミスを見つける",
+    "meaning_mm": "ရှာဖွေတွေ့ရှိသည်၊ ဖော်ထုတ်သည်",
+    "example": "detect an error",
+    "example_jp": "ミスを見つける",
+    "example_mm": "အမှားတစ်ခုကို ရှာဖွေတွေ့ရှိသည်"
+  },
+  {
+    "number": "896",
+    "word": "patiently",
+    "meaning_jp": "根気よく質問に答える",
+    "meaning_mm": "စိတ်ရှည်စွာ၊ သည်းခံစွာ",
+    "example": "patiently answer questions",
+    "example_jp": "根気よく質問に答える",
+    "example_mm": "စိတ်ရှည်စွာ မေးခွန်းများကို ဖြေကြားသည်"
+  },
+  {
+    "number": "897",
+    "word": "ratio",
+    "meaning_jp": "1対5の男女比率",
+    "meaning_mm": "အချိုး၊ အချိုးအစား",
+    "example": "a male-female ratio of 1:5",
+    "example_jp": "1対5の男女比率",
+    "example_mm": "အမျိုးသား-အမျိုးသမီး အချိုး ၁:၅"
+  },
+  {
+    "number": "898",
+    "word": "dietary",
+    "meaning_jp": "食事の制限",
+    "meaning_mm": "အစားအသောက်ဆိုင်ရာ",
+    "example": "dietary restrictions",
+    "example_jp": "食事の制限",
+    "example_mm": "အစားအသောက် ကန့်သတ်ချက်များ"
+  },
+  {
+    "number": "899",
+    "word": "intentionally",
+    "meaning_jp": "意図的に支払いを遅らせる",
+    "meaning_mm": "ရည်ရွယ်ချက်ရှိရှိ၊ တမင်တကာ",
+    "example": "intentionally delay payments",
+    "example_jp": "意図的に支払いを遅らせる",
+    "example_mm": "တမင်တကာ ငွေပေးချေမှုကို နှောင့်နှေးစေသည်"
+  },
+  {
+    "number": "900",
+    "word": "persuasive",
+    "meaning_jp": "説得力のあるスピーチを行う",
+    "meaning_mm": "ဆွဲဆောင်နိုင်သော၊ ယုံကြည်စေသော",
+    "example": "give a persuasive speech",
+    "example_jp": "説得力のあるスピーチを行う",
+    "example_mm": "ယုံကြည်စေသော မိန့်ခွန်းကို ပြောကြားသည်"
+  }
+]

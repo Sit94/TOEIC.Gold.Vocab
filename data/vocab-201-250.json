@@ -1,0 +1,452 @@
+[
+  {
+    "number": "201",
+    "word": "expense",
+    "meaning_jp": "費用、経費",
+    "meaning_mm": "ကုန်ကျစရိတ်၊ အသုံးစရိတ်",
+    "example": "travel expenses",
+    "example_jp": "出張経費",
+    "example_mm": "ခရီးသွား ကုန်ကျစရိတ်"
+  },
+  {
+    "number": "202",
+    "word": "overseas",
+    "meaning_jp": "海外の、海外で",
+    "meaning_mm": "နိုင်ငံခြား၊ ပြည်ပ",
+    "example": "overseas markets",
+    "example_jp": "海外市場",
+    "example_mm": "နိုင်ငံခြား စျေးကွက်များ"
+  },
+  {
+    "number": "203",
+    "word": "satisfied",
+    "meaning_jp": "満足した",
+    "meaning_mm": "ကျေနပ်သော၊ အားရသော",
+    "example": "I am fully satisfied with the service.",
+    "example_jp": "私はサービスに完全に満足しています。",
+    "example_mm": "ငါ ဝန်ဆောင်မှုအပေါ် အပြည့်အဝ ကျေနပ်ပါတယ်။"
+  },
+  {
+    "number": "204",
+    "word": "appear",
+    "meaning_jp": "現れる、〜のように見える",
+    "meaning_mm": "ပေါ်လာသည်၊ ထင်ရသည်",
+    "example": "Where would the article most likely appear?",
+    "example_jp": "この記事がもっとも掲載されそうなのはどこですか。",
+    "example_mm": "ဒီဆောင်းပါးက ဘယ်နေရာမှာ ဖော်ပြဖို့ ဖြစ်နိုင်ခြေအရှိဆုံးလဲ။"
+  },
+  {
+    "number": "205",
+    "word": "develop",
+    "meaning_jp": "（計画を作り出す、開発する、発達する",
+    "meaning_mm": "ဖန်တီးသည်၊ ဖွံ့ဖြိုးတိုးတက်သည်",
+    "example": "develop a plan",
+    "example_jp": "計画を作り出す",
+    "example_mm": "အစီအစဉ်တစ်ခု ဖန်တီးသည်"
+  },
+  {
+    "number": "206",
+    "word": "improve",
+    "meaning_jp": "改善する、改良する",
+    "meaning_mm": "တိုးတက်စေသည်၊ ပိုကောင်းစေသည်",
+    "example": "improve customer service",
+    "example_jp": "顧客サービスを改善する",
+    "example_mm": "ဖောက်သည် ဝန်ဆောင်မှုကို တိုးတက်စေသည်"
+  },
+  {
+    "number": "207",
+    "word": "reasonable",
+    "meaning_jp": "（値段が）手ごろな、適当な",
+    "meaning_mm": "သင့်တင့်သော၊ ကျိုးကြောင်းဆီလျော်သော",
+    "example": "a reasonable price",
+    "example_jp": "手ごろな値段",
+    "example_mm": "သင့်တင့်သော စျေးနှုန်း"
+  },
+  {
+    "number": "208",
+    "word": "unable",
+    "meaning_jp": "（〜することが）できない",
+    "meaning_mm": "မတတ်နိုင်သော၊ မလုပ်နိုင်သော",
+    "example": "What is the man unable to do?",
+    "example_jp": "男性ができないことは何ですか。",
+    "example_mm": "အမျိုးသား မလုပ်နိုင်တာက ဘာလဲ။"
+  },
+  {
+    "number": "209",
+    "word": "delay",
+    "meaning_jp": "遅らせる、遅れ",
+    "meaning_mm": "နှောင့်နှေးစေသည်၊ ကြန့်ကြာမှု",
+    "example": "All flights have been delayed.",
+    "example_jp": "すべての便が遅れています。",
+    "example_mm": "လေယာဉ်ခရီးစဉ်အားလုံး နှောင့်နှေးနေပါတယ်။"
+  },
+  {
+    "number": "210",
+    "word": "legal",
+    "meaning_jp": "法律に関する、合法の",
+    "meaning_mm": "ဥပဒေနှင့်ဆိုင်သော၊ တရားဝင်သော",
+    "example": "legal advice",
+    "example_jp": "法律に関するアドバイス",
+    "example_mm": "ဥပဒေဆိုင်ရာ အကြံဉာဏ်"
+  },
+  {
+    "number": "211",
+    "word": "regulation",
+    "meaning_jp": "規制",
+    "meaning_mm": "စည်းမျဉ်း၊ ကန့်သတ်ချက်",
+    "example": "under the regulations",
+    "example_jp": "規制の下で",
+    "example_mm": "စည်းမျဉ်းများအောက်တွင်"
+  },
+  {
+    "number": "212",
+    "word": "expand",
+    "meaning_jp": "拡大する、膨張する",
+    "meaning_mm": "တိုးချဲ့သည်၊ ကျယ်ပြန့်စေသည်",
+    "example": "Our business is expanding.",
+    "example_jp": "当社の事業は拡大しています。",
+    "example_mm": "ကျွန်တော်တို့ လုပ်ငန်း တိုးချဲ့နေပါတယ်။"
+  },
+  {
+    "number": "213",
+    "word": "launch",
+    "meaning_jp": "発売する、開始する、発表する",
+    "meaning_mm": "စတင်ထုတ်လွှင့်သည်၊ စတင်သည်",
+    "example": "the launch of a new product",
+    "example_jp": "新商品の発売",
+    "example_mm": "ထုတ်ကုန်အသစ် စတင်ထုတ်လွှင့်ခြင်း"
+  },
+  {
+    "number": "214",
+    "word": "recommendation",
+    "meaning_jp": "推薦状",
+    "meaning_mm": "ထောက်ခံစာ၊ အကြံပြုချက်",
+    "example": "a letter of recommendation",
+    "example_jp": "推薦状",
+    "example_mm": "ထောက်ခံစာ"
+  },
+  {
+    "number": "215",
+    "word": "direct",
+    "meaning_jp": "（注意などを）管理する、指導する、直接の",
+    "meaning_mm": "ညွှန်ကြားသည်၊ တိုက်ရိုက်",
+    "example": "Please direct any questions to me.",
+    "example_jp": "質問は私の方にしてください。",
+    "example_mm": "မေးခွန်းများကို ကျွန်တော့်ထံ ညွှန်းပေးပါ။"
+  },
+  {
+    "number": "216",
+    "word": "profit",
+    "meaning_jp": "利益、利益を与える",
+    "meaning_mm": "အမြတ်၊ အမြတ်ရသည်",
+    "example": "increase profits",
+    "example_jp": "利益を増やす",
+    "example_mm": "အမြတ်တိုးစေသည်"
+  },
+  {
+    "number": "217",
+    "word": "seek",
+    "meaning_jp": "（人を）求める",
+    "meaning_mm": "ရှာဖွေသည်၊ တောင်းဆိုသည်",
+    "example": "seeking interns for the summer",
+    "example_jp": "夏期研修生を募集する",
+    "example_mm": "နွေရာသီ သင်တန်းသားများ ရှာဖွေနေသည်"
+  },
+  {
+    "number": "218",
+    "word": "entry",
+    "meaning_jp": "（コンテストへの）エントリー（作品）、入場",
+    "meaning_mm": "ပြိုင်ပွဲဝင်ခြင်း၊ ဝင်ခွင့်",
+    "example": "the winning entry",
+    "example_jp": "入賞したエントリー作品",
+    "example_mm": "ဆုရရှိသော ပြိုင်ပွဲဝင်လက်ရာ"
+  },
+  {
+    "number": "219",
+    "word": "claim",
+    "meaning_jp": "（主に保険金、裁判所等に）正式に申請を行う",
+    "meaning_mm": "တောင်းခံသည်၊ အခွင့်အရေးတောင်းဆိုသည်",
+    "example": "file a claim",
+    "example_jp": "申し立てを行う",
+    "example_mm": "တောင်းခံလွှာ တင်သွင်းသည်"
+  },
+  {
+    "number": "220",
+    "word": "crew",
+    "meaning_jp": "（船や航空機、宇宙船などの）乗組員、（作業員などの）チーム",
+    "meaning_mm": "သင်္ဘောသား၊ လေယာဉ်အမှုထမ်း၊ အဖွဲ့",
+    "example": "a repair crew",
+    "example_jp": "修理班",
+    "example_mm": "ပြုပြင်ရေး အဖွဲ့"
+  },
+  {
+    "number": "221",
+    "word": "demand",
+    "meaning_jp": "需要、要求する",
+    "meaning_mm": "ဝယ်လိုအား၊ တောင်းဆိုသည်",
+    "example": "meet demand",
+    "example_jp": "需要を満たす",
+    "example_mm": "ဝယ်လိုအားကို ဖြည့်ဆည်းသည်"
+  },
+  {
+    "number": "222",
+    "word": "figure",
+    "meaning_jp": "数字、人物",
+    "meaning_mm": "ကိန်းဂဏန်း၊ ပုဂ္ဂိုလ်",
+    "example": "sales figures",
+    "example_jp": "売上数字",
+    "example_mm": "အရောင်း ကိန်းဂဏန်းများ"
+  },
+  {
+    "number": "223",
+    "word": "raise",
+    "meaning_jp": "（上げる、高める）（値段を上げる）、raise concerns（懸念を高める）",
+    "meaning_mm": "မြှင့်တင်သည်၊ တိုးမြှင့်သည်",
+    "example": "raise money for charity",
+    "example_jp": "慈善のために資金を集める",
+    "example_mm": "ပရဟိတအတွက် ရန်ပုံငွေ ရှာဖွေသည်"
+  },
+  {
+    "number": "224",
+    "word": "attach",
+    "meaning_jp": "（書類などを）添える、添付する",
+    "meaning_mm": "ပူးတွဲသည်၊ တွဲဖက်သည်",
+    "example": "I have attached my résumé.",
+    "example_jp": "履歴書を添付しました。",
+    "example_mm": "ကိုယ်ရေးရာဇဝင် ပူးတွဲပေးလိုက်ပါတယ်။"
+  },
+  {
+    "number": "225",
+    "word": "attract",
+    "meaning_jp": "（人などを）引き付ける、呼び込む",
+    "meaning_mm": "ဆွဲဆောင်သည်၊ ဆွဲဆောင်မှုရှိသည်",
+    "example": "a way of attracting customers",
+    "example_jp": "お客様を引き付ける方法",
+    "example_mm": "ဖောက်သည်များ ဆွဲဆောင်သည့် နည်းလမ်း"
+  },
+  {
+    "number": "226",
+    "word": "insurance",
+    "meaning_jp": "保険",
+    "meaning_mm": "အာမခံ",
+    "example": "provide health insurance for employees",
+    "example_jp": "社員に健康保険を提供する",
+    "example_mm": "ဝန်ထမ်းများအတွက် ကျန်းမာရေးအာမခံ ထောက်ပံ့သည်"
+  },
+  {
+    "number": "227",
+    "word": "departure",
+    "meaning_jp": "出発、逸脱",
+    "meaning_mm": "ထွက်ခွာခြင်း၊ ထွက်ခွာမှု",
+    "example": "the scheduled departure date",
+    "example_jp": "出発予定日",
+    "example_mm": "ထွက်ခွာမည့် ရက်စွဲ"
+  },
+  {
+    "number": "228",
+    "word": "mayor",
+    "meaning_jp": "町長、市長",
+    "meaning_mm": "မြို့တော်ဝန်",
+    "example": "the mayor of Tex Town",
+    "example_jp": "テックス・タウンの町長",
+    "example_mm": "တက်ခ်စ်တောင်း၏ မြို့တော်ဝန်"
+  },
+  {
+    "number": "229",
+    "word": "balance",
+    "meaning_jp": "残金、残額、バランス",
+    "meaning_mm": "လက်ကျန်ငွေ၊ ချိန်ခွင်လျှာ",
+    "example": "an account balance",
+    "example_jp": "口座残高",
+    "example_mm": "အကောင့် လက်ကျန်ငွေ"
+  },
+  {
+    "number": "230",
+    "word": "estimate",
+    "meaning_jp": "見積もり、見積もる",
+    "meaning_mm": "ခန့်မှန်းချက်၊ ခန့်မှန်းသည်",
+    "example": "an estimate for the project",
+    "example_jp": "プロジェクトの見積もり",
+    "example_mm": "စီမံကိန်း၏ ခန့်မှန်းချက်"
+  },
+  {
+    "number": "231",
+    "word": "district",
+    "meaning_jp": "地区",
+    "meaning_mm": "ခရိုင်၊ နယ်မြေ",
+    "example": "a commercial district",
+    "example_jp": "商業地区",
+    "example_mm": "စီးပွားရေး ခရိုင်"
+  },
+  {
+    "number": "232",
+    "word": "former",
+    "meaning_jp": "前の、かつての",
+    "meaning_mm": "ယခင်၊ ရှေးက",
+    "example": "a former employee",
+    "example_jp": "かつての社員",
+    "example_mm": "ယခင် ဝန်ထမ်း"
+  },
+  {
+    "number": "233",
+    "word": "modern",
+    "meaning_jp": "近代的な、現代的な",
+    "meaning_mm": "ခေတ်မီသော၊ ခေတ်သစ်",
+    "example": "design a modern building",
+    "example_jp": "近代的な建物を設計する",
+    "example_mm": "ခေတ်မီ အဆောက်အအုံ ဒီဇိုင်းဆွဲသည်"
+  },
+  {
+    "number": "234",
+    "word": "tip",
+    "meaning_jp": "アドバイス、ヒント",
+    "meaning_mm": "အကြံဉာဏ်၊ အကြံပြုချက်",
+    "example": "tips on packing",
+    "example_jp": "荷づくりのコツ",
+    "example_mm": "ထုပ်ပိုးခြင်း အကြံပြုချက်များ"
+  },
+  {
+    "number": "235",
+    "word": "establish",
+    "meaning_jp": "設立する、創立する",
+    "meaning_mm": "တည်ထောင်သည်၊ ဖွဲ့စည်းသည်",
+    "example": "establish a business",
+    "example_jp": "会社を設立する",
+    "example_mm": "လုပ်ငန်း တည်ထောင်သည်"
+  },
+  {
+    "number": "236",
+    "word": "option",
+    "meaning_jp": "選択肢、オプション",
+    "meaning_mm": "ရွေးချယ်မှု၊ ရွေးချယ်ခွင့်",
+    "example": "an option to change the date",
+    "example_jp": "日付を変更する選択肢",
+    "example_mm": "ရက်စွဲ ပြောင်းလဲရန် ရွေးချယ်မှု"
+  },
+  {
+    "number": "237",
+    "word": "retire",
+    "meaning_jp": "退職する",
+    "meaning_mm": "အငြိမ်းစားယူသည်၊ ပင်စင်ယူသည်",
+    "example": "after 20 years of service",
+    "example_jp": "20年の勤務の後、退職する",
+    "example_mm": "နှစ် ၂၀ အလုပ်လုပ်ပြီးနောက် အငြိမ်းစားယူသည်"
+  },
+  {
+    "number": "238",
+    "word": "search",
+    "meaning_jp": "捜索、検索、探す、検索する",
+    "meaning_mm": "ရှာဖွေခြင်း၊ ရှာဖွေသည်",
+    "example": "the search for the next president",
+    "example_jp": "次の社長探し",
+    "example_mm": "နောက်ထပ် ဥက္ကဋ္ဌ ရှာဖွေခြင်း"
+  },
+  {
+    "number": "239",
+    "word": "specific",
+    "meaning_jp": "具体的な、特定の",
+    "meaning_mm": "တိကျသော၊ သီးခြားဖြစ်သော",
+    "example": "a specific example",
+    "example_jp": "具体的な例",
+    "example_mm": "တိကျသော ဥပမာ"
+  },
+  {
+    "number": "240",
+    "word": "agricultural",
+    "meaning_jp": "農業の",
+    "meaning_mm": "စိုက်ပျိုးရေးဆိုင်ရာ",
+    "example": "agricultural technology",
+    "example_jp": "農業の技術",
+    "example_mm": "စိုက်ပျိုးရေး နည်းပညာ"
+  },
+  {
+    "number": "241",
+    "word": "historical",
+    "meaning_jp": "歴史上の",
+    "meaning_mm": "သမိုင်းဝင်၊ သမိုင်းဆိုင်ရာ",
+    "example": "historical figures",
+    "example_jp": "歴史上の人物",
+    "example_mm": "သမိုင်းဝင် ပုဂ္ဂိုလ်များ"
+  },
+  {
+    "number": "242",
+    "word": "helpful",
+    "meaning_jp": "（人に）役立つ、助けになる",
+    "meaning_mm": "အထောက်အကူဖြစ်သော၊ အကူအညီဖြစ်သော",
+    "example": "I hope you find this information helpful.",
+    "example_jp": "この情報があなたのお役に立つことを願っています。",
+    "example_mm": "ဒီအချက်အလက်က သင့်အတွက် အထောက်အကူဖြစ်မယ်လို့ မျှော်လင့်ပါတယ်။"
+  },
+  {
+    "number": "243",
+    "word": "complaint",
+    "meaning_jp": "苦情、クレーム",
+    "meaning_mm": "တိုင်ကြားချက်၊ ညည်းညူချက်",
+    "example": "complaints about the noise",
+    "example_jp": "騒音についての苦情",
+    "example_mm": "ဆူညံသံနှင့်ပတ်သက်သော တိုင်ကြားချက်"
+  },
+  {
+    "number": "244",
+    "word": "related",
+    "meaning_jp": "関連した",
+    "meaning_mm": "ဆက်စပ်သော၊ ပတ်သက်သော",
+    "example": "experience in a related field",
+    "example_jp": "関連分野での経験",
+    "example_mm": "ဆက်စပ်နယ်ပယ်တွင် အတွေ့အကြုံ"
+  },
+  {
+    "number": "245",
+    "word": "simply",
+    "meaning_jp": "単純に、以下の用紙にご記入ください",
+    "meaning_mm": "ရိုးရှင်းစွာ၊ ရိုးရိုးရှင်းရှင်း",
+    "example": "Simply fill out the form below.",
+    "example_jp": "単純に以下の用紙にご記入ください。",
+    "example_mm": "အောက်ပါဖောင်ကို ရိုးရှင်းစွာ ဖြည့်စွက်ပါ။"
+  },
+  {
+    "number": "246",
+    "word": "unique",
+    "meaning_jp": "他に類を見ない、独自の、特有の",
+    "meaning_mm": "ထူးခြားသော၊ သီးသန့်ဖြစ်သော",
+    "example": "offer a unique opportunity",
+    "example_jp": "他に類を見ない機会を提供する",
+    "example_mm": "ထူးခြားသော အခွင့်အရေးကို ပေးအပ်သည်"
+  },
+  {
+    "number": "247",
+    "word": "concerning",
+    "meaning_jp": "〜に関する",
+    "meaning_mm": "နှင့်ပတ်သက်သော၊ နှင့်ဆိုင်သော",
+    "example": "any questions concerning the order",
+    "example_jp": "注文に関する質問",
+    "example_mm": "အော်ဒါနှင့်ပတ်သက်သော မေးခွန်းများ"
+  },
+  {
+    "number": "248",
+    "word": "reputation",
+    "meaning_jp": "評価",
+    "meaning_mm": "ဂုဏ်သတင်း၊ သုံးသပ်ချက်",
+    "example": "a well-deserved reputation",
+    "example_jp": "確固たる評価",
+    "example_mm": "ထိုက်တန်သော ဂုဏ်သတင်း"
+  },
+  {
+    "number": "249",
+    "word": "ability",
+    "meaning_jp": "能力",
+    "meaning_mm": "စွမ်းရည်၊ နိုင်စွမ်း",
+    "example": "the ability to speak three languages",
+    "example_jp": "3か国語を話す能力",
+    "example_mm": "ဘာသာစကား ၃ မျိုး ပြောနိုင်သည့် စွမ်းရည်"
+  },
+  {
+    "number": "250",
+    "word": "arrival",
+    "meaning_jp": "到着、到着時刻",
+    "meaning_mm": "ရောက်ရှိခြင်း၊ ဆိုက်ရောက်ချိန်",
+    "example": "the time of arrival",
+    "example_jp": "到着時刻",
+    "example_mm": "ဆိုက်ရောက်ချိန်"
+  }
+]

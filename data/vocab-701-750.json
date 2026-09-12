@@ -1,0 +1,452 @@
+[
+  {
+    "number": "701",
+    "word": "lumber",
+    "meaning_jp": "製材業",
+    "meaning_mm": "သစ်လုံး၊ သစ်သား",
+    "example": "a lumber business",
+    "example_jp": "製材業",
+    "example_mm": "သစ်လုပ်ငန်း"
+  },
+  {
+    "number": "702",
+    "word": "reverse",
+    "meaning_jp": "裏側",
+    "meaning_mm": "ဆန့်ကျင်ဘက်၊ နောက်ဘက်",
+    "example": "the reverse side",
+    "example_jp": "裏側",
+    "example_mm": "နောက်ဘက်အခြမ်း"
+  },
+  {
+    "number": "703",
+    "word": "voluntary",
+    "meaning_jp": "参加は任意です。",
+    "meaning_mm": "စေတနာ့ဝန်ထမ်း၊ မိမိဆန္ဒအလျောက်",
+    "example": "Attendance is voluntary.",
+    "example_jp": "参加は任意です。",
+    "example_mm": "တက်ရောက်ခြင်းသည် မိမိဆန္ဒအလျောက်ဖြစ်သည်။"
+  },
+  {
+    "number": "704",
+    "word": "contractor",
+    "meaning_jp": "建設請負業者",
+    "meaning_mm": "ကန်ထရိုက်တာ၊ စာချုပ်လုပ်သူ",
+    "example": "a construction contractor",
+    "example_jp": "建設請負業者",
+    "example_mm": "ဆောက်လုပ်ရေး ကန်ထရိုက်တာ"
+  },
+  {
+    "number": "705",
+    "word": "on-site",
+    "meaning_jp": "会社には社内の託児所があります。",
+    "meaning_mm": "နေရာတွင်ရှိသော၊ ဆိုက်တွင်း",
+    "example": "The company has an on-site childcare center.",
+    "example_jp": "会社には社内の託児所があります。",
+    "example_mm": "ကုမ္ပဏီမှာ ဆိုက်တွင်း ကလေးထိန်းဌာန ရှိသည်။"
+  },
+  {
+    "number": "706",
+    "word": "comprehensive",
+    "meaning_jp": "製品の総合的なリスト",
+    "meaning_mm": "ကျယ်ပြန့်သော၊ ပြည့်စုံသော",
+    "example": "a comprehensive list of products",
+    "example_jp": "製品の総合的なリスト",
+    "example_mm": "ထုတ်ကုန်များ၏ ပြည့်စုံသော စာရင်း"
+  },
+  {
+    "number": "707",
+    "word": "confidential",
+    "meaning_jp": "機密書類",
+    "meaning_mm": "လျှို့ဝှက်သော၊ လျှို့ဝှက်ချက်",
+    "example": "confidential documents",
+    "example_jp": "機密書類",
+    "example_mm": "လျှို့ဝှက် စာရွက်စာတမ်းများ"
+  },
+  {
+    "number": "708",
+    "word": "expertise",
+    "meaning_jp": "コンピュータ・プログラミングの専門知識",
+    "meaning_mm": "ကျွမ်းကျင်မှု၊ ပညာရပ်",
+    "example": "expertise in computer programming",
+    "example_jp": "コンピュータ・プログラミングの専門知識",
+    "example_mm": "ကွန်ပျူတာ ပရိုဂရမ်ရေးခြင်း ကျွမ်းကျင်မှု"
+  },
+  {
+    "number": "709",
+    "word": "premier",
+    "meaning_jp": "東京で最高のレストランの一つ",
+    "meaning_mm": "ထိပ်တန်း၊ အကောင်းဆုံး",
+    "example": "one of Tokyo's premier restaurants",
+    "example_jp": "東京で最高のレストランの一つ",
+    "example_mm": "တိုကျိုရဲ့ ထိပ်တန်း စားသောက်ဆိုင်တွေထဲက တစ်ခု"
+  },
+  {
+    "number": "710",
+    "word": "souvenir",
+    "meaning_jp": "土産物店",
+    "meaning_mm": "အမှတ်တရပစ္စည်း၊ လက်ဆောင်ပစ္စည်း",
+    "example": "a souvenir shop",
+    "example_jp": "土産物店",
+    "example_mm": "အမှတ်တရပစ္စည်းဆိုင်"
+  },
+  {
+    "number": "711",
+    "word": "rafting",
+    "meaning_jp": "川下りの旅",
+    "meaning_mm": "လှေဖောင်စီးခြင်း၊ ရေစီးကြောင်းလိုက်ခြင်း",
+    "example": "rafting trips",
+    "example_jp": "川下りの旅",
+    "example_mm": "လှေဖောင်စီး ခရီးစဉ်များ"
+  },
+  {
+    "number": "712",
+    "word": "compartment",
+    "meaning_jp": "頭上のスペースの中に",
+    "meaning_mm": "အကန့်၊ အခန်း",
+    "example": "in the overhead compartment",
+    "example_jp": "頭上のスペースの中に",
+    "example_mm": "ခေါင်းပေါ်က အကန့်ထဲမှာ"
+  },
+  {
+    "number": "713",
+    "word": "fabric",
+    "meaning_jp": "生地サンプルをチェックする",
+    "meaning_mm": "အထည်၊ ဖက်ဘရစ်",
+    "example": "check fabric samples",
+    "example_jp": "生地サンプルをチェックする",
+    "example_mm": "အထည်နမူနာများကို စစ်ဆေးသည်"
+  },
+  {
+    "number": "714",
+    "word": "spacious",
+    "meaning_jp": "広々とした部屋",
+    "meaning_mm": "ကျယ်ဝန်းသော၊ ကျယ်ပြန့်သော",
+    "example": "a spacious room",
+    "example_jp": "広々とした部屋",
+    "example_mm": "ကျယ်ဝန်းသော အခန်း"
+  },
+  {
+    "number": "715",
+    "word": "upgrade",
+    "meaning_jp": "冷房システムを改良する",
+    "meaning_mm": "အဆင့်မြှင့်သည်၊ တိုးတက်စေသည်",
+    "example": "make upgrades to the air conditioning system",
+    "example_jp": "冷房システムを改良する",
+    "example_mm": "လေအေးပေးစနစ်ကို အဆင့်မြှင့်သည်"
+  },
+  {
+    "number": "716",
+    "word": "showcase",
+    "meaning_jp": "新製品を披露する",
+    "meaning_mm": "ပြသသည်၊ ခင်းကျင်းပြသသည်",
+    "example": "showcase new products",
+    "example_jp": "新製品を披露する",
+    "example_mm": "ထုတ်ကုန်အသစ်များကို ပြသသည်"
+  },
+  {
+    "number": "717",
+    "word": "commuter",
+    "meaning_jp": "通勤者が乗る電車（通勤電車）",
+    "meaning_mm": "အလုပ်သွားပြန်သူ၊ ခရီးသည်",
+    "example": "a commuter train",
+    "example_jp": "通勤者が乗る電車（通勤電車）",
+    "example_mm": "အလုပ်သွားပြန် ရထား"
+  },
+  {
+    "number": "718",
+    "word": "enhance",
+    "meaning_jp": "顧客サービスを高める",
+    "meaning_mm": "မြှင့်တင်သည်၊ ပိုကောင်းစေသည်",
+    "example": "enhance customer service",
+    "example_jp": "顧客サービスを高める",
+    "example_mm": "ဖောက်သည် ဝန်ဆောင်မှုကို မြှင့်တင်သည်"
+  },
+  {
+    "number": "719",
+    "word": "freight",
+    "meaning_jp": "貨物エレベーターを使う",
+    "meaning_mm": "ကုန်စည်၊ ကုန်တင်ပို့ဆောင်မှု",
+    "example": "use a freight elevator",
+    "example_jp": "貨物エレベーターを使う",
+    "example_mm": "ကုန်တင်ဓာတ်လှေကား အသုံးပြုသည်"
+  },
+  {
+    "number": "720",
+    "word": "nominate",
+    "meaning_jp": "同僚を賞に推薦する",
+    "meaning_mm": "အမည်စာရင်းတင်သွင်းသည်၊ ခန့်အပ်သည်",
+    "example": "nominate a colleague for an award",
+    "example_jp": "同僚を賞に推薦する",
+    "example_mm": "လုပ်ဖော်ကိုင်ဖက်တစ်ဦးကို ဆုအတွက် အမည်စာရင်းတင်သွင်းသည်"
+  },
+  {
+    "number": "721",
+    "word": "discontinued",
+    "meaning_jp": "製造が終了した電化製品",
+    "meaning_mm": "ထုတ်လုပ်မှုရပ်ဆိုင်းသော",
+    "example": "a discontinued appliance",
+    "example_jp": "製造が終了した電化製品",
+    "example_mm": "ထုတ်လုပ်မှု ရပ်ဆိုင်းလိုက်သော စက်ပစ္စည်း"
+  },
+  {
+    "number": "722",
+    "word": "monitoring",
+    "meaning_jp": "メンター制度プログラム",
+    "meaning_mm": "စောင့်ကြည့်ခြင်း၊ စောင့်ကြပ်ခြင်း",
+    "example": "a mentoring program",
+    "example_jp": "メンター制度プログラム",
+    "example_mm": "လမ်းညွှန်ပေးသည့် အစီအစဉ်"
+  },
+  {
+    "number": "723",
+    "word": "personalized",
+    "meaning_jp": "個人に合わせたサービス",
+    "meaning_mm": "ကိုယ်ပိုင်အသုံးပြုရန် ပြင်ဆင်ထားသော",
+    "example": "personalized service",
+    "example_jp": "個人に合わせたサービス",
+    "example_mm": "တစ်ဦးချင်းအတွက် သီးသန့်ပြင်ဆင်ထားသော ဝန်ဆောင်မှု"
+  },
+  {
+    "number": "724",
+    "word": "pharmacy",
+    "meaning_jp": "薬局で働く",
+    "meaning_mm": "ဆေးဆိုင်၊ ဆေးဝါးဌာန",
+    "example": "work at a pharmacy",
+    "example_jp": "薬局で働く",
+    "example_mm": "ဆေးဆိုင်မှာ အလုပ်လုပ်သည်"
+  },
+  {
+    "number": "725",
+    "word": "excerpt",
+    "meaning_jp": "会議の抜粋",
+    "meaning_mm": "ကောက်နုတ်ချက်၊ အပိုင်းအစ",
+    "example": "an excerpt from a meeting",
+    "example_jp": "会議の抜粋",
+    "example_mm": "အစည်းအဝေးမှ ကောက်နုတ်ချက်"
+  },
+  {
+    "number": "726",
+    "word": "publicize",
+    "meaning_jp": "本の宣伝をする",
+    "meaning_mm": "လူသိရှင်ကြားဖြစ်စေသည်၊ ကြော်ငြာသည်",
+    "example": "publicize a book",
+    "example_jp": "本の宣伝をする",
+    "example_mm": "စာအုပ်ကို လူသိရှင်ကြားဖြစ်စေသည်"
+  },
+  {
+    "number": "727",
+    "word": "tuition",
+    "meaning_jp": "授業料を払う",
+    "meaning_mm": "ကျောင်းလခ",
+    "example": "pay tuition fees",
+    "example_jp": "授業料を払う",
+    "example_mm": "ကျောင်းလခ ပေးဆောင်သည်"
+  },
+  {
+    "number": "728",
+    "word": "compliance",
+    "meaning_jp": "規則の順守",
+    "meaning_mm": "လိုက်နာမှု၊ လိုက်နာခြင်း",
+    "example": "in compliance with regulations",
+    "example_jp": "規則の順守",
+    "example_mm": "စည်းမျဉ်းများကို လိုက်နာခြင်း"
+  },
+  {
+    "number": "729",
+    "word": "clarify",
+    "meaning_jp": "状況をはっきりさせる",
+    "meaning_mm": "ရှင်းလင်းစေသည်၊ ရှင်းပြသည်",
+    "example": "clarify the situation",
+    "example_jp": "状況をはっきりさせる",
+    "example_mm": "အခြေအနေကို ရှင်းလင်းစေသည်"
+  },
+  {
+    "number": "730",
+    "word": "municipal",
+    "meaning_jp": "市政府",
+    "meaning_mm": "မြူနီစီပယ်၊ မြို့တော်ဆိုင်ရာ",
+    "example": "the municipal government",
+    "example_jp": "市政府",
+    "example_mm": "မြူနီစီပယ် အစိုးရ"
+  },
+  {
+    "number": "731",
+    "word": "respectively",
+    "meaning_jp": "テックスとマサヤ、それぞれ16歳と18歳",
+    "meaning_mm": "အသီးသီး၊ သက်ဆိုင်ရာ",
+    "example": "Tex and Masaya, 16 and 18, respectively",
+    "example_jp": "テックスとマサヤ、それぞれ16歳と18歳",
+    "example_mm": "တက်စ်နှင့် မာဆာယာ၊ အသီးသီး ၁၆ နှစ်နှင့် ၁၈ နှစ်"
+  },
+  {
+    "number": "732",
+    "word": "durable",
+    "meaning_jp": "手ごろな価格だけれども耐久性がある",
+    "meaning_mm": "ကြာရှည်ခံသော၊ ခိုင်ခံ့သော",
+    "example": "affordable yet durable",
+    "example_jp": "手ごろな価格だけれども耐久性がある",
+    "example_mm": "တတ်နိုင်သော စျေးနှုန်းဖြစ်သော်လည်း ကြာရှည်ခံသည်"
+  },
+  {
+    "number": "733",
+    "word": "landmark",
+    "meaning_jp": "その塔は町の名所です。",
+    "meaning_mm": "အထင်ကရနေရာ၊ မှတ်တိုင်မွန်",
+    "example": "The tower is the town's landmark.",
+    "example_jp": "その塔は町の名所です。",
+    "example_mm": "အဲဒီမျှော်စင်က မြို့ရဲ့ အထင်ကရနေရာပါ။"
+  },
+  {
+    "number": "734",
+    "word": "portfolio",
+    "meaning_jp": "作品集を添えてください。",
+    "meaning_mm": "ဖိုင်တွဲ၊ လက်ရာများ စုစည်းမှု",
+    "example": "Please include your portfolio.",
+    "example_jp": "作品集を添えてください。",
+    "example_mm": "သင့်လက်ရာများ စုစည်းမှုကို ပူးတွဲပေးပါ။"
+  },
+  {
+    "number": "735",
+    "word": "recipient",
+    "meaning_jp": "賞の受賞者",
+    "meaning_mm": "လက်ခံသူ၊ လက်ခံရရှိသူ",
+    "example": "recipients of the prize",
+    "example_jp": "賞の受賞者",
+    "example_mm": "ဆုကို လက်ခံရရှိသူများ"
+  },
+  {
+    "number": "736",
+    "word": "prototype",
+    "meaning_jp": "航空機の試作品",
+    "meaning_mm": "ရှေ့ပြေးပုံစံ၊ မူလပုံစံ",
+    "example": "a prototype of an aircraft",
+    "example_jp": "航空機の試作品",
+    "example_mm": "လေယာဉ်၏ ရှေ့ပြေးပုံစံ"
+  },
+  {
+    "number": "737",
+    "word": "transit",
+    "meaning_jp": "輸送中のダメージ",
+    "meaning_mm": "သယ်ယူပို့ဆောင်ခြင်း၊ ဖြတ်သန်းခြင်း",
+    "example": "damage in transit",
+    "example_jp": "輸送中のダメージ",
+    "example_mm": "သယ်ယူပို့ဆောင်စဉ် ပျက်စီးမှု"
+  },
+  {
+    "number": "738",
+    "word": "verify",
+    "meaning_jp": "アカウントを認証する",
+    "meaning_mm": "အတည်ပြုသည်၊ စစ်ဆေးအတည်ပြုသည်",
+    "example": "verify an account",
+    "example_jp": "アカウントを認証する",
+    "example_mm": "အကောင့်ကို အတည်ပြုသည်"
+  },
+  {
+    "number": "739",
+    "word": "managerial",
+    "meaning_jp": "管理職のレベルでの経験",
+    "meaning_mm": "စီမံခန့်ခွဲရေးဆိုင်ရာ၊ မန်နေဂျာဆိုင်ရာ",
+    "example": "experience at a managerial level",
+    "example_jp": "管理職のレベルでの経験",
+    "example_mm": "စီမံခန့်ခွဲမှုအဆင့် အတွေ့အကြုံ"
+  },
+  {
+    "number": "740",
+    "word": "culinary",
+    "meaning_jp": "料理学校",
+    "meaning_mm": "ချက်ပြုတ်ခြင်းဆိုင်ရာ",
+    "example": "a culinary institute",
+    "example_jp": "料理学校",
+    "example_mm": "အချက်အပြုတ် သင်တန်းကျောင်း"
+  },
+  {
+    "number": "741",
+    "word": "attire",
+    "meaning_jp": "フォーマルな服装がオフィスでは必要です。",
+    "meaning_mm": "အဝတ်အစား၊ ဝတ်စုံ",
+    "example": "Formal attire is required in the office.",
+    "example_jp": "フォーマルな服装がオフィスでは必要です。",
+    "example_mm": "ရုံးခန်းမှာ တရားဝင်အဝတ်အစား လိုအပ်ပါသည်။"
+  },
+  {
+    "number": "742",
+    "word": "reimburse",
+    "meaning_jp": "旅費を払い戻す",
+    "meaning_mm": "ငွေပြန်အမ်းသည်၊ ပြန်လည်ပေးချေသည်",
+    "example": "reimburse travel expenses",
+    "example_jp": "旅費を払い戻す",
+    "example_mm": "ခရီးသွားစရိတ်များ ပြန်လည်ပေးချေသည်"
+  },
+  {
+    "number": "743",
+    "word": "courteous",
+    "meaning_jp": "スタッフは礼儀正しかった。",
+    "meaning_mm": "ယဉ်ကျေးသော၊ ရိုသေလေးစားသော",
+    "example": "The staff was courteous.",
+    "example_jp": "スタッフは礼儀正しかった。",
+    "example_mm": "ဝန်ထမ်းတွေက ယဉ်ကျေးကြတယ်။"
+  },
+  {
+    "number": "744",
+    "word": "furnished",
+    "meaning_jp": "完全に家具が付いたアパート",
+    "meaning_mm": "ပရိဘောဂပါသော၊ ပရိဘောဂတပ်ဆင်ထားသော",
+    "example": "a fully furnished apartment",
+    "example_jp": "完全に家具が付いたアパート",
+    "example_mm": "ပရိဘောဂအပြည့်အစုံပါသော တိုက်ခန်း"
+  },
+  {
+    "number": "745",
+    "word": "knowledgeable",
+    "meaning_jp": "投資について非常に知識が豊富な",
+    "meaning_mm": "ဗဟုသုတကြွယ်ဝသော၊ အသိပညာရှိသော",
+    "example": "highly knowledgeable about investments",
+    "example_jp": "投資について非常に知識が豊富な",
+    "example_mm": "ရင်းနှီးမြှုပ်နှံမှုအကြောင်း အလွန်ဗဟုသုတရှိသည်"
+  },
+  {
+    "number": "746",
+    "word": "craftspeople",
+    "meaning_jp": "芸術家と職人",
+    "meaning_mm": "လက်မှုပညာရှင်များ",
+    "example": "artists and craftspeople",
+    "example_jp": "芸術家と職人",
+    "example_mm": "အနုပညာရှင်များနှင့် လက်မှုပညာရှင်များ"
+  },
+  {
+    "number": "747",
+    "word": "delete",
+    "meaning_jp": "不要なファイルを削除する",
+    "meaning_mm": "ဖျက်သည်၊ ပယ်ဖျက်သည်",
+    "example": "delete unnecessary files",
+    "example_jp": "不要なファイルを削除する",
+    "example_mm": "မလိုအပ်သော ဖိုင်များကို ဖျက်သည်"
+  },
+  {
+    "number": "748",
+    "word": "emerging",
+    "meaning_jp": "新興市場",
+    "meaning_mm": "ပေါ်ထွက်လာသော၊ ထွန်းသစ်စ",
+    "example": "emerging markets",
+    "example_jp": "新興市場",
+    "example_mm": "ထွန်းသစ်စ စျေးကွက်များ"
+  },
+  {
+    "number": "749",
+    "word": "enroll",
+    "meaning_jp": "エアロビクスのクラスに入る",
+    "meaning_mm": "စာရင်းသွင်းသည်၊ စာရင်းပေးသွင်းသည်",
+    "example": "enroll in an aerobics class",
+    "example_jp": "エアロビクスのクラスに入る",
+    "example_mm": "အေရိုးဗစ် အတန်းထဲ စာရင်းသွင်းသည်"
+  },
+  {
+    "number": "750",
+    "word": "proficiency",
+    "meaning_jp": "英語のスキルの高さ",
+    "meaning_mm": "ကျွမ်းကျင်မှု၊ စွမ်းရည်",
+    "example": "proficiency in English",
+    "example_jp": "英語のスキルの高さ",
+    "example_mm": "အင်္ဂလိပ်ဘာသာ ကျွမ်းကျင်မှု"
+  }
+]

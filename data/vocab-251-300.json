@@ -1,0 +1,452 @@
+[
+  {
+    "number": "251",
+    "word": "familiar",
+    "meaning_jp": "よく知っている、おなじみの",
+    "meaning_mm": "ရင်းနှီးသော၊ ကျွမ်းဝင်သော",
+    "example": "I am familiar with the area.",
+    "example_jp": "私はその地域をよく知っています。",
+    "example_mm": "ငါ အဲဒီဒေသကို ကောင်းကောင်းသိတယ်။"
+  },
+  {
+    "number": "252",
+    "word": "ideal",
+    "meaning_jp": "理想的な",
+    "meaning_mm": "စံပြဖြစ်သော၊ အကောင်းဆုံးဖြစ်သော",
+    "example": "an ideal location",
+    "example_jp": "理想的な立地",
+    "example_mm": "စံပြဖြစ်သော တည်နေရာ"
+  },
+  {
+    "number": "253",
+    "word": "maintain",
+    "meaning_jp": "維持する、主張する",
+    "meaning_mm": "ထိန်းသိမ်းသည်၊ ဆက်လက်ထားရှိသည်",
+    "example": "maintain a Web site",
+    "example_jp": "ウェブサイトを維持管理する",
+    "example_mm": "ဝဘ်ဆိုဒ်ကို ထိန်းသိမ်းသည်"
+  },
+  {
+    "number": "254",
+    "word": "landscaping",
+    "meaning_jp": "造園業",
+    "meaning_mm": "ဥယျာဉ်ခြံမြေ ပြုပြင်ရေး လုပ်ငန်း",
+    "example": "a landscaping company",
+    "example_jp": "造園会社",
+    "example_mm": "ဥယျာဉ်ခြံမြေ ပြုပြင်ရေး ကုမ္ပဏီ"
+  },
+  {
+    "number": "255",
+    "word": "organize",
+    "meaning_jp": "（イベントや会議に必要な準備をして段取りを）整える、チームを組織化する（際に使われる）ビジネス必須語",
+    "meaning_mm": "စီစဉ်ဖွဲ့စည်းသည်၊ စီစဉ်သည်",
+    "example": "organize an event",
+    "example_jp": "イベントを取りまとめる",
+    "example_mm": "ပွဲတစ်ခုကို စီစဉ်သည်"
+  },
+  {
+    "number": "256",
+    "word": "significant",
+    "meaning_jp": "かなりの、大幅な、重要な",
+    "meaning_mm": "သိသိသာသာ၊ အရေးပါသော",
+    "example": "a significant increase in profits",
+    "example_jp": "かなりの利益増",
+    "example_mm": "အမြတ် သိသိသာသာ တိုးလာမှု"
+  },
+  {
+    "number": "257",
+    "word": "occasion",
+    "meaning_jp": "特別な行事、（何かが起こる）際、好機",
+    "meaning_mm": "အထူးအခမ်းအနား၊ အခါအားလျော်စွာ",
+    "example": "a special occasion",
+    "example_jp": "特別な行事",
+    "example_mm": "အထူးအခမ်းအနား"
+  },
+  {
+    "number": "258",
+    "word": "standard",
+    "meaning_jp": "基準、標準の",
+    "meaning_mm": "စံနှုန်း၊ စံချိန်စံညွှန်း",
+    "example": "safety standards",
+    "example_jp": "安全基準",
+    "example_mm": "ဘေးကင်းရေး စံနှုန်းများ"
+  },
+  {
+    "number": "259",
+    "word": "background",
+    "meaning_jp": "経歴、背景",
+    "meaning_mm": "နောက်ခံ၊ အတွေ့အကြုံ",
+    "example": "an impressive educational background",
+    "example_jp": "優れた学歴",
+    "example_mm": "ထင်ရှားသော ပညာရေးနောက်ခံ"
+  },
+  {
+    "number": "260",
+    "word": "guided",
+    "meaning_jp": "ガイド付きの",
+    "meaning_mm": "လမ်းညွှန်ပါသော",
+    "example": "a guided tour",
+    "example_jp": "ガイド付きのツアー",
+    "example_mm": "လမ်းညွှန်ပါသော ခရီးစဉ်"
+  },
+  {
+    "number": "261",
+    "word": "advanced",
+    "meaning_jp": "先端（進んだ）技術",
+    "meaning_mm": "အဆင့်မြင့်သော၊ ခေတ်မီသော",
+    "example": "advanced technology",
+    "example_jp": "先端（進んだ）技術",
+    "example_mm": "အဆင့်မြင့် နည်းပညာ"
+  },
+  {
+    "number": "262",
+    "word": "alternative",
+    "meaning_jp": "代わりの、代案",
+    "meaning_mm": "အစားထိုးရွေးချယ်မှု၊ အခြားနည်းလမ်း",
+    "example": "an alternative date",
+    "example_jp": "代わりの日",
+    "example_mm": "အစားထိုး ရက်စွဲ"
+  },
+  {
+    "number": "263",
+    "word": "confident",
+    "meaning_jp": "自信がある",
+    "meaning_mm": "ယုံကြည်မှုရှိသော၊ ကိုယ့်ကိုယ်ကိုယ် ယုံကြည်သော",
+    "example": "I'm confident that I can do it.",
+    "example_jp": "私はそれができる自信があります。",
+    "example_mm": "ငါ ဒါကို လုပ်နိုင်တယ်ဆိုတဲ့ ယုံကြည်မှုရှိတယ်။"
+  },
+  {
+    "number": "264",
+    "word": "decade",
+    "meaning_jp": "10年間、10年",
+    "meaning_mm": "ဆယ်စုနှစ်",
+    "example": "over the past two decades",
+    "example_jp": "過去20年間に渡って",
+    "example_mm": "လွန်ခဲ့သော ဆယ်စုနှစ် ၂ ခုအတွင်း"
+  },
+  {
+    "number": "265",
+    "word": "initial",
+    "meaning_jp": "最初の、当初の",
+    "meaning_mm": "ကနဦး၊ အစပိုင်း",
+    "example": "attend the initial training session",
+    "example_jp": "最初の研修に参加する",
+    "example_mm": "ကနဦး သင်တန်းတွင် ပါဝင်သည်"
+  },
+  {
+    "number": "266",
+    "word": "separate",
+    "meaning_jp": "（複数のものに）分かれた、（別々に）分ける",
+    "meaning_mm": "ခွဲထားသော၊ သီးခြားဖြစ်သော",
+    "example": "My order arrived in two separate shipments.",
+    "example_jp": "私の注文は2回の別々の配送で届いた。",
+    "example_mm": "ငါ့အော်ဒါက သီးခြား ပို့ဆောင်မှု ၂ ခုနဲ့ ရောက်လာတယ်။"
+  },
+  {
+    "number": "267",
+    "word": "celebration",
+    "meaning_jp": "お祝い、祝典",
+    "meaning_mm": "အခမ်းအနား၊ ဂုဏ်ပြုပွဲ",
+    "example": "the grand opening celebration",
+    "example_jp": "グランドオープンのお祝い",
+    "example_mm": "ဖွင့်ပွဲ အခမ်းအနား"
+  },
+  {
+    "number": "268",
+    "word": "concern",
+    "meaning_jp": "心配、懸念、関心事",
+    "meaning_mm": "စိုးရိမ်မှု၊ စိုးရိမ်ပူပန်မှု",
+    "example": "express concern",
+    "example_jp": "懸念を示す",
+    "example_mm": "စိုးရိမ်မှုကို ဖော်ပြသည်"
+  },
+  {
+    "number": "269",
+    "word": "environment",
+    "meaning_jp": "環境",
+    "meaning_mm": "ပတ်ဝန်းကျင်",
+    "example": "work environment",
+    "example_jp": "職場環境",
+    "example_mm": "အလုပ်ခွင် ပတ်ဝန်းကျင်"
+  },
+  {
+    "number": "270",
+    "word": "operate",
+    "meaning_jp": "（会社）を営業する、機械を安全に操作する、運用する",
+    "meaning_mm": "လုပ်ကိုင်သည်၊ လည်ပတ်စေသည်",
+    "example": "operate a machine safely",
+    "example_jp": "機械を安全に操作する",
+    "example_mm": "စက်ကို ဘေးကင်းစွာ လည်ပတ်စေသည်"
+  },
+  {
+    "number": "271",
+    "word": "various",
+    "meaning_jp": "さまざまなデザインや柄",
+    "meaning_mm": "အမျိုးမျိုးသော၊ မတူညီသော",
+    "example": "various designs and patterns",
+    "example_jp": "さまざまなデザインや柄",
+    "example_mm": "အမျိုးမျိုးသော ဒီဇိုင်းနှင့် ပုံစံများ"
+  },
+  {
+    "number": "272",
+    "word": "brief",
+    "meaning_jp": "短い、報告書",
+    "meaning_mm": "အတိုချုံး၊ အကျဉ်းချုပ်",
+    "example": "a brief report",
+    "example_jp": "短い報告書",
+    "example_mm": "အတိုချုံး အစီရင်ခံစာ"
+  },
+  {
+    "number": "273",
+    "word": "full-time",
+    "meaning_jp": "常勤の社員",
+    "meaning_mm": "အချိန်ပြည့်၊ အမြဲတမ်း",
+    "example": "full-time employees",
+    "example_jp": "常勤の社員",
+    "example_mm": "အချိန်ပြည့် ဝန်ထမ်းများ"
+  },
+  {
+    "number": "274",
+    "word": "overall",
+    "meaning_jp": "全体の予算",
+    "meaning_mm": "စုစုပေါင်း၊ အလုံးစုံ",
+    "example": "the overall budget",
+    "example_jp": "全体の予算",
+    "example_mm": "စုစုပေါင်း ဘတ်ဂျက်"
+  },
+  {
+    "number": "275",
+    "word": "achieve",
+    "meaning_jp": "販売目標を達成する",
+    "meaning_mm": "အောင်မြင်စွာ ပြီးမြောက်သည်၊ ရည်မှန်းချက်ပြည့်သည်",
+    "example": "achieve a sales target",
+    "example_jp": "販売目標を達成する",
+    "example_mm": "အရောင်းပန်းတိုင် ပြည့်မီသည်"
+  },
+  {
+    "number": "276",
+    "word": "basis",
+    "meaning_jp": "月単位で支払う",
+    "meaning_mm": "အခြေခံ၊ အခြေခံအပေါ်",
+    "example": "pay on a monthly basis",
+    "example_jp": "月単位で支払う",
+    "example_mm": "လစဉ်အခြေခံဖြင့် ပေးချေသည်"
+  },
+  {
+    "number": "277",
+    "word": "complex",
+    "meaning_jp": "スポーツの複合施設",
+    "meaning_mm": "ရှုပ်ထွေးသော၊ ပေါင်းစပ်ထားသော",
+    "example": "a sports complex",
+    "example_jp": "スポーツの複合施設",
+    "example_mm": "အားကစား ပေါင်းစပ်အဆောက်အအုံ"
+  },
+  {
+    "number": "278",
+    "word": "delighted",
+    "meaning_jp": "お会いできてとても嬉しいです。",
+    "meaning_mm": "အလွန်ဝမ်းသာသော၊ ပျော်ရွှင်သော",
+    "example": "We are delighted to see you.",
+    "example_jp": "お会いできてとても嬉しいです。",
+    "example_mm": "သင့်ကို တွေ့ရတာ အရမ်းဝမ်းသာပါတယ်။"
+  },
+  {
+    "number": "279",
+    "word": "obtain",
+    "meaning_jp": "インターネットから情報を得る",
+    "meaning_mm": "ရယူသည်၊ ရရှိသည်",
+    "example": "obtain information from the Internet",
+    "example_jp": "インターネットから情報を得る",
+    "example_mm": "အင်တာနက်မှ အချက်အလက် ရယူသည်"
+  },
+  {
+    "number": "280",
+    "word": "honor",
+    "meaning_jp": "社員を称える",
+    "meaning_mm": "ဂုဏ်ပြုသည်၊ ချီးမြှင့်သည်",
+    "example": "honor an employee",
+    "example_jp": "社員を称える",
+    "example_mm": "ဝန်ထမ်းတစ်ဦးကို ဂုဏ်ပြုသည်"
+  },
+  {
+    "number": "281",
+    "word": "property",
+    "meaning_jp": "きちんと訓練されたスタッフ",
+    "meaning_mm": "ပိုင်ဆိုင်မှု၊ အိမ်ခြံမြေ",
+    "example": "properly trained staff",
+    "example_jp": "きちんと訓練されたスタッフ",
+    "example_mm": "ကောင်းစွာ လေ့ကျင့်ထားသော ဝန်ထမ်းများ"
+  },
+  {
+    "number": "282",
+    "word": "suitable",
+    "meaning_jp": "アウトドア用に適した",
+    "meaning_mm": "သင့်တော်သော၊ ကိုက်ညီသော",
+    "example": "suitable for outdoor use",
+    "example_jp": "アウトドア用に適した",
+    "example_mm": "အပြင်ဘက် အသုံးပြုရန် သင့်တော်သော"
+  },
+  {
+    "number": "283",
+    "word": "electronic",
+    "meaning_jp": "個人用の電子機器",
+    "meaning_mm": "အီလက်ထရွန်နစ်ဆိုင်ရာ",
+    "example": "personal electronic devices",
+    "example_jp": "個人用の電子機器",
+    "example_mm": "တစ်ကိုယ်ရေ အီလက်ထရွန်နစ် ကိရိယာများ"
+  },
+  {
+    "number": "284",
+    "word": "finalize",
+    "meaning_jp": "契約を取りまとめる",
+    "meaning_mm": "အပြီးသတ်သည်၊ နောက်ဆုံးအဆင့်သတ်မှတ်သည်",
+    "example": "finalize a contract",
+    "example_jp": "契約を取りまとめる",
+    "example_mm": "စာချုပ်ကို အပြီးသတ်သည်"
+  },
+  {
+    "number": "285",
+    "word": "generous",
+    "meaning_jp": "慈善団体への寛大な寄付",
+    "meaning_mm": "ရက်ရောသော၊ စေတနာထက်သန်သော",
+    "example": "a generous donation to a charity",
+    "example_jp": "慈善団体への寛大な寄付",
+    "example_mm": "ပရဟိတအဖွဲ့သို့ ရက်ရောသော လှူဒါန်းမှု"
+  },
+  {
+    "number": "286",
+    "word": "preparation",
+    "meaning_jp": "イベントの準備のため",
+    "meaning_mm": "ပြင်ဆင်မှု၊ အဆင်သင့်ဖြစ်မှု",
+    "example": "in preparation for an event",
+    "example_jp": "イベントの準備のため",
+    "example_mm": "ပွဲတစ်ခုအတွက် ပြင်ဆင်မှုအနေဖြင့်"
+  },
+  {
+    "number": "287",
+    "word": "duty",
+    "meaning_jp": "教師の主な任務",
+    "meaning_mm": "တာဝန်၊ ဝတ္တရား",
+    "example": "main duties of a teacher",
+    "example_jp": "教師の主な任務",
+    "example_mm": "ဆရာတစ်ဦး၏ အဓိကတာဝန်များ"
+  },
+  {
+    "number": "288",
+    "word": "earn",
+    "meaning_jp": "人々の尊敬を得る",
+    "meaning_mm": "ရရှိသည်၊ ရှာဖွေသည်",
+    "example": "earn the respect of people",
+    "example_jp": "人々の尊敬を得る",
+    "example_mm": "လူများ၏ လေးစားမှုကို ရရှိသည်"
+  },
+  {
+    "number": "289",
+    "word": "willing",
+    "meaning_jp": "私は海外で働く意思がある。",
+    "meaning_mm": "ဆန္ဒရှိသော၊ အသင့်ဖြစ်သော",
+    "example": "I am willing to work overseas.",
+    "example_jp": "私は海外で働く意思がある。",
+    "example_mm": "ငါ နိုင်ငံခြားမှာ အလုပ်လုပ်ရန် ဆန္ဒရှိတယ်။"
+  },
+  {
+    "number": "290",
+    "word": "worth",
+    "meaning_jp": "その本は読む価値がある。",
+    "meaning_mm": "တန်ဖိုးရှိသော၊ ထိုက်တန်သော",
+    "example": "The book is worth reading.",
+    "example_jp": "その本は読む価値がある。",
+    "example_mm": "အဲဒီစာအုပ်က ဖတ်ရန် ထိုက်တန်တယ်။"
+  },
+  {
+    "number": "291",
+    "word": "fund",
+    "meaning_jp": "政府に資金提供されているプロジェクト",
+    "meaning_mm": "ရန်ပုံငွေ၊ ထောက်ပံ့ငွေ",
+    "example": "a project funded by the government",
+    "example_jp": "政府に資金提供されているプロジェクト",
+    "example_mm": "အစိုးရမှ ရန်ပုံငွေထောက်ပံ့ထားသော စီမံကိန်း"
+  },
+  {
+    "number": "292",
+    "word": "overnight",
+    "meaning_jp": "無料の翌日配送",
+    "meaning_mm": "တစ်ညအိပ်၊ နောက်တစ်နေ့",
+    "example": "free overnight delivery",
+    "example_jp": "無料の翌日配送",
+    "example_mm": "အခမဲ့ နောက်တစ်နေ့ ပို့ဆောင်မှု"
+  },
+  {
+    "number": "293",
+    "word": "particularly",
+    "meaning_jp": "歴史に特に興味がある",
+    "meaning_mm": "အထူးသဖြင့်၊ အထူးအလေးထားသော",
+    "example": "particularly interested in history",
+    "example_jp": "歴史に特に興味がある",
+    "example_mm": "သမိုင်းကို အထူးသဖြင့် စိတ်ဝင်စားသည်"
+  },
+  {
+    "number": "294",
+    "word": "aspect",
+    "meaning_jp": "プロジェクトのすべての面",
+    "meaning_mm": "ရှုထောင့်၊ အပိုင်းအခြား",
+    "example": "every aspect of a project",
+    "example_jp": "プロジェクトのすべての面",
+    "example_mm": "စီမံကိန်း၏ ရှုထောင့်အားလုံး"
+  },
+  {
+    "number": "295",
+    "word": "hesitate",
+    "meaning_jp": "遠慮することなくご連絡ください。",
+    "meaning_mm": "တုံ့ဆိုင်းသည်၊ ချီတုံချတုံဖြစ်သည်",
+    "example": "Please do not hesitate to contact us.",
+    "example_jp": "遠慮することなくご連絡ください。",
+    "example_mm": "တုံ့ဆိုင်းမနေဘဲ ဆက်သွယ်ပေးပါ။"
+  },
+  {
+    "number": "296",
+    "word": "involved",
+    "meaning_jp": "私はそのプロジェクトに関わっていなかった。",
+    "meaning_mm": "ပါဝင်ပတ်သက်သော၊ ဆက်စပ်နေသော",
+    "example": "I was not involved with the project.",
+    "example_jp": "私はそのプロジェクトに関わっていなかった。",
+    "example_mm": "ငါ အဲဒီစီမံကိန်းနဲ့ ပတ်သက်မှု မရှိခဲ့ဘူး။"
+  },
+  {
+    "number": "297",
+    "word": "regularly",
+    "meaning_jp": "定期的に更新されるリスト",
+    "meaning_mm": "ပုံမှန်အားဖြင့်၊ ပုံမှန်အချိန်တွင်",
+    "example": "a regularly updated list",
+    "example_jp": "定期的に更新されるリスト",
+    "example_mm": "ပုံမှန် အပ်ဒိတ်လုပ်သော စာရင်း"
+  },
+  {
+    "number": "298",
+    "word": "scholarship",
+    "meaning_jp": "奨学金を申請する",
+    "meaning_mm": "ပညာသင်ဆု",
+    "example": "apply for a scholarship",
+    "example_jp": "奨学金を申請する",
+    "example_mm": "ပညာသင်ဆု လျှောက်ထားသည်"
+  },
+  {
+    "number": "299",
+    "word": "shortly",
+    "meaning_jp": "会議はじきに始まります。",
+    "meaning_mm": "မကြာမီ၊ မကြာမီအချိန်တွင်",
+    "example": "The meeting will begin shortly.",
+    "example_jp": "会議はじきに始まります。",
+    "example_mm": "အစည်းအဝေးက မကြာမီ စတင်ပါမယ်။"
+  },
+  {
+    "number": "300",
+    "word": "automobile",
+    "meaning_jp": "自動車製造",
+    "meaning_mm": "မော်တော်ကား၊ ကား",
+    "example": "automobile manufacturing",
+    "example_jp": "自動車製造",
+    "example_mm": "မော်တော်ကား ထုတ်လုပ်မှု"
+  }
+]

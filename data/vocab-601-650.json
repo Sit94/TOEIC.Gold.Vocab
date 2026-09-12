@@ -1,0 +1,452 @@
+[
+  {
+    "number": "601",
+    "word": "observe",
+    "meaning_jp": "傾向に気付く",
+    "meaning_mm": "သတိပြုမိသည်၊ လေ့လာသည်",
+    "example": "observe a trend",
+    "example_jp": "傾向に気付く",
+    "example_mm": "လမ်းကြောင်းတစ်ခုကို သတိပြုမိသည်"
+  },
+  {
+    "number": "602",
+    "word": "possess",
+    "meaning_jp": "知識を持つ",
+    "meaning_mm": "ပိုင်ဆိုင်သည်၊ ပိုင်သည်",
+    "example": "possess knowledge",
+    "example_jp": "知識を持つ",
+    "example_mm": "အသိပညာ ပိုင်ဆိုင်သည်"
+  },
+  {
+    "number": "603",
+    "word": "sharply",
+    "meaning_jp": "売り上げが急激に上がった。",
+    "meaning_mm": "သိသိသာသာ၊ ပြတ်သားစွာ",
+    "example": "Sales rose sharply.",
+    "example_jp": "売り上げが急激に上がった。",
+    "example_mm": "အရောင်းတွေ သိသိသာသာ တက်လာခဲ့တယ်။"
+  },
+  {
+    "number": "604",
+    "word": "adjustment",
+    "meaning_jp": "計画を調整する",
+    "meaning_mm": "ချိန်ညှိမှု၊ ပြုပြင်မှု",
+    "example": "make adjustments to the plan",
+    "example_jp": "計画を調整する",
+    "example_mm": "အစီအစဉ်ကို ချိန်ညှိသည်"
+  },
+  {
+    "number": "605",
+    "word": "aisle",
+    "meaning_jp": "通路側の席がいいです。",
+    "meaning_mm": "လမ်းကြား၊ အတန်းကြား",
+    "example": "I prefer an aisle seat.",
+    "example_jp": "通路側の席がいいです。",
+    "example_mm": "ငါ လမ်းကြားဘေး ထိုင်ခုံကို ပိုနှစ်သက်တယ်။"
+  },
+  {
+    "number": "606",
+    "word": "capture",
+    "meaning_jp": "写真は人生の思い出の瞬間を記録します。",
+    "meaning_mm": "ဖမ်းယူသည်၊ မှတ်တမ်းတင်သည်",
+    "example": "Photographs capture memorable moments in life.",
+    "example_jp": "写真は人生の思い出の瞬間を記録します。",
+    "example_mm": "ဓာတ်ပုံတွေက ဘဝရဲ့ အမှတ်တရ အခိုက်အတန့်တွေကို မှတ်တမ်းတင်ပေးတယ်။"
+  },
+  {
+    "number": "607",
+    "word": "consist",
+    "meaning_jp": "委員会は5人のメンバーで構成されている。",
+    "meaning_mm": "ပါဝင်ဖွဲ့စည်းသည်၊ ပါဝင်သည်",
+    "example": "The committee consists of five members.",
+    "example_jp": "委員会は5人のメンバーで構成されている。",
+    "example_mm": "ကော်မတီက အဖွဲ့ဝင် ၅ ဦးနဲ့ ဖွဲ့စည်းထားတယ်။"
+  },
+  {
+    "number": "608",
+    "word": "desirable",
+    "meaning_jp": "指導経験があることが望ましい。",
+    "meaning_mm": "လိုလားအပ်သော၊ နှစ်သက်ဖွယ်သော",
+    "example": "Teaching experience is desirable.",
+    "example_jp": "指導経験があることが望ましい。",
+    "example_mm": "သင်ကြားရေး အတွေ့အကြုံရှိခြင်းက လိုလားအပ်ပါတယ်။"
+  },
+  {
+    "number": "609",
+    "word": "heavily",
+    "meaning_jp": "非常に頻繁に使われるバスの路線",
+    "meaning_mm": "အလွန်၊ အများအပြား",
+    "example": "a heavily used bus route",
+    "example_jp": "非常に頻繁に使われるバスの路線",
+    "example_mm": "အလွန်အသုံးများသော ဘတ်စ်ကားလမ်းကြောင်း"
+  },
+  {
+    "number": "610",
+    "word": "investigate",
+    "meaning_jp": "可能性を調査する",
+    "meaning_mm": "စုံစမ်းစစ်ဆေးသည်၊ စစ်ဆေးသည်",
+    "example": "investigate a possibility",
+    "example_jp": "可能性を調査する",
+    "example_mm": "ဖြစ်နိုင်ခြေကို စုံစမ်းစစ်ဆေးသည်"
+  },
+  {
+    "number": "611",
+    "word": "measurement",
+    "meaning_jp": "テーブルの寸法を測る",
+    "meaning_mm": "တိုင်းတာမှု၊ အရွယ်အစား",
+    "example": "take the measurements of a table",
+    "example_jp": "テーブルの寸法を測る",
+    "example_mm": "စားပွဲ၏ အရွယ်အစားကို တိုင်းတာသည်"
+  },
+  {
+    "number": "612",
+    "word": "urgent",
+    "meaning_jp": "緊急の依頼",
+    "meaning_mm": "အရေးတကြီး၊ အရေးကြီးသော",
+    "example": "an urgent request",
+    "example_jp": "緊急の依頼",
+    "example_mm": "အရေးတကြီး တောင်းဆိုချက်"
+  },
+  {
+    "number": "613",
+    "word": "checkout",
+    "meaning_jp": "レジカウンター",
+    "meaning_mm": "ငွေရှင်းကောင်တာ",
+    "example": "the checkout counter",
+    "example_jp": "レジカウンター",
+    "example_mm": "ငွေရှင်းကောင်တာ"
+  },
+  {
+    "number": "614",
+    "word": "dispose",
+    "meaning_jp": "ごみを処分する",
+    "meaning_mm": "စွန့်ပစ်သည်၊ ဖယ်ရှားသည်",
+    "example": "dispose of garbage",
+    "example_jp": "ごみを処分する",
+    "example_mm": "အမှိုက်ကို စွန့်ပစ်သည်"
+  },
+  {
+    "number": "615",
+    "word": "modify",
+    "meaning_jp": "契約を修正する",
+    "meaning_mm": "ပြင်ဆင်သည်၊ ပြောင်းလဲသည်",
+    "example": "modify a contract",
+    "example_jp": "契約を修正する",
+    "example_mm": "စာချုပ်ကို ပြင်ဆင်သည်"
+  },
+  {
+    "number": "616",
+    "word": "outlet",
+    "meaning_jp": "日本で店舗をオープンする",
+    "meaning_mm": "ဆိုင်၊ ကုန်ပစ္စည်းရောင်းချရာ",
+    "example": "open an outlet in Japan",
+    "example_jp": "日本で店舗をオープンする",
+    "example_mm": "ဂျပန်မှာ ဆိုင်ဖွင့်သည်"
+  },
+  {
+    "number": "617",
+    "word": "prescription",
+    "meaning_jp": "処方せんを依頼する",
+    "meaning_mm": "ဆေးညွှန်း၊ ဆေးစာ",
+    "example": "ask for a prescription",
+    "example_jp": "処方せんを依頼する",
+    "example_mm": "ဆေးညွှန်း တောင်းသည်"
+  },
+  {
+    "number": "618",
+    "word": "situated",
+    "meaning_jp": "中心街に位置していて、そのホテルは便利だ。",
+    "meaning_mm": "တည်ရှိသော၊ တည်နေရာရှိသော",
+    "example": "Situated downtown, the hotel is convenient.",
+    "example_jp": "中心街に位置していて、そのホテルは便利だ。",
+    "example_mm": "မြို့လယ်မှာ တည်ရှိတာမို့ အဲဒီဟိုတယ်က အဆင်ပြေတယ်။"
+  },
+  {
+    "number": "619",
+    "word": "surprisingly",
+    "meaning_jp": "驚いたことに、テックスは試験に合格した。",
+    "meaning_mm": "အံ့သြစရာကောင်းလောက်အောင်",
+    "example": "Surprisingly, Tex passed the exam.",
+    "example_jp": "驚いたことに、テックスは試験に合格した。",
+    "example_mm": "အံ့သြစရာပဲ၊ တက်စ်က စာမေးပွဲ အောင်ခဲ့တယ်။"
+  },
+  {
+    "number": "620",
+    "word": "transform",
+    "meaning_jp": "電車の駅を博物館に一変させる",
+    "meaning_mm": "အသွင်ပြောင်းသည်၊ ပြောင်းလဲသည်",
+    "example": "transform a train station into a museum",
+    "example_jp": "電車の駅を博物館に一変させる",
+    "example_mm": "ရထားဘူတာကို ပြတိုက်အဖြစ် အသွင်ပြောင်းသည်"
+  },
+  {
+    "number": "621",
+    "word": "undergo",
+    "meaning_jp": "大規模な改装に入る",
+    "meaning_mm": "ခံယူသည်၊ ကြုံတွေ့ရသည်",
+    "example": "undergo major renovations",
+    "example_jp": "大規模な改装に入る",
+    "example_mm": "အကြီးအကျယ် ပြုပြင်မွမ်းမံမှု ခံယူသည်"
+  },
+  {
+    "number": "622",
+    "word": "blueprint",
+    "meaning_jp": "新しい劇場の設計図",
+    "meaning_mm": "ဒီဇိုင်းပုံစံ၊ အစီအစဉ်",
+    "example": "the blueprints for the new theater",
+    "example_jp": "新しい劇場の設計図",
+    "example_mm": "ဇာတ်ရုံအသစ်အတွက် ဒီဇိုင်းပုံစံများ"
+  },
+  {
+    "number": "623",
+    "word": "boost",
+    "meaning_jp": "会社の利益を押し上げる",
+    "meaning_mm": "မြှင့်တင်သည်၊ တိုးမြှင့်သည်",
+    "example": "boost the company's profit",
+    "example_jp": "会社の利益を押し上げる",
+    "example_mm": "ကုမ္ပဏီ၏ အမြတ်ကို မြှင့်တင်သည်"
+  },
+  {
+    "number": "624",
+    "word": "considerably",
+    "meaning_jp": "かなり安くなった価格",
+    "meaning_mm": "သိသိသာသာ၊ အတော်အတန်",
+    "example": "considerably lower prices",
+    "example_jp": "かなり安くなった価格",
+    "example_mm": "သိသိသာသာ သက်သာသွားသော စျေးနှုန်းများ"
+  },
+  {
+    "number": "625",
+    "word": "eliminate",
+    "meaning_jp": "リスクを取り除く",
+    "meaning_mm": "ဖယ်ရှားသည်၊ ပပျောက်စေသည်",
+    "example": "eliminate a risk",
+    "example_jp": "リスクを取り除く",
+    "example_mm": "အန္တရာယ်ကို ဖယ်ရှားသည်"
+  },
+  {
+    "number": "626",
+    "word": "exclusively",
+    "meaning_jp": "メンバー限定で利用できる",
+    "meaning_mm": "သီးသန့်၊ သီးခြား",
+    "example": "available exclusively to our members",
+    "example_jp": "メンバー限定で利用できる",
+    "example_mm": "ကျွန်တော်တို့ အဖွဲ့ဝင်များအတွက် သီးသန့် ရနိုင်သည်"
+  },
+  {
+    "number": "627",
+    "word": "leak",
+    "meaning_jp": "流しの下のパイプから水が漏れている。",
+    "meaning_mm": "ယိုစိမ့်သည်၊ ယိုစီးသည်",
+    "example": "The pipe under the sink is leaking.",
+    "example_jp": "流しの下のパイプから水が漏れている。",
+    "example_mm": "မီးဖိုခုံအောက်က ပိုက်ကနေ ရေတွေ ယိုစိမ့်နေတယ်။"
+  },
+  {
+    "number": "628",
+    "word": "preliminary",
+    "meaning_jp": "調査の暫定結果",
+    "meaning_mm": "ပဏာမ၊ အစောပိုင်း",
+    "example": "preliminary results from a survey",
+    "example_jp": "調査の暫定結果",
+    "example_mm": "စစ်တမ်းတစ်ခုမှ ပဏာမရလဒ်များ"
+  },
+  {
+    "number": "629",
+    "word": "sophisticated",
+    "meaning_jp": "洗練されたデザイン",
+    "meaning_mm": "ခေတ်မီဆန်းပြားသော၊ ရှုပ်ထွေးသော",
+    "example": "a sophisticated design",
+    "example_jp": "洗練されたデザイン",
+    "example_mm": "ခေတ်မီဆန်းပြားသော ဒီဇိုင်း"
+  },
+  {
+    "number": "630",
+    "word": "statistics",
+    "meaning_jp": "一番最近の統計",
+    "meaning_mm": "စာရင်းအင်း၊ ကိန်းဂဏန်း",
+    "example": "the most recent statistics",
+    "example_jp": "一番最近の統計",
+    "example_mm": "နောက်ဆုံးပေါ် စာရင်းအင်းများ"
+  },
+  {
+    "number": "631",
+    "word": "vacant",
+    "meaning_jp": "アパートの空室",
+    "meaning_mm": "လွတ်လပ်နေသော၊ လူမနေသော",
+    "example": "a vacant unit in an apartment building",
+    "example_jp": "アパートの空室",
+    "example_mm": "တိုက်ခန်းတစ်ခုရှိ လွတ်နေသော အခန်း"
+  },
+  {
+    "number": "632",
+    "word": "evidence",
+    "meaning_jp": "支払いの証拠",
+    "meaning_mm": "သက်သေ၊ အထောက်အထား",
+    "example": "evidence of payment",
+    "example_jp": "支払いの証拠",
+    "example_mm": "ငွေပေးချေမှု အထောက်အထား"
+  },
+  {
+    "number": "633",
+    "word": "excursion",
+    "meaning_jp": "買い物のお出かけ",
+    "meaning_mm": "ခရီးတိုတစ်ခု၊ လည်ပတ်ခရီး",
+    "example": "a shopping excursion",
+    "example_jp": "買い物のお出かけ",
+    "example_mm": "စျေးဝယ်ထွက်ခြင်း"
+  },
+  {
+    "number": "634",
+    "word": "influence",
+    "meaning_jp": "結論に影響を与える",
+    "meaning_mm": "သက်ရောက်မှု၊ လွှမ်းမိုးမှု",
+    "example": "influence a decision",
+    "example_jp": "結論に影響を与える",
+    "example_mm": "ဆုံးဖြတ်ချက်အပေါ် သက်ရောက်မှုရှိသည်"
+  },
+  {
+    "number": "635",
+    "word": "ordinary",
+    "meaning_jp": "普通の家に住む",
+    "meaning_mm": "သာမန်၊ ပုံမှန်",
+    "example": "live in an ordinary house",
+    "example_jp": "普通の家に住む",
+    "example_mm": "သာမန်အိမ်တစ်လုံးမှာ နေထိုင်သည်"
+  },
+  {
+    "number": "636",
+    "word": "reject",
+    "meaning_jp": "提案を却下する",
+    "meaning_mm": "ငြင်းပယ်သည်၊ ပယ်ချသည်",
+    "example": "reject a proposal",
+    "example_jp": "提案を却下する",
+    "example_mm": "အဆိုပြုချက်ကို ပယ်ချသည်"
+  },
+  {
+    "number": "637",
+    "word": "tailor",
+    "meaning_jp": "顧客のニーズにサービスを合わせる",
+    "meaning_mm": "သင့်တော်အောင် ချိန်ညှိသည်၊ ဖန်တီးသည်",
+    "example": "tailor services to clients' needs",
+    "example_jp": "顧客のニーズにサービスを合わせる",
+    "example_mm": "ဖောက်သည်များ၏ လိုအပ်ချက်နှင့်အညီ ဝန်ဆောင်မှုများ ချိန်ညှိပေးသည်"
+  },
+  {
+    "number": "638",
+    "word": "assume",
+    "meaning_jp": "職務を引き受ける",
+    "meaning_mm": "လက်ခံသည်၊ တာဝန်ယူသည်",
+    "example": "assume responsibilities",
+    "example_jp": "職務を引き受ける",
+    "example_mm": "တာဝန်များကို လက်ခံသည်"
+  },
+  {
+    "number": "639",
+    "word": "engagement",
+    "meaning_jp": "前からの約束（先約）",
+    "meaning_mm": "ကတိကဝတ်၊ ကတိပြုမှု",
+    "example": "a previous engagement",
+    "example_jp": "前からの約束（先約）",
+    "example_mm": "ယခင်က ကတိပြုထားမှု"
+  },
+  {
+    "number": "640",
+    "word": "fame",
+    "meaning_jp": "国際的な名声を得る",
+    "meaning_mm": "ကျော်ကြားမှု၊ နာမည်ကြီးမှု",
+    "example": "achieve international fame",
+    "example_jp": "国際的な名声を得る",
+    "example_mm": "နိုင်ငံတကာ ကျော်ကြားမှု ရရှိသည်"
+  },
+  {
+    "number": "641",
+    "word": "modest",
+    "meaning_jp": "小幅の値上げ",
+    "meaning_mm": "ကျိုးနွံသော၊ မကြီးမားသော",
+    "example": "a modest increase in price",
+    "example_jp": "小幅の値上げ",
+    "example_mm": "စျေးနှုန်း အနည်းငယ် တိုးလာမှု"
+  },
+  {
+    "number": "642",
+    "word": "patent",
+    "meaning_jp": "特許を出願する",
+    "meaning_mm": "မူပိုင်ခွင့်၊ မူပိုင်ခွင့်တင်သည်",
+    "example": "apply for a patent",
+    "example_jp": "特許を出願する",
+    "example_mm": "မူပိုင်ခွင့် လျှောက်ထားသည်"
+  },
+  {
+    "number": "643",
+    "word": "pursue",
+    "meaning_jp": "その会社は新しい市場を追い求めている。",
+    "meaning_mm": "လိုက်လံသည်၊ အားထုတ်သည်",
+    "example": "The company is pursuing a new market.",
+    "example_jp": "その会社は新しい市場を追い求めている。",
+    "example_mm": "အဲဒီကုမ္ပဏီက စျေးကွက်အသစ်ကို လိုက်လံနေတယ်။"
+  },
+  {
+    "number": "644",
+    "word": "remote",
+    "meaning_jp": "人里離れた山村",
+    "meaning_mm": "ဝေးလံသော၊ ဝေးကွာသော",
+    "example": "a remote mountain village",
+    "example_jp": "人里離れた山村",
+    "example_mm": "ဝေးလံသော တောင်တန်းရွာ"
+  },
+  {
+    "number": "645",
+    "word": "reveal",
+    "meaning_jp": "問題の原因を明らかにする",
+    "meaning_mm": "ထုတ်ဖော်သည်၊ ဖော်ပြသည်",
+    "example": "reveal the cause of the problem",
+    "example_jp": "問題の原因を明らかにする",
+    "example_mm": "ပြဿနာ၏ အကြောင်းရင်းကို ထုတ်ဖော်သည်"
+  },
+  {
+    "number": "646",
+    "word": "allowance",
+    "meaning_jp": "住宅手当",
+    "meaning_mm": "ထောက်ပံ့ကြေး၊ ခွင့်ပြုချက်",
+    "example": "a housing allowance",
+    "example_jp": "住宅手当",
+    "example_mm": "အိမ်ရာ ထောက်ပံ့ကြေး"
+  },
+  {
+    "number": "647",
+    "word": "crucial",
+    "meaning_jp": "技術革新は会社の成功に非常に重要だ。",
+    "meaning_mm": "အလွန်အရေးကြီးသော၊ အဓိကကျသော",
+    "example": "Innovation is crucial for business success.",
+    "example_jp": "技術革新は会社の成功に非常に重要だ。",
+    "example_mm": "ဆန်းသစ်တီထွင်မှုက လုပ်ငန်းအောင်မြင်မှုအတွက် အလွန်အရေးကြီးပါတယ်။"
+  },
+  {
+    "number": "648",
+    "word": "distinguished",
+    "meaning_jp": "ジャーナリストとしての際立って優れた経歴",
+    "meaning_mm": "ထင်ရှားသော၊ ကျော်ကြားသော",
+    "example": "a distinguished career as a journalist",
+    "example_jp": "ジャーナリストとしての際立って優れた経歴",
+    "example_mm": "ဂျာနယ်လစ်တစ်ဦးအနေဖြင့် ထင်ရှားသော အသက်မွေးဝမ်းကျောင်း"
+  },
+  {
+    "number": "649",
+    "word": "disturb",
+    "meaning_jp": "邪魔してすみません。",
+    "meaning_mm": "နှောင့်ယှက်သည်၊ အနှောင့်အယှက်ဖြစ်စေသည်",
+    "example": "I'm sorry to disturb you.",
+    "example_jp": "邪魔してすみません。",
+    "example_mm": "အနှောင့်အယှက်ဖြစ်သွားရင် တောင်းပန်ပါတယ်။"
+  },
+  {
+    "number": "650",
+    "word": "fluent",
+    "meaning_jp": "応募者は北京語がペラペラでなければいけません。",
+    "meaning_mm": "ကျွမ်းကျင်သော၊ လွယ်ကူစွာပြောနိုင်သော",
+    "example": "Applicants must be fluent in Mandarin.",
+    "example_jp": "応募者は北京語がペラペラでなければいけません。",
+    "example_mm": "လျှောက်ထားသူများသည် မန်ဒရင်ဘာသာစကားကို ကျွမ်းကျင်ရပါမည်။"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "number": "551",
+    "word": "dealership",
+    "meaning_jp": "車の販売特約店",
+    "meaning_mm": "ကားအရောင်း ကိုယ်စားလှယ်",
+    "example": "car dealerships",
+    "example_jp": "車の販売特約店",
+    "example_mm": "ကားအရောင်း ကိုယ်စားလှယ်ဆိုင်များ"
+  },
+  {
+    "number": "552",
+    "word": "garment",
+    "meaning_jp": "その衣料品は綿製です。",
+    "meaning_mm": "အဝတ်အထည်",
+    "example": "The garment is made of cotton.",
+    "example_jp": "その衣料品は綿製です。",
+    "example_mm": "အဲဒီအဝတ်အထည်က ဝါဂွမ်းနဲ့ လုပ်ထားတယ်။"
+  },
+  {
+    "number": "553",
+    "word": "implement",
+    "meaning_jp": "安全対策が実施された。",
+    "meaning_mm": "အကောင်အထည်ဖော်သည်၊ အတည်ပြုသည်",
+    "example": "Security measures were implemented.",
+    "example_jp": "安全対策が実施された。",
+    "example_mm": "လုံခြုံရေး အစီအမံများ အကောင်အထည်ဖော်ခဲ့သည်။"
+  },
+  {
+    "number": "554",
+    "word": "paycheck",
+    "meaning_jp": "給料を受け取る",
+    "meaning_mm": "လစာ၊ လုပ်ခ",
+    "example": "receive a paycheck",
+    "example_jp": "給料を受け取る",
+    "example_mm": "လစာ လက်ခံရရှိသည်"
+  },
+  {
+    "number": "555",
+    "word": "recruit",
+    "meaning_jp": "新しいスタッフを採用する",
+    "meaning_mm": "ခန့်အပ်သည်၊ စုဆောင်းသည်",
+    "example": "recruit new staff",
+    "example_jp": "新しいスタッフを採用する",
+    "example_mm": "ဝန်ထမ်းအသစ် ခန့်အပ်သည်"
+  },
+  {
+    "number": "556",
+    "word": "substitute",
+    "meaning_jp": "古いモノの代わりに新しいモノを使う",
+    "meaning_mm": "အစားထိုးသည်၊ အစားထိုးပစ္စည်း",
+    "example": "substitute new for old",
+    "example_jp": "古いモノの代わりに新しいモノを使う",
+    "example_mm": "အဟောင်းအစား အသစ်ကို အစားထိုးသုံးသည်"
+  },
+  {
+    "number": "557",
+    "word": "typically",
+    "meaning_jp": "通常、典型的に",
+    "meaning_mm": "ပုံမှန်အားဖြင့်၊ ထုံးစံအတိုင်း",
+    "example": "Our tours typically take an hour.",
+    "example_jp": "我々のツアーは通常1時間かかります。",
+    "example_mm": "ကျွန်တော်တို့ ခရီးစဉ်တွေက ပုံမှန်အားဖြင့် တစ်နာရီကြာတယ်။"
+  },
+  {
+    "number": "558",
+    "word": "authorize",
+    "meaning_jp": "公認する、権限を与える",
+    "meaning_mm": "ခွင့်ပြုသည်၊ အခွင့်အာဏာပေးသည်",
+    "example": "an authorized dealer",
+    "example_jp": "公認の販売店",
+    "example_mm": "တရားဝင် ကိုယ်စားလှယ်"
+  },
+  {
+    "number": "559",
+    "word": "comparable",
+    "meaning_jp": "同等の製品より値段が高い",
+    "meaning_mm": "နှိုင်းယှဉ်နိုင်သော၊ တူညီသော",
+    "example": "more expensive than comparable products",
+    "example_jp": "同等の製品より値段が高い",
+    "example_mm": "တူညီသော ထုတ်ကုန်များထက် စျေးပိုကြီးသည်"
+  },
+  {
+    "number": "560",
+    "word": "faculty",
+    "meaning_jp": "テックス大学の教員",
+    "meaning_mm": "ဆရာများ၊ မဟာဌာန",
+    "example": "a faculty member at Tex College",
+    "example_jp": "テックス大学の教員",
+    "example_mm": "တက်စ်ကောလိပ်၏ ဆရာ"
+  },
+  {
+    "number": "561",
+    "word": "initiative",
+    "meaning_jp": "成長のための新計画",
+    "meaning_mm": "ဆောင်ရွက်ချက်၊ အစပြုမှု",
+    "example": "a growth initiative",
+    "example_jp": "成長のための新計画",
+    "example_mm": "တိုးတက်မှုအတွက် အစီအစဉ်အသစ်"
+  },
+  {
+    "number": "562",
+    "word": "postage",
+    "meaning_jp": "郵便料金は重量で計算されます。",
+    "meaning_mm": "စာပို့ခ",
+    "example": "Postage is calculated by weight.",
+    "example_jp": "郵便料金は重量で計算されます。",
+    "example_mm": "စာပို့ခကို အလေးချိန်နှင့် တွက်ချက်ပါသည်။"
+  },
+  {
+    "number": "563",
+    "word": "afterwards",
+    "meaning_jp": "その後",
+    "meaning_mm": "ပြီးနောက်၊ နောက်ပိုင်း",
+    "example": "The author will sign books afterwards.",
+    "example_jp": "その後著者が本にサインをします。",
+    "example_mm": "ပြီးရင် စာရေးဆရာက စာအုပ်တွေမှာ လက်မှတ်ထိုးပါမယ်။"
+  },
+  {
+    "number": "564",
+    "word": "aim",
+    "meaning_jp": "エネルギー使用を減らすことを目指す",
+    "meaning_mm": "ရည်ရွယ်သည်၊ ရည်မှန်းသည်",
+    "example": "aim to cut energy use",
+    "example_jp": "エネルギー使用を減らすことを目指す",
+    "example_mm": "စွမ်းအင်အသုံးပြုမှု လျှော့ချရန် ရည်ရွယ်သည်"
+  },
+  {
+    "number": "565",
+    "word": "generally",
+    "meaning_jp": "おおむね、通常、一般的に",
+    "meaning_mm": "ယေဘုယျအားဖြင့်၊ ယေဘုယျ",
+    "example": "The film received generally positive reviews.",
+    "example_jp": "その映画はおおむね良い評価を得た。",
+    "example_mm": "အဲဒီရုပ်ရှင်က ယေဘုယျအားဖြင့် အပြုသဘောဆောင်တဲ့ သုံးသပ်ချက် ရရှိခဲ့တယ်။"
+  },
+  {
+    "number": "566",
+    "word": "occupied",
+    "meaning_jp": "その部屋は使われている。",
+    "meaning_mm": "အသုံးပြုနေသော၊ နေရာယူထားသော",
+    "example": "The room is occupied.",
+    "example_jp": "その部屋は使われている。",
+    "example_mm": "အဲဒီအခန်းက အသုံးပြုနေတယ်။"
+  },
+  {
+    "number": "567",
+    "word": "solid",
+    "meaning_jp": "確かな評判",
+    "meaning_mm": "ခိုင်မာသော၊ ခိုင်ခံ့သော",
+    "example": "a solid reputation",
+    "example_jp": "確かな評判",
+    "example_mm": "ခိုင်မာသော ဂုဏ်သတင်း"
+  },
+  {
+    "number": "568",
+    "word": "attempt",
+    "meaning_jp": "歌手になろうとするテックスの試み",
+    "meaning_mm": "ကြိုးစားသည်၊ ကြိုးပမ်းမှု",
+    "example": "Tex's attempt to become a singer",
+    "example_jp": "歌手になろうとするテックスの試み",
+    "example_mm": "အဆိုတော်ဖြစ်ရန် တက်စ်၏ ကြိုးပမ်းမှု"
+  },
+  {
+    "number": "569",
+    "word": "authority",
+    "meaning_jp": "権限を持った人",
+    "meaning_mm": "အခွင့်အာဏာ၊ အာဏာပိုင်",
+    "example": "the person in authority",
+    "example_jp": "権限を持った人",
+    "example_mm": "အခွင့်အာဏာရှိသူ"
+  },
+  {
+    "number": "570",
+    "word": "domestic",
+    "meaning_jp": "国内の市場",
+    "meaning_mm": "ပြည်တွင်း၊ အိမ်တွင်း",
+    "example": "the domestic market",
+    "example_jp": "国内の市場",
+    "example_mm": "ပြည်တွင်း စျေးကွက်"
+  },
+  {
+    "number": "571",
+    "word": "permission",
+    "meaning_jp": "許可なしに",
+    "meaning_mm": "ခွင့်ပြုချက်",
+    "example": "without permission",
+    "example_jp": "許可なしに",
+    "example_mm": "ခွင့်ပြုချက်မရှိဘဲ"
+  },
+  {
+    "number": "572",
+    "word": "presence",
+    "meaning_jp": "地域での強い存在感",
+    "meaning_mm": "တည်ရှိမှု၊ ရှိနေခြင်း",
+    "example": "a strong presence in the area",
+    "example_jp": "地域での強い存在感",
+    "example_mm": "ဒေသအတွင်း ခိုင်မာသော တည်ရှိမှု"
+  },
+  {
+    "number": "573",
+    "word": "rapidly",
+    "meaning_jp": "急速に成長している会社",
+    "meaning_mm": "အလျင်အမြန်၊ လျင်မြန်စွာ",
+    "example": "a rapidly growing company",
+    "example_jp": "急速に成長している会社",
+    "example_mm": "လျင်မြန်စွာ တိုးတက်နေသော ကုမ္ပဏီ"
+  },
+  {
+    "number": "574",
+    "word": "relief",
+    "meaning_jp": "消費者に安心感を与える",
+    "meaning_mm": "သက်သာမှု၊ စိတ်သက်သာရာရမှု",
+    "example": "provide relief to consumers",
+    "example_jp": "消費者に安心感を与える",
+    "example_mm": "စားသုံးသူများကို စိတ်သက်သာမှု ပေးသည်"
+  },
+  {
+    "number": "575",
+    "word": "reward",
+    "meaning_jp": "従業員のがんばりに報いる",
+    "meaning_mm": "ဆုချီးမြှင့်သည်၊ အကျိုးအမြတ်ပေးသည်",
+    "example": "reward employees for their hard work",
+    "example_jp": "従業員のがんばりに報いる",
+    "example_mm": "ဝန်ထမ်းများ၏ ကြိုးစားမှုအတွက် ဆုချီးမြှင့်သည်"
+  },
+  {
+    "number": "576",
+    "word": "translate",
+    "meaning_jp": "英語を日本語に翻訳する",
+    "meaning_mm": "ဘာသာပြန်သည်",
+    "example": "translate English into Japanese",
+    "example_jp": "英語を日本語に翻訳する",
+    "example_mm": "အင်္ဂလိပ်လို ဂျပန်လို ဘာသာပြန်သည်"
+  },
+  {
+    "number": "577",
+    "word": "circumstance",
+    "meaning_jp": "いかなる状況下でも",
+    "meaning_mm": "အခြေအနေ၊ အခြေအနေအရပ်ရပ်",
+    "example": "under any circumstances",
+    "example_jp": "いかなる状況下でも",
+    "example_mm": "မည်သည့်အခြေအနေမျိုးတွင်မဆို"
+  },
+  {
+    "number": "578",
+    "word": "contrary",
+    "meaning_jp": "期待に反して",
+    "meaning_mm": "ဆန့်ကျင်ဘက်၊ ဆန့်ကျင်သော",
+    "example": "contrary to expectations",
+    "example_jp": "期待に反して",
+    "example_mm": "မျှော်လင့်ချက်နှင့် ဆန့်ကျင်ဘက်"
+  },
+  {
+    "number": "579",
+    "word": "eventually",
+    "meaning_jp": "最終的には、結局",
+    "meaning_mm": "နောက်ဆုံးတွင်၊ အဆုံးတွင်",
+    "example": "Mr. Kato was eventually promoted to CEO.",
+    "example_jp": "加藤さんは最終的にはCEOに昇進した。",
+    "example_mm": "မစ္စတာကာတိုက နောက်ဆုံးတွင် CEO အဖြစ် ရာထူးတိုးခံခဲ့ရတယ်။"
+  },
+  {
+    "number": "580",
+    "word": "expose",
+    "meaning_jp": "太陽に直接さらされる",
+    "meaning_mm": "ထိတွေ့သည်၊ ဖော်ထုတ်သည်",
+    "example": "be directly exposed to the sun",
+    "example_jp": "太陽に直接さらされる",
+    "example_mm": "နေရောင်နှင့် တိုက်ရိုက်ထိတွေ့သည်"
+  },
+  {
+    "number": "581",
+    "word": "panel",
+    "meaning_jp": "専門家グループ",
+    "meaning_mm": "အဖွဲ့၊ ကော်မတီ",
+    "example": "a panel of experts",
+    "example_jp": "専門家グループ",
+    "example_mm": "ကျွမ်းကျင်သူများ အဖွဲ့"
+  },
+  {
+    "number": "582",
+    "word": "portion",
+    "meaning_jp": "チケットの下の部分",
+    "meaning_mm": "အပိုင်း၊ အပိုင်းအစ",
+    "example": "the bottom portion of the ticket",
+    "example_jp": "チケットの下の部分",
+    "example_mm": "လက်မှတ်၏ အောက်ပိုင်း"
+  },
+  {
+    "number": "583",
+    "word": "primary",
+    "meaning_jp": "主な任務",
+    "meaning_mm": "အဓိကဖြစ်သော၊ အဓိက",
+    "example": "primary duties",
+    "example_jp": "主な任務",
+    "example_mm": "အဓိက တာဝန်များ"
+  },
+  {
+    "number": "584",
+    "word": "remark",
+    "meaning_jp": "開会の言葉",
+    "meaning_mm": "မှတ်ချက်၊ ပြောဆိုချက်",
+    "example": "opening remarks",
+    "example_jp": "開会の言葉",
+    "example_mm": "ဖွင့်ပွဲမိန့်ခွန်း"
+  },
+  {
+    "number": "585",
+    "word": "timely",
+    "meaning_jp": "タイミングの良いやり方で",
+    "meaning_mm": "အချိန်မှန်သော၊ အချိန်ကိုက်သော",
+    "example": "in a timely manner",
+    "example_jp": "タイミングの良いやり方で",
+    "example_mm": "အချိန်မှန်သော နည်းလမ်းဖြင့်"
+  },
+  {
+    "number": "586",
+    "word": "commonly",
+    "meaning_jp": "最も一般に用いられている方法",
+    "meaning_mm": "အများအားဖြင့်၊ သာမန်",
+    "example": "the most commonly used methods",
+    "example_jp": "最も一般に用いられている方法",
+    "example_mm": "အများဆုံး အသုံးပြုသော နည်းလမ်းများ"
+  },
+  {
+    "number": "587",
+    "word": "consult",
+    "meaning_jp": "医師に相談する",
+    "meaning_mm": "တိုင်ပင်သည်၊ ဆွေးနွေးသည်",
+    "example": "consult a doctor",
+    "example_jp": "医師に相談する",
+    "example_mm": "ဆရာဝန်နှင့် တိုင်ပင်သည်"
+  },
+  {
+    "number": "588",
+    "word": "convert",
+    "meaning_jp": "倉庫をオフィスに改造する",
+    "meaning_mm": "ပြောင်းလဲသည်၊ အသွင်ပြောင်းသည်",
+    "example": "convert a warehouse into an office",
+    "example_jp": "倉庫をオフィスに改造する",
+    "example_mm": "ဂိုဒေါင်ကို ရုံးခန်းအဖြစ် ပြောင်းလဲသည်"
+  },
+  {
+    "number": "589",
+    "word": "obligation",
+    "meaning_jp": "あなたにそうする義務はない",
+    "meaning_mm": "တာဝန်၊ ဝတ္တရား",
+    "example": "You have no obligation to do so.",
+    "example_jp": "あなたにそうする義務はない。",
+    "example_mm": "မင်း အဲလိုလုပ်ဖို့ တာဝန်မရှိဘူး။"
+  },
+  {
+    "number": "590",
+    "word": "resign",
+    "meaning_jp": "予告なしに辞任する",
+    "meaning_mm": "နုတ်ထွက်သည်၊ ရာထူးမှ နုတ်ထွက်သည်",
+    "example": "resign without notice",
+    "example_jp": "予告なしに辞任する",
+    "example_mm": "အသိမပေးဘဲ ရာထူးမှ နုတ်ထွက်သည်"
+  },
+  {
+    "number": "591",
+    "word": "securely",
+    "meaning_jp": "ドアにはしっかりと鍵がかかっている。",
+    "meaning_mm": "လုံခြုံစွာ၊ သေချာစွာ",
+    "example": "The door is securely locked.",
+    "example_jp": "ドアにはしっかりと鍵がかかっている。",
+    "example_mm": "တံခါးကို သေချာစွာ သော့ခတ်ထားတယ်။"
+  },
+  {
+    "number": "592",
+    "word": "strive",
+    "meaning_jp": "コスト削減のために懸命に努力する",
+    "meaning_mm": "ကြိုးစားသည်၊ အားထုတ်သည်",
+    "example": "strive to cut costs",
+    "example_jp": "コスト削減のために懸命に努力する",
+    "example_mm": "ကုန်ကျစရိတ် လျှော့ချရန် ကြိုးစားသည်"
+  },
+  {
+    "number": "593",
+    "word": "timeframe",
+    "meaning_jp": "イベントの予定表",
+    "meaning_mm": "အချိန်ကာလ၊ အချိန်အပိုင်းအခြား",
+    "example": "a timeframe of events",
+    "example_jp": "イベントの予定表",
+    "example_mm": "ပွဲများ၏ အချိန်ဇယား"
+  },
+  {
+    "number": "594",
+    "word": "urge",
+    "meaning_jp": "テックスに考えを変えるよう強く促す",
+    "meaning_mm": "တိုက်တွန်းသည်၊ နှိုးဆော်သည်",
+    "example": "urge Tex to change his mind",
+    "example_jp": "テックスに考えを変えるよう強く促す",
+    "example_mm": "တက်စ်ကို စိတ်ပြောင်းဖို့ တိုက်တွန်းသည်"
+  },
+  {
+    "number": "595",
+    "word": "acknowledge",
+    "meaning_jp": "注文を受け取ったことを知らせる",
+    "meaning_mm": "အသိအမှတ်ပြုသည်၊ လက်ခံသည်",
+    "example": "acknowledge receipt of the order",
+    "example_jp": "注文を受け取ったことを知らせる",
+    "example_mm": "အော်ဒါလက်ခံရရှိကြောင်း အသိပေးသည်"
+  },
+  {
+    "number": "596",
+    "word": "diverse",
+    "meaning_jp": "多種多様な専門家のグループ",
+    "meaning_mm": "မတူကွဲပြားသော၊ အမျိုးမျိုးသော",
+    "example": "a diverse group of experts",
+    "example_jp": "多種多様な専門家のグループ",
+    "example_mm": "ကျွမ်းကျင်သူ အမျိုးမျိုးပါဝင်သော အဖွဲ့"
+  },
+  {
+    "number": "597",
+    "word": "transaction",
+    "meaning_jp": "銀行取引",
+    "meaning_mm": "ငွေရေးကြေးရေး လုပ်ငန်း",
+    "example": "a bank transaction",
+    "example_jp": "銀行取引",
+    "example_mm": "ဘဏ်ငွေရေးကြေးရေး လုပ်ငန်း"
+  },
+  {
+    "number": "598",
+    "word": "lack",
+    "meaning_jp": "情報不足",
+    "meaning_mm": "ချို့တဲ့မှု၊ မရှိခြင်း",
+    "example": "a lack of information",
+    "example_jp": "情報不足",
+    "example_mm": "သတင်းအချက်အလက် ချို့တဲ့မှု"
+  },
+  {
+    "number": "599",
+    "word": "essential",
+    "meaning_jp": "顧客満足が当社にとって最も重要です。",
+    "meaning_mm": "မရှိမဖြစ်လိုအပ်သော၊ အဓိကကျသော",
+    "example": "Customer satisfaction is essential to us.",
+    "example_jp": "顧客満足が当社にとって最も重要です。",
+    "example_mm": "ဖောက်သည်ကျေနပ်မှုက ကျွန်တော်တို့အတွက် အရေးအကြီးဆုံးပါ။"
+  },
+  {
+    "number": "600",
+    "word": "majority",
+    "meaning_jp": "従業員の大部分",
+    "meaning_mm": "အများစု၊ လူများစု",
+    "example": "the majority of employees",
+    "example_jp": "従業員の大部分",
+    "example_mm": "ဝန်ထမ်းအများစု"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "number": "651",
+    "word": "fulfill",
+    "meaning_jp": "必要条件を満たす",
+    "meaning_mm": "ဖြည့်ဆည်းသည်၊ ပြည့်မီစေသည်",
+    "example": "fulfill requirements",
+    "example_jp": "必要条件を満たす",
+    "example_mm": "လိုအပ်ချက်များကို ဖြည့်ဆည်းသည်"
+  },
+  {
+    "number": "652",
+    "word": "objective",
+    "meaning_jp": "アンケート調査の目的",
+    "meaning_mm": "ရည်ရွယ်ချက်၊ ပန်းတိုင်",
+    "example": "the objective of the survey",
+    "example_jp": "アンケート調査の目的",
+    "example_mm": "စစ်တမ်း၏ ရည်ရွယ်ချက်"
+  },
+  {
+    "number": "653",
+    "word": "restrict",
+    "meaning_jp": "従業員がインターネットにアクセスすることを制限する",
+    "meaning_mm": "ကန့်သတ်သည်၊ ပိတ်ပင်သည်",
+    "example": "restrict employees from accessing the Internet",
+    "example_jp": "従業員がインターネットにアクセスすることを制限する",
+    "example_mm": "ဝန်ထမ်းများ အင်တာနက်အသုံးပြုခြင်းကို ကန့်သတ်သည်"
+  },
+  {
+    "number": "654",
+    "word": "steadily",
+    "meaning_jp": "売り上げは着実に伸びている。",
+    "meaning_mm": "တည်ငြိမ်စွာ၊ ပုံမှန်အတိုင်း",
+    "example": "Sales have been increasing steadily.",
+    "example_jp": "売り上げは着実に伸びている。",
+    "example_mm": "အရောင်းတွေ တည်ငြိမ်စွာ တိုးလာနေတယ်။"
+  },
+  {
+    "number": "655",
+    "word": "adequate",
+    "meaning_jp": "十分な説明",
+    "meaning_mm": "လုံလောက်သော၊ သင့်တော်သော",
+    "example": "an adequate explanation",
+    "example_jp": "十分な説明",
+    "example_mm": "လုံလောက်သော ရှင်းလင်းချက်"
+  },
+  {
+    "number": "656",
+    "word": "assessment",
+    "meaning_jp": "価値の評価",
+    "meaning_mm": "အကဲဖြတ်မှု၊ သုံးသပ်မှု",
+    "example": "the assessment of the value",
+    "example_jp": "価値の評価",
+    "example_mm": "တန်ဖိုး အကဲဖြတ်မှု"
+  },
+  {
+    "number": "657",
+    "word": "attribute",
+    "meaning_jp": "加藤さんは自分が成功したのは幸運のおかげだとしている。",
+    "meaning_mm": "အကြောင်းရင်းခံသည်၊ သတ်မှတ်သည်",
+    "example": "Mr. Kato attributes his success to luck.",
+    "example_jp": "加藤さんは自分が成功したのは幸運のおかげだしている。",
+    "example_mm": "မစ္စတာကာတိုက သူ့အောင်မြင်မှုကို ကံတရားကြောင့်လို့ သတ်မှတ်တယ်။"
+  },
+  {
+    "number": "658",
+    "word": "beforehand",
+    "meaning_jp": "前もってアジェンダを用意する",
+    "meaning_mm": "ကြိုတင်၍၊ အရင်ဆုံး",
+    "example": "prepare an agenda beforehand",
+    "example_jp": "前もってアジェンダを用意する",
+    "example_mm": "အစီအစဉ်ကို ကြိုတင်ပြင်ဆင်သည်"
+  },
+  {
+    "number": "659",
+    "word": "challenging",
+    "meaning_jp": "やりがいのある任務",
+    "meaning_mm": "စိန်ခေါ်မှုရှိသော၊ ခက်ခဲသော",
+    "example": "a challenging task",
+    "example_jp": "やりがいのある任務",
+    "example_mm": "စိန်ခေါ်မှုရှိသော တာဝန်"
+  },
+  {
+    "number": "660",
+    "word": "endeavor",
+    "meaning_jp": "皆さんのこれからの努力が実ることを祈っています。",
+    "meaning_mm": "ကြိုးစားအားထုတ်မှု၊ ကြိုးပမ်းမှု",
+    "example": "Good luck in your future endeavors.",
+    "example_jp": "皆さんのこれからの努力が実ることを祈っています。",
+    "example_mm": "သင်တို့ရဲ့ အနာဂတ် ကြိုးပမ်းမှုတွေ အောင်မြင်ပါစေ။"
+  },
+  {
+    "number": "661",
+    "word": "inspiring",
+    "meaning_jp": "やる気の出るスピーチ",
+    "meaning_mm": "စိတ်အားထက်သန်စေသော၊ လှုံ့ဆော်သော",
+    "example": "an inspiring speech",
+    "example_jp": "やる気の出るスピーチ",
+    "example_mm": "စိတ်အားထက်သန်စေသော မိန့်ခွန်း"
+  },
+  {
+    "number": "662",
+    "word": "remarkable",
+    "meaning_jp": "驚くべき進歩を遂げる",
+    "meaning_mm": "ထူးခြားသော၊ အံ့သြဖွယ်သော",
+    "example": "make remarkable progress",
+    "example_jp": "驚くべき進歩を遂げる",
+    "example_mm": "အံ့သြဖွယ် တိုးတက်မှု ရရှိသည်"
+  },
+  {
+    "number": "663",
+    "word": "measure",
+    "meaning_jp": "安全対策を講じる",
+    "meaning_mm": "အတိုင်းအတာ၊ ဆောင်ရွက်ချက်",
+    "example": "take safety measures",
+    "example_jp": "安全対策を講じる",
+    "example_mm": "ဘေးကင်းရေး အစီအမံများ ဆောင်ရွက်သည်"
+  },
+  {
+    "number": "664",
+    "word": "struggle",
+    "meaning_jp": "その会社は生き残るために奮闘している。",
+    "meaning_mm": "ရုန်းကန်သည်၊ ကြိုးစားသည်",
+    "example": "The company is struggling to survive.",
+    "example_jp": "その会社は生き残るために奮闘している。",
+    "example_mm": "အဲဒီကုမ္ပဏီက ရှင်သန်နိုင်ဖို့ ရုန်းကန်နေရတယ်။"
+  },
+  {
+    "number": "665",
+    "word": "wage",
+    "meaning_jp": "賃金水準",
+    "meaning_mm": "လုပ်ခ၊ လစာ",
+    "example": "the wage level",
+    "example_jp": "賃金水準",
+    "example_mm": "လုပ်ခ အဆင့်"
+  },
+  {
+    "number": "666",
+    "word": "adapt",
+    "meaning_jp": "新しい職場環境に適応する",
+    "meaning_mm": "လိုက်လျောညီထွေဖြစ်သည်၊ ပြင်ဆင်သည်",
+    "example": "adapt to a new work environment",
+    "example_jp": "新しい職場環境に適応する",
+    "example_mm": "အလုပ်ခွင် ပတ်ဝန်းကျင်အသစ်နှင့် လိုက်လျောညီထွေဖြစ်အောင် နေထိုင်သည်"
+  },
+  {
+    "number": "667",
+    "word": "ambitious",
+    "meaning_jp": "意欲的な目標を設定する",
+    "meaning_mm": "ရည်မှန်းချက်ကြီးသော၊ စိတ်အားထက်သန်သော",
+    "example": "set an ambitious goal",
+    "example_jp": "意欲的な目標を設定する",
+    "example_mm": "ရည်မှန်းချက်ကြီးမားသော ပန်းတိုင်ကို ချမှတ်သည်"
+  },
+  {
+    "number": "668",
+    "word": "capable",
+    "meaning_jp": "私はこの仕事をする能力がある。",
+    "meaning_mm": "စွမ်းဆောင်နိုင်သော၊ စွမ်းရည်ရှိသော",
+    "example": "I am capable of doing the job.",
+    "example_jp": "私はこの仕事をする能力がある。",
+    "example_mm": "ငါ ဒီအလုပ်ကို လုပ်နိုင်စွမ်းရှိတယ်။"
+  },
+  {
+    "number": "669",
+    "word": "consequence",
+    "meaning_jp": "深刻な結果を生む",
+    "meaning_mm": "အကျိုးဆက်၊ ရလဒ်",
+    "example": "have serious consequences",
+    "example_jp": "深刻な結果を生む",
+    "example_mm": "ကြီးလေးသော အကျိုးဆက်များ ဖြစ်ပေါ်စေသည်"
+  },
+  {
+    "number": "670",
+    "word": "impose",
+    "meaning_jp": "顧客に料金を課す",
+    "meaning_mm": "ချမှတ်သည်၊ ပြဋ္ဌာန်းသည်",
+    "example": "impose a fee on customers",
+    "example_jp": "顧客に料金を課す",
+    "example_mm": "ဖောက်သည်များအပေါ် အခကြေးငွေ ကောက်ခံသည်"
+  },
+  {
+    "number": "671",
+    "word": "latter",
+    "meaning_jp": "前者と後者",
+    "meaning_mm": "နောက်ဆုံးဖော်ပြချက်၊ ဒုတိယ",
+    "example": "the former and the latter",
+    "example_jp": "前者と後者",
+    "example_mm": "ပထမတစ်ခုနှင့် ဒုတိယတစ်ခု"
+  },
+  {
+    "number": "672",
+    "word": "output",
+    "meaning_jp": "工場の1日の生産量",
+    "meaning_mm": "ထုတ်လုပ်မှု၊ အထွက်နှုန်း",
+    "example": "the daily output of a factory",
+    "example_jp": "工場の1日の生産量",
+    "example_mm": "စက်ရုံတစ်ခု၏ တစ်နေ့တာ ထုတ်လုပ်မှု"
+  },
+  {
+    "number": "673",
+    "word": "proudly",
+    "meaning_jp": "誇らしげに発表する",
+    "meaning_mm": "ဂုဏ်ယူစွာ၊ ဂုဏ်ယူသော",
+    "example": "proudly announce",
+    "example_jp": "誇らしげに発表する",
+    "example_mm": "ဂုဏ်ယူစွာ ကြေညာသည်"
+  },
+  {
+    "number": "674",
+    "word": "stable",
+    "meaning_jp": "電気の安定した供給",
+    "meaning_mm": "တည်ငြိမ်သော၊ ခိုင်မာသော",
+    "example": "a stable supply of electricity",
+    "example_jp": "電気の安定した供給",
+    "example_mm": "လျှပ်စစ်ဓာတ်အား တည်ငြိမ်စွာ ထောက်ပံ့မှု"
+  },
+  {
+    "number": "675",
+    "word": "transition",
+    "meaning_jp": "学校生活から社会生活への移行",
+    "meaning_mm": "အကူးအပြောင်း၊ ကူးပြောင်းမှု",
+    "example": "the transition from school to work",
+    "example_jp": "学校生活から社会生活への移行",
+    "example_mm": "ကျောင်းဘဝမှ အလုပ်ဘဝသို့ ကူးပြောင်းခြင်း"
+  },
+  {
+    "number": "676",
+    "word": "consent",
+    "meaning_jp": "書面での同意なしに",
+    "meaning_mm": "သဘောတူညီချက်၊ ခွင့်ပြုချက်",
+    "example": "without written consent",
+    "example_jp": "書面での同意なしに",
+    "example_mm": "စာဖြင့် သဘောတူညီချက်မရှိဘဲ"
+  },
+  {
+    "number": "677",
+    "word": "dependable",
+    "meaning_jp": "信頼できる車とトラックを生産する",
+    "meaning_mm": "ယုံကြည်စိတ်ချရသော",
+    "example": "produce dependable cars and trucks",
+    "example_jp": "信頼できる車とトラックを生産する",
+    "example_mm": "ယုံကြည်စိတ်ချရသော ကားများနှင့် ထရပ်ကားများ ထုတ်လုပ်သည်"
+  },
+  {
+    "number": "678",
+    "word": "diligent",
+    "meaning_jp": "加藤さんは勤勉な働き手だ。",
+    "meaning_mm": "လုံ့လဝီရိယရှိသော၊ ကြိုးစားသော",
+    "example": "Mr. Kato is a diligent worker.",
+    "example_jp": "加藤さんは勤勉な働き手だ。",
+    "example_mm": "မစ္စတာကာတိုက လုံ့လဝီရိယရှိသော အလုပ်သမားတစ်ဦးပါ။"
+  },
+  {
+    "number": "679",
+    "word": "illustrate",
+    "meaning_jp": "ポイントを説明する",
+    "meaning_mm": "ရှင်းလင်းစွာ ဖော်ပြသည်၊ သရုပ်ဖော်သည်",
+    "example": "illustrate a point",
+    "example_jp": "ポイントを説明する",
+    "example_mm": "အချက်တစ်ချက်ကို ရှင်းလင်းစွာ ဖော်ပြသည်"
+  },
+  {
+    "number": "680",
+    "word": "independently",
+    "meaning_jp": "単独でもチームの一員としても働く",
+    "meaning_mm": "သီးခြားလွတ်လပ်စွာ၊ ကိုယ်တိုင်",
+    "example": "work independently and as a team member",
+    "example_jp": "単独でもチームの一員としても働く",
+    "example_mm": "တစ်ဦးတည်းလည်း လုပ်သည်၊ အဖွဲ့ဝင်တစ်ဦးအနေဖြင့်လည်း လုပ်သည်"
+  },
+  {
+    "number": "681",
+    "word": "mission",
+    "meaning_jp": "会社の使命",
+    "meaning_mm": "မစ်ရှင်၊ တာဝန်",
+    "example": "the company's mission",
+    "example_jp": "会社の使命",
+    "example_mm": "ကုမ္ပဏီ၏ မစ်ရှင်"
+  },
+  {
+    "number": "682",
+    "word": "moderate",
+    "meaning_jp": "適度な運動",
+    "meaning_mm": "အသင့်အတင့်၊ မျှတသော",
+    "example": "moderate exercise",
+    "example_jp": "適度な運動",
+    "example_mm": "အသင့်အတင့် လေ့ကျင့်ခန်း"
+  },
+  {
+    "number": "683",
+    "word": "outlook",
+    "meaning_jp": "売り上げ見通し",
+    "meaning_mm": "အလားအလာ၊ ရှုထောင့်",
+    "example": "the sales outlook",
+    "example_jp": "売り上げ見通し",
+    "example_mm": "အရောင်း အလားအလာ"
+  },
+  {
+    "number": "684",
+    "word": "precisely",
+    "meaning_jp": "迅速かつ正確に",
+    "meaning_mm": "တိကျစွာ၊ အတိအကျ",
+    "example": "rapidly and precisely",
+    "example_jp": "迅速かつ正確に",
+    "example_mm": "လျင်မြန်စွာနှင့် တိကျစွာ"
+  },
+  {
+    "number": "685",
+    "word": "concentrated",
+    "meaning_jp": "集中的な努力",
+    "meaning_mm": "စုစည်းထားသော၊ အာရုံစိုက်ထားသော",
+    "example": "a concentrated effort",
+    "example_jp": "集中的な努力",
+    "example_mm": "စုစည်းထားသော အားထုတ်မှု"
+  },
+  {
+    "number": "686",
+    "word": "ample",
+    "meaning_jp": "そのホテルには十分な駐車スペースがある。",
+    "meaning_mm": "လုံလောက်သော၊ များပြားသော",
+    "example": "The hotel has ample parking.",
+    "example_jp": "そのホテルには十分な駐車スペースがある。",
+    "example_mm": "အဲဒီဟိုတယ်မှာ လုံလောက်သော ကားရပ်နားရာနေရာ ရှိတယ်။"
+  },
+  {
+    "number": "687",
+    "word": "asset",
+    "meaning_jp": "チームにとっての財産",
+    "meaning_mm": "ပိုင်ဆိုင်မှု၊ အဖိုးတန်အရာ",
+    "example": "an asset to the team",
+    "example_jp": "チームにとっての財産",
+    "example_mm": "အဖွဲ့အတွက် အဖိုးတန်အရာ"
+  },
+  {
+    "number": "688",
+    "word": "controversial",
+    "meaning_jp": "議論を引き起こす問題",
+    "meaning_mm": "အငြင်းပွားဖွယ်ရာဖြစ်သော",
+    "example": "a controversial issue",
+    "example_jp": "議論を引き起こす問題",
+    "example_mm": "အငြင်းပွားဖွယ် ကိစ္စ"
+  },
+  {
+    "number": "689",
+    "word": "disappointing",
+    "meaning_jp": "期待はずれの売り上げ",
+    "meaning_mm": "စိတ်ပျက်စရာဖြစ်သော၊ မျှော်လင့်ချက်ပျက်သော",
+    "example": "disappointing sales",
+    "example_jp": "期待はずれの売り上げ",
+    "example_mm": "စိတ်ပျက်စရာဖြစ်သော အရောင်းများ"
+  },
+  {
+    "number": "690",
+    "word": "instrumental",
+    "meaning_jp": "テックスはそのプロジェクトで重要な役割を果たした。",
+    "meaning_mm": "အရေးပါသော၊ အထောက်အကူဖြစ်သော",
+    "example": "Tex was instrumental in the project.",
+    "example_jp": "テックスはそのプロジェクトで重要な役割を果たした。",
+    "example_mm": "တက်စ်က အဲဒီစီမံကိန်းမှာ အရေးပါတဲ့ အခန်းကဏ္ဍက ပါဝင်ခဲ့တယ်။"
+  },
+  {
+    "number": "691",
+    "word": "interruption",
+    "meaning_jp": "中断なしに",
+    "meaning_mm": "အနှောင့်အယှက်၊ ကြားဖြတ်မှု",
+    "example": "without interruption",
+    "example_jp": "中断なしに",
+    "example_mm": "ကြားဖြတ်မှုမရှိဘဲ"
+  },
+  {
+    "number": "692",
+    "word": "perspective",
+    "meaning_jp": "幅広い観点から",
+    "meaning_mm": "ရှုထောင့်၊ အမြင်",
+    "example": "from a broad perspective",
+    "example_jp": "幅広い観点から",
+    "example_mm": "ကျယ်ပြန့်သော ရှုထောင့်မှ"
+  },
+  {
+    "number": "693",
+    "word": "scope",
+    "meaning_jp": "調査の範囲",
+    "meaning_mm": "နယ်ပယ်၊ အတိုင်းအတာ",
+    "example": "the scope of the study",
+    "example_jp": "調査の範囲",
+    "example_mm": "လေ့လာမှု၏ နယ်ပယ်"
+  },
+  {
+    "number": "694",
+    "word": "speculation",
+    "meaning_jp": "業界の専門家の推測",
+    "meaning_mm": "ခန့်မှန်းချက်၊ ထင်ကြေးပေးမှု",
+    "example": "speculation from industry experts",
+    "example_jp": "業界の専門家の推測",
+    "example_mm": "လုပ်ငန်းနယ်ပယ် ကျွမ်းကျင်သူများ၏ ခန့်မှန်းချက်"
+  },
+  {
+    "number": "695",
+    "word": "supplement",
+    "meaning_jp": "収入を執筆で補う",
+    "meaning_mm": "ဖြည့်စွက်သည်၊ ဖြည့်စွက်စာ",
+    "example": "supplement income by writing books",
+    "example_jp": "収入を執筆で補う",
+    "example_mm": "စာအုပ်ရေးသားခြင်းဖြင့် ဝင်ငွေဖြည့်စွက်သည်"
+  },
+  {
+    "number": "696",
+    "word": "understaffed",
+    "meaning_jp": "本当に人手不足です。",
+    "meaning_mm": "ဝန်ထမ်းအင်အား မလုံလောက်သော",
+    "example": "We are really understaffed.",
+    "example_jp": "本当に人手不足です。",
+    "example_mm": "ကျွန်တော်တို့ တကယ်ကို လူအင်အား မလုံလောက်ဘူး။"
+  },
+  {
+    "number": "697",
+    "word": "rarely",
+    "meaning_jp": "そのCEOはめったに公に姿を見せない。",
+    "meaning_mm": "ရှားရှားပါးပါး၊ ခဲခဲယဉ်းယဉ်း",
+    "example": "The CEO rarely appears in public.",
+    "example_jp": "そのCEOはめったに公に姿を見せない。",
+    "example_mm": "အဲဒီ CEO က လူအများရှေ့မှာ ရှားရှားပါးပါးပဲ ပေါ်လာတယ်။"
+  },
+  {
+    "number": "698",
+    "word": "caution",
+    "meaning_jp": "注意を払う",
+    "meaning_mm": "သတိထားမှု၊ သတိပေးချက်",
+    "example": "use caution",
+    "example_jp": "注意を払う",
+    "example_mm": "သတိထားပါ"
+  },
+  {
+    "number": "699",
+    "word": "legislation",
+    "meaning_jp": "ドローンの使用を制限する法律",
+    "meaning_mm": "ဥပဒေ၊ ဥပဒေပြုခြင်း",
+    "example": "legislation to limit the use of drones",
+    "example_jp": "ドローンの使用を制限する法律",
+    "example_mm": "ဒရုန်းအသုံးပြုမှု ကန့်သတ်ရေး ဥပဒေ"
+  },
+  {
+    "number": "700",
+    "word": "logical",
+    "meaning_jp": "妥当な選択",
+    "meaning_mm": "ကျိုးကြောင်းဆီလျော်သော၊ ယုတ္တိရှိသော",
+    "example": "a logical choice",
+    "example_jp": "妥当な選択",
+    "example_mm": "ကျိုးကြောင်းဆီလျော်သော ရွေးချယ်မှု"
+  }
+]

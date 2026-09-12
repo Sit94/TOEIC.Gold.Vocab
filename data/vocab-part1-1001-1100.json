@@ -1,0 +1,902 @@
+[
+  {
+    "number": "1001",
+    "word": "facing",
+    "meaning_jp": "〜の方を）向く",
+    "meaning_mm": "မျက်နှာမူသည်၊ ဦးတည်သည်",
+    "example": "They're facing each other.",
+    "example_jp": "彼らは向き合っている。",
+    "example_mm": "သူတို့ အချင်းချင်း မျက်နှာချင်းဆိုင်နေကြတယ်။"
+  },
+  {
+    "number": "1002",
+    "word": "wear",
+    "meaning_jp": "着用する、着る",
+    "meaning_mm": "ဝတ်ဆင်သည်",
+    "example": "A man is wearing headphones.",
+    "example_jp": "男性がヘッドホンを着用している。",
+    "example_mm": "အမျိုးသားတစ်ဦး နားကြပ်‌တပ်ထားတယ်။"
+  },
+  {
+    "number": "1003",
+    "word": "point",
+    "meaning_jp": "指す、指さす",
+    "meaning_mm": "ညွှန်ပြသည်၊ ထောက်ပြသည်",
+    "example": "A man is pointing at a screen.",
+    "example_jp": "男性が画面を指している。",
+    "example_mm": "အမျိုးသားတစ်ဦး ဖန်သားပြင်ကို ညွှန်ပြနေတယ်။"
+  },
+  {
+    "number": "1004",
+    "word": "shelf",
+    "meaning_jp": "棚",
+    "meaning_mm": "စင်ပေါင်၊ ထမင်းစင်",
+    "example": "The shelves are full of books.",
+    "example_jp": "棚が本でいっぱいだ。",
+    "example_mm": "စင်တွေမှာ စာအုပ်တွေ ပြည့်နေတယ်။"
+  },
+  {
+    "number": "1005",
+    "word": "ladder",
+    "meaning_jp": "ハシゴ",
+    "meaning_mm": "လှေကား၊ လှေကားထစ်",
+    "example": "A man is standing on a ladder.",
+    "example_jp": "男性がハシゴに立っている。",
+    "example_mm": "အမျိုးသားတစ်ဦး လှေကားပေါ် ရပ်နေတယ်။"
+  },
+  {
+    "number": "1006",
+    "word": "trim",
+    "meaning_jp": "（髪や髪の毛を）切りそろえる",
+    "meaning_mm": "ညှပ်သည်၊ ဖြတ်တောက်သည်",
+    "example": "A man is trimming some bushes.",
+    "example_jp": "男性が茂みを刈りそろえている。",
+    "example_mm": "အမျိုးသားတစ်ဦး ချုံပင်တွေကို ညှပ်နေတယ်။"
+  },
+  {
+    "number": "1007",
+    "word": "examine",
+    "meaning_jp": "詳しく調べる、チェックする",
+    "meaning_mm": "စစ်ဆေးသည်၊ ဆန်းစစ်သည်",
+    "example": "A woman is examining a document.",
+    "example_jp": "女性が書類を詳しく調べている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး စာရွက်စာတမ်းကို စစ်ဆေးနေတယ်။"
+  },
+  {
+    "number": "1008",
+    "word": "greet",
+    "meaning_jp": "挨拶する",
+    "meaning_mm": "နှုတ်ဆက်သည်",
+    "example": "They're greeting each other.",
+    "example_jp": "彼らは互いに挨拶している。",
+    "example_mm": "သူတို့ အချင်းချင်း နှုတ်ဆက်နေကြတယ်။"
+  },
+  {
+    "number": "1009",
+    "word": "sweep",
+    "meaning_jp": "（ほうきやブラシで）掃く",
+    "meaning_mm": "လှည်းကျင်းသည်၊ သန့်ရှင်းရေးလုပ်သည်",
+    "example": "A man is sweeping the floor.",
+    "example_jp": "男性が床を掃いている。",
+    "example_mm": "အမျိုးသားတစ်ဦး ကြမ်းပြင်ကို လှည်းနေတယ်။"
+  },
+  {
+    "number": "1010",
+    "word": "adjust",
+    "meaning_jp": "調節する、調整する",
+    "meaning_mm": "ချိန်ညှိသည်၊ ပြင်ဆင်သည်",
+    "example": "He's adjusting some equipment.",
+    "example_jp": "彼は機器を調節している。",
+    "example_mm": "သူ စက်ပစ္စည်းတွေကို ချိန်ညှိနေတယ်။"
+  },
+  {
+    "number": "1011",
+    "word": "head",
+    "meaning_jp": "（〜に）向かう",
+    "meaning_mm": "ဦးတည်သည်၊ ဦးတည်သွားသည်",
+    "example": "Some people are heading toward a plane.",
+    "example_jp": "数名が飛行機に向かっている。",
+    "example_mm": "လူအနည်းငယ် လေယာဉ်ဆီ ဦးတည်သွားနေကြတယ်။"
+  },
+  {
+    "number": "1012",
+    "word": "handle",
+    "meaning_jp": "手で扱う、扱う",
+    "meaning_mm": "ကိုင်တွယ်သည်၊ ကိုင်သည်",
+    "example": "She's handling some luggage.",
+    "example_jp": "彼女は手荷物を手で扱っている。",
+    "example_mm": "သူမ ခရီးဆောင်အိတ်တွေကို ကိုင်တွယ်နေတယ်။"
+  },
+  {
+    "number": "1013",
+    "word": "lean",
+    "meaning_jp": "寄りかかる、もたれる",
+    "meaning_mm": "မှီသည်၊ မှီတွဲသည်",
+    "example": "A ladder is leaning against a building.",
+    "example_jp": "ハシゴが建物に立てかけられている。",
+    "example_mm": "လှေကားတစ်ခု အဆောက်အအုံကို မှီထားတယ်။"
+  },
+  {
+    "number": "1014",
+    "word": "cashier",
+    "meaning_jp": "レジ係",
+    "meaning_mm": "ငွေကိုင်၊ ကောင်တာဝန်ထမ်း",
+    "example": "A woman is paying a cashier.",
+    "example_jp": "女性がレジ係に支払っている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ငွေကိုင်ကို ငွေပေးချေနေတယ်။"
+  },
+  {
+    "number": "1015",
+    "word": "polish",
+    "meaning_jp": "磨く",
+    "meaning_mm": "တောက်ပအောင် ပွတ်တိုက်သည်",
+    "example": "The floor is being polished.",
+    "example_jp": "床が磨かれている。",
+    "example_mm": "ကြမ်းပြင်ကို တောက်ပအောင် ပွတ်တိုက်နေတယ်။"
+  },
+  {
+    "number": "1016",
+    "word": "lid",
+    "meaning_jp": "客",
+    "meaning_mm": "အဖုံး၊ အိုးအဖုံး",
+    "example": "A man is holding a lid open.",
+    "example_jp": "男性がフタを手に持って開けている。",
+    "example_mm": "အမျိုးသားတစ်ဦး အဖုံးကို ကိုင်ပြီး ဖွင့်ထားတယ်။"
+  },
+  {
+    "number": "1017",
+    "word": "stool",
+    "meaning_jp": "スツール（背もたれのない椅子）",
+    "meaning_mm": "ခုံ၊ ခြေမှီခုံ",
+    "example": "A woman is sitting on a stool.",
+    "example_jp": "女性がスツールの上に座っている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ခုံပေါ် ထိုင်နေတယ်။"
+  },
+  {
+    "number": "1018",
+    "word": "crosswalk",
+    "meaning_jp": "横断歩道",
+    "meaning_mm": "လမ်းဖြတ်ကူးရေး လမ်း",
+    "example": "They're walking on a crosswalk.",
+    "example_jp": "彼らは横断歩道の上を歩いている。",
+    "example_mm": "သူတို့ လမ်းဖြတ်ကူးရေးလမ်းပေါ် လျှောက်နေကြတယ်။"
+  },
+  {
+    "number": "1019",
+    "word": "brick",
+    "meaning_jp": "レンガ",
+    "meaning_mm": "အုတ်",
+    "example": "He's working beside a brick wall.",
+    "example_jp": "彼はレンガの壁のそばで作業をしている。",
+    "example_mm": "သူ အုတ်နံရံဘေးမှာ အလုပ်လုပ်နေတယ်။"
+  },
+  {
+    "number": "1020",
+    "word": "hang",
+    "meaning_jp": "（絵などが）かかる",
+    "meaning_mm": "ချိတ်ဆွဲထားသည်၊ ချိတ်ထားသည်",
+    "example": "Some pictures are hanging on the wall.",
+    "example_jp": "絵が壁にかかっている。",
+    "example_mm": "ပန်းချီကားတွေ နံရံမှာ ချိတ်ဆွဲထားတယ်။"
+  },
+  {
+    "number": "1021",
+    "word": "kneel",
+    "meaning_jp": "ひざをつく",
+    "meaning_mm": "ဒူးထောက်သည်",
+    "example": "A man is kneeling on the floor.",
+    "example_jp": "男性が床にひざをついている。",
+    "example_mm": "အမျိုးသားတစ်ဦး ကြမ်းပြင်မှာ ဒူးထောက်နေတယ်။"
+  },
+  {
+    "number": "1022",
+    "word": "sew",
+    "meaning_jp": "縫う",
+    "meaning_mm": "ချုပ်သည်",
+    "example": "A woman is sewing an item.",
+    "example_jp": "女性がある物を縫っている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ပစ္စည်းတစ်ခုကို ချုပ်နေတယ်။"
+  },
+  {
+    "number": "1023",
+    "word": "be propped up against",
+    "meaning_jp": "〜に立てかけられる",
+    "meaning_mm": "မှီထားသည်၊ မှီခိုထားသည်",
+    "example": "Ladders are propped up against a wall.",
+    "example_jp": "ハシゴが壁に立てかけられている。",
+    "example_mm": "လှေကားတွေ နံရံကို မှီထားတယ်။"
+  },
+  {
+    "number": "1024",
+    "word": "walkway",
+    "meaning_jp": "歩道",
+    "meaning_mm": "လမ်းလျှောက်လမ်း",
+    "example": "A man is standing on a walkway.",
+    "example_jp": "男性が歩道に立っている。",
+    "example_mm": "အမျိုးသားတစ်ဦး လမ်းလျှောက်လမ်းပေါ် ရပ်နေတယ်။"
+  },
+  {
+    "number": "1025",
+    "word": "side by side",
+    "meaning_jp": "並んで",
+    "meaning_mm": "ဘေးချင်းယှဉ်",
+    "example": "They're walking side by side.",
+    "example_jp": "彼らは並んで歩いている。",
+    "example_mm": "သူတို့ ဘေးချင်းယှဉ် လျှောက်နေကြတယ်။"
+  },
+  {
+    "number": "1026",
+    "word": "applaud",
+    "meaning_jp": "拍手を送る",
+    "meaning_mm": "လက်ခုပ်တီးသည်",
+    "example": "Some people are applauding the presenter.",
+    "example_jp": "数名がプレゼンターに拍手を送っている。",
+    "example_mm": "လူအနည်းငယ် တင်ဆက်သူကို လက်ခုပ်တီးနေကြတယ်။"
+  },
+  {
+    "number": "1027",
+    "word": "water",
+    "meaning_jp": "水をかける",
+    "meaning_mm": "ရေလောင်းသည်၊ ရေဖျန်းသည်",
+    "example": "A woman is watering some plants.",
+    "example_jp": "女性が植物に水をやっている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး အပင်တွေကို ရေလောင်းနေတယ်။"
+  },
+  {
+    "number": "1028",
+    "word": "fasten",
+    "meaning_jp": "締結ぶ、留める",
+    "meaning_mm": "ချည်နှောင်သည်၊ တွဲသည်",
+    "example": "A woman is fastening an apron.",
+    "example_jp": "女性がエプロンを締んでいる。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ခါးစည်းကို ချည်နေတယ်။"
+  },
+  {
+    "number": "1029",
+    "word": "hallway",
+    "meaning_jp": "廊下",
+    "meaning_mm": "စင်္ကြံ၊ လျှောက်လမ်း",
+    "example": "There are some boxes in the hallway.",
+    "example_jp": "廊下に箱がある。",
+    "example_mm": "စင်္ကြံမှာ သေတ္တာတွေ ရှိတယ်။"
+  },
+  {
+    "number": "1030",
+    "word": "microscope",
+    "meaning_jp": "顕微鏡",
+    "meaning_mm": "ဏုကြည့်မှန်ဘီလူး",
+    "example": "The man is using a microscope.",
+    "example_jp": "男性が顕微鏡を使っている。",
+    "example_mm": "အမျိုးသားတစ်ဦး ဏုကြည့်မှန်ဘီလူး သုံးနေတယ်။"
+  },
+  {
+    "number": "1031",
+    "word": "mount",
+    "meaning_jp": "（上に）据える、固定する",
+    "meaning_mm": "တင်ထားသည်၊ တပ်ဆင်ထားသည်",
+    "example": "Some paintings are mounted on a wall.",
+    "example_jp": "数枚の絵が壁に据えつけられている。",
+    "example_mm": "ပန်းချီကား အနည်းငယ် နံရံမှာ တပ်ဆင်ထားတယ်။"
+  },
+  {
+    "number": "1032",
+    "word": "audience",
+    "meaning_jp": "聴衆",
+    "meaning_mm": "ပရိသတ်၊ နားထောင်သူများ",
+    "example": "A band is performing for the audience.",
+    "example_jp": "バンドが聴衆に対して演奏している。",
+    "example_mm": "တီးဝိုင်းတစ်ခု ပရိသတ်အတွက် ဖျော်ဖြေနေတယ်။"
+  },
+  {
+    "number": "1033",
+    "word": "plaza",
+    "meaning_jp": "広場",
+    "meaning_mm": "ရင်ပြင်၊ လူစည်ကားရာ ရင်ပြင်",
+    "example": "Some people are walking through a plaza.",
+    "example_jp": "数名が広場を通っている。",
+    "example_mm": "လူအနည်းငယ် ရင်ပြင်ကို ဖြတ်လျှောက်နေကြတယ်။"
+  },
+  {
+    "number": "1034",
+    "word": "glove",
+    "meaning_jp": "手袋",
+    "meaning_mm": "လက်အိတ်",
+    "example": "A woman is wearing gloves.",
+    "example_jp": "女性が手袋をしている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး လက်အိတ်ဝတ်ထားတယ်။"
+  },
+  {
+    "number": "1035",
+    "word": "place",
+    "meaning_jp": "置く",
+    "meaning_mm": "ထားသည်၊ နေရာချသည်",
+    "example": "Printers have been placed against the wall.",
+    "example_jp": "プリンターが壁際に置かれている。",
+    "example_mm": "ပရင်တာတွေ နံရံဘေးမှာ ထားထားတယ်။"
+  },
+  {
+    "number": "1036",
+    "word": "protective",
+    "meaning_jp": "防護用の",
+    "meaning_mm": "အကာအကွယ်ပေးသော",
+    "example": "A woman is wearing protective clothing.",
+    "example_jp": "女性が防護用の服を着ている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး အကာအကွယ်အဝတ်အစား ဝတ်ထားတယ်။"
+  },
+  {
+    "number": "1037",
+    "word": "scattered",
+    "meaning_jp": "散らばっている",
+    "meaning_mm": "ကစဉ့်ကလျား၊ ဖြန့်ကျက်နေသော",
+    "example": "Some papers are scattered on a table.",
+    "example_jp": "書類がテーブルの上に散らばっている。",
+    "example_mm": "စာရွက်စာတမ်းတွေ စားပွဲပေါ်မှာ ဖြန့်ကျက်နေတယ်။"
+  },
+  {
+    "number": "1038",
+    "word": "artwork",
+    "meaning_jp": "芸術作品",
+    "meaning_mm": "အနုပညာလက်ရာ",
+    "example": "People are gathered near an artwork.",
+    "example_jp": "人々が芸術作品の近くに集まっている。",
+    "example_mm": "လူများ အနုပညာလက်ရာအနီး စုရုံးနေကြတယ်။"
+  },
+  {
+    "number": "1039",
+    "word": "cast a shadow",
+    "meaning_jp": "影を落とす",
+    "meaning_mm": "အရိပ်ထင်သည်၊ အရိပ်ကျသည်",
+    "example": "A ladder is casting a shadow.",
+    "example_jp": "ハシゴが影を落としている。",
+    "example_mm": "လှေကားတစ်ခု အရိပ်ထင်နေတယ်။"
+  },
+  {
+    "number": "1040",
+    "word": "page through",
+    "meaning_jp": "ページをめくる",
+    "meaning_mm": "စာမျက်နှာလှန်သည်",
+    "example": "He's paging through reading material.",
+    "example_jp": "彼は読み物のページをめくっている。",
+    "example_mm": "သူ စာဖတ်စရာ စာမျက်နှာတွေကို လှန်နေတယ်။"
+  },
+  {
+    "number": "1041",
+    "word": "row",
+    "meaning_jp": "列、（船を）こぐ",
+    "meaning_mm": "အတန်း၊ လှေလှော်သည်",
+    "example": "Cars are parked in a row.",
+    "example_jp": "車が一列に止まっている。",
+    "example_mm": "ကားတွေ အတန်းလိုက် ရပ်ထားတယ်။"
+  },
+  {
+    "number": "1042",
+    "word": "reach",
+    "meaning_jp": "手を伸ばす",
+    "meaning_mm": "လက်လှမ်းသည်၊ လက်ဆန့်သည်",
+    "example": "She's reaching into her bag.",
+    "example_jp": "彼女はバッグの中に手を伸ばしている。",
+    "example_mm": "သူမ အိတ်ထဲ လက်လှမ်းနေတယ်။"
+  },
+  {
+    "number": "1043",
+    "word": "diner",
+    "meaning_jp": "食事客",
+    "meaning_mm": "ထမင်းစားဧည့်သည်",
+    "example": "Diners are seated inside.",
+    "example_jp": "食事客が屋内で席についている。",
+    "example_mm": "ထမင်းစားဧည့်သည်တွေ အတွင်းမှာ ထိုင်နေကြတယ်။"
+  },
+  {
+    "number": "1044",
+    "word": "pour",
+    "meaning_jp": "注ぐ",
+    "meaning_mm": "ငှဲ့သည်၊ လောင်းသည်",
+    "example": "A woman is pouring some juice.",
+    "example_jp": "女性がジュースを注いでいる。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ဖျော်ရည်တွေ ငှဲ့နေတယ်။"
+  },
+  {
+    "number": "1045",
+    "word": "load",
+    "meaning_jp": "積み込む",
+    "meaning_mm": "တင်သည်၊ ထည့်တင်သည်",
+    "example": "They're loading some boxes onto the truck.",
+    "example_jp": "彼らはトラックに箱を積み込んでいる。",
+    "example_mm": "သူတို့ ထရပ်ကားပေါ် သေတ္တာတွေ တင်နေကြတယ်။"
+  },
+  {
+    "number": "1046",
+    "word": "board",
+    "meaning_jp": "乗り込む",
+    "meaning_mm": "တက်သည်၊ စီးသည်",
+    "example": "Passengers are boarding a train.",
+    "example_jp": "乗客が電車に乗り込んでいる。",
+    "example_mm": "ခရီးသည်တွေ ရထားပေါ် တက်နေကြတယ်။"
+  },
+  {
+    "number": "1047",
+    "word": "pot",
+    "meaning_jp": "深鍋、植木鉢",
+    "meaning_mm": "အိုး၊ ဒယ်အိုး",
+    "example": "There are pots on the table.",
+    "example_jp": "テーブルの上に鍋がある。",
+    "example_mm": "စားပွဲပေါ်မှာ အိုးတွေ ရှိတယ်။"
+  },
+  {
+    "number": "1048",
+    "word": "garbage can",
+    "meaning_jp": "ごみ箱",
+    "meaning_mm": "အမှိုက်ပုံး",
+    "example": "He's walking by a garbage can.",
+    "example_jp": "彼はごみ箱のそばを歩いている。",
+    "example_mm": "သူ အမှိုက်ပုံးဘေးက လျှောက်သွားနေတယ်။"
+  },
+  {
+    "number": "1049",
+    "word": "stack",
+    "meaning_jp": "積み重ねる",
+    "meaning_mm": "ပုံသည်၊ အထပ်လိုက်ထည့်သည်",
+    "example": "Some dishes are stacked on a table.",
+    "example_jp": "お皿がテーブルの上に積み重なっている。",
+    "example_mm": "ပန်းကန်တွေ စားပွဲပေါ်မှာ ပုံနေတယ်။"
+  },
+  {
+    "number": "1050",
+    "word": "drawer",
+    "meaning_jp": "引き出し",
+    "meaning_mm": "အံဆွဲ",
+    "example": "She's opening a drawer.",
+    "example_jp": "彼女は引き出しを開けている。",
+    "example_mm": "သူမ အံဆွဲဖွင့်နေတယ်။"
+  },
+  {
+    "number": "1051",
+    "word": "instrument",
+    "meaning_jp": "楽器",
+    "meaning_mm": "တူရိယာ",
+    "example": "He's playing an instrument.",
+    "example_jp": "彼は楽器を演奏している。",
+    "example_mm": "သူ တူရိယာတစ်ခု တီးနေတယ်။"
+  },
+  {
+    "number": "1052",
+    "word": "remove",
+    "meaning_jp": "取り出す、取り外す",
+    "meaning_mm": "ဖယ်ရှားသည်၊ ထုတ်ယူသည်",
+    "example": "She's removing a book from her handbag.",
+    "example_jp": "彼女はハンドバッグから本を取り出している。",
+    "example_mm": "သူမ လက်ကိုင်အိတ်ထဲက စာအုပ်တစ်အုပ် ထုတ်နေတယ်။"
+  },
+  {
+    "number": "1053",
+    "word": "cargo",
+    "meaning_jp": "貨物、積み荷",
+    "meaning_mm": "ကုန်စည်၊ ကုန်ပစ္စည်း",
+    "example": "They're loading some cargo onto a ship.",
+    "example_jp": "彼らは貨物を船に積み込んでいる。",
+    "example_mm": "သူတို့ သင်္ဘောပေါ် ကုန်ပစ္စည်းတွေ တင်နေကြတယ်။"
+  },
+  {
+    "number": "1054",
+    "word": "auditorium",
+    "meaning_jp": "講堂",
+    "meaning_mm": "ခန်းမ၊ ဟောပြောခန်း",
+    "example": "Some people are seated in an auditorium.",
+    "example_jp": "数名が講堂に座っている。",
+    "example_mm": "လူအနည်းငယ် ခန်းမမှာ ထိုင်နေကြတယ်။"
+  },
+  {
+    "number": "1055",
+    "word": "railing",
+    "meaning_jp": "手すり",
+    "meaning_mm": "လက်ရန်း",
+    "example": "He's leaning on a railing.",
+    "example_jp": "彼は手すりに寄りかかっている。",
+    "example_mm": "သူ လက်ရန်းကို မှီနေတယ်။"
+  },
+  {
+    "number": "1056",
+    "word": "potted plant",
+    "meaning_jp": "鉢植え",
+    "meaning_mm": "အိုးစိုက်အပင်",
+    "example": "Potted plants have been arranged in rows.",
+    "example_jp": "鉢植えが数枚に並んでいる。",
+    "example_mm": "အိုးစိုက်အပင်တွေ အတန်းလိုက် စီထားတယ်။"
+  },
+  {
+    "number": "1057",
+    "word": "position",
+    "meaning_jp": "位置に置く、位置を合わせる",
+    "meaning_mm": "နေရာချထားသည်၊ တည်နေရာချသည်",
+    "example": "A desk is positioned between chairs.",
+    "example_jp": "机が椅子の間に置かれている。",
+    "example_mm": "စားပွဲတစ်လုံး ကုလားထိုင်တွေကြားမှာ ထားထားတယ်။"
+  },
+  {
+    "number": "1058",
+    "word": "browse",
+    "meaning_jp": "（特に買う気もなく店内等）見て回る",
+    "meaning_mm": "ကြည့်ရှုသည်၊ လှည့်ကြည့်သည်",
+    "example": "People are browsing some items.",
+    "example_jp": "人々が商品を見て回っている。",
+    "example_mm": "လူတွေ ပစ္စည်းတွေကို လှည့်ကြည့်နေကြတယ်။"
+  },
+  {
+    "number": "1059",
+    "word": "reflect",
+    "meaning_jp": "（姿を）映す、反映する",
+    "meaning_mm": "ရောင်ပြန်ဟပ်သည်၊ ထင်ဟပ်သည်",
+    "example": "Buildings are reflected in the water.",
+    "example_jp": "建物が水面に映っている。",
+    "example_mm": "အဆောက်အအုံတွေ ရေပြင်မှာ ထင်ဟပ်နေတယ်။"
+  },
+  {
+    "number": "1060",
+    "word": "lay out",
+    "meaning_jp": "広げる",
+    "meaning_mm": "ဖြန့်ခင်းသည်၊ ဖြန့်ထားသည်",
+    "example": "A map is laid out on the table.",
+    "example_jp": "地図がテーブルの上に広げられている。",
+    "example_mm": "မြေပုံတစ်ခု စားပွဲပေါ်မှာ ဖြန့်ထားတယ်။"
+  },
+  {
+    "number": "1061",
+    "word": "doorway",
+    "meaning_jp": "戸口",
+    "meaning_mm": "တံခါးဝ",
+    "example": "They're talking near a doorway.",
+    "example_jp": "彼らは戸口の近くで話をしている。",
+    "example_mm": "သူတို့ တံခါးဝအနီးမှာ စကားပြောနေကြတယ်။"
+  },
+  {
+    "number": "1062",
+    "word": "wheel",
+    "meaning_jp": "（車輪の付いたものを）動かす",
+    "meaning_mm": "ဘီးလှိမ့်သည်၊ တွန်းသည်",
+    "example": "She's wheeling a cart.",
+    "example_jp": "彼女はカートを動かしている。",
+    "example_mm": "သူမ လှည်းတစ်ခုကို တွန်းနေတယ်။"
+  },
+  {
+    "number": "1063",
+    "word": "lead to",
+    "meaning_jp": "（道等が）〜に通じる、つながる",
+    "meaning_mm": "သို့ပို့ဆောင်သည်၊ ဆက်သွယ်သည်",
+    "example": "Some steps lead to a building.",
+    "example_jp": "階段が建物に続いている。",
+    "example_mm": "လှေကားထစ်တွေ အဆောက်အအုံဆီ ရောက်သွားတယ်။"
+  },
+  {
+    "number": "1064",
+    "word": "sit opposite",
+    "meaning_jp": "向き合って座る",
+    "meaning_mm": "မျက်နှာချင်းဆိုင် ထိုင်သည်",
+    "example": "They're sitting opposite each other.",
+    "example_jp": "彼らは互いに向き合って座っている。",
+    "example_mm": "သူတို့ အချင်းချင်း မျက်နှာချင်းဆိုင် ထိုင်နေကြတယ်။"
+  },
+  {
+    "number": "1065",
+    "word": "in the distance",
+    "meaning_jp": "遠くに",
+    "meaning_mm": "အဝေးမှာ",
+    "example": "There are some mountains in the distance.",
+    "example_jp": "遠くに山がある。",
+    "example_mm": "အဝေးမှာ တောင်တွေ ရှိတယ်။"
+  },
+  {
+    "number": "1066",
+    "word": "mow",
+    "meaning_jp": "刈る",
+    "meaning_mm": "ရိတ်သည်၊ ခုတ်သည်",
+    "example": "A man is mowing the lawn.",
+    "example_jp": "男性が芝生を刈っている。",
+    "example_mm": "အမျိုးသားတစ်ဦး မြက်ခင်းကို ရိတ်နေတယ်။"
+  },
+  {
+    "number": "1067",
+    "word": "vase",
+    "meaning_jp": "花瓶",
+    "meaning_mm": "ပန်းအိုး",
+    "example": "The vase is filled with flowers.",
+    "example_jp": "花瓶が花でいっぱいだ。",
+    "example_mm": "ပန်းအိုးထဲမှာ ပန်းတွေ ပြည့်နေတယ်။"
+  },
+  {
+    "number": "1068",
+    "word": "fountain",
+    "meaning_jp": "噴水、泉",
+    "meaning_mm": "ရေပန်းစက်၊ စမ်းရေ",
+    "example": "A fountain is spraying water.",
+    "example_jp": "噴水が水を噴射している。",
+    "example_mm": "ရေပန်းစက်တစ်ခု ရေတွေ ဖျန်းနေတယ်။"
+  },
+  {
+    "number": "1069",
+    "word": "intersection",
+    "meaning_jp": "交差点",
+    "meaning_mm": "လမ်းဆုံ",
+    "example": "Some people are waiting at the intersection.",
+    "example_jp": "数人が交差点で待っている。",
+    "example_mm": "လူအနည်းငယ် လမ်းဆုံမှာ စောင့်နေကြတယ်။"
+  },
+  {
+    "number": "1070",
+    "word": "platform",
+    "meaning_jp": "舞台、プラットフォーム",
+    "meaning_mm": "စင်၊ ပလက်ဖောင်း",
+    "example": "There are some chairs on the platform.",
+    "example_jp": "台の上に数脚の椅子がある。",
+    "example_mm": "စင်ပေါ်မှာ ကုလားထိုင် အနည်းငယ် ရှိတယ်။"
+  },
+  {
+    "number": "1071",
+    "word": "dock",
+    "meaning_jp": "波止場、埠頭（ふとう）",
+    "meaning_mm": "ဆိပ်ကမ်း၊ သင်္ဘောဆိုက်ကပ်ရာ",
+    "example": "Some boats are tied to the dock.",
+    "example_jp": "船が波止場につながれている。",
+    "example_mm": "သင်္ဘောတွေ ဆိပ်ကမ်းမှာ ချည်ထားတယ်။"
+  },
+  {
+    "number": "1072",
+    "word": "glance",
+    "meaning_jp": "ちらっと見る",
+    "meaning_mm": "တစ်ချက်ကြည့်သည်",
+    "example": "He's glancing at a magazine.",
+    "example_jp": "彼は雑誌をちらっと見ている。",
+    "example_mm": "သူ မဂ္ဂဇင်းတစ်စောင် ကို တစ်ချက်ကြည့်နေတယ်။"
+  },
+  {
+    "number": "1073",
+    "word": "cupboard",
+    "meaning_jp": "食器棚",
+    "meaning_mm": "ပန်းကန်ခွက်ယောက် ဗီဒို",
+    "example": "There are some dishes in the cupboard.",
+    "example_jp": "食器棚の中に数枚の皿がある。",
+    "example_mm": "ဗီဒိုထဲမှာ ပန်းကန်တွေ ရှိတယ်။"
+  },
+  {
+    "number": "1074",
+    "word": "exit",
+    "meaning_jp": "（場所から）出る",
+    "meaning_mm": "ထွက်သည်၊ ထွက်ခွာသည်",
+    "example": "A woman is exiting a vehicle.",
+    "example_jp": "女性が乗り物から出ようとしている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး ယာဉ်ပေါ်မှ ထွက်နေတယ်။"
+  },
+  {
+    "number": "1075",
+    "word": "workstation",
+    "meaning_jp": "仕事場、作業場",
+    "meaning_mm": "အလုပ်ရုံ၊ အလုပ်ခွင်",
+    "example": "Some people are sitting at their workstations.",
+    "example_jp": "数名が仕事場に座っている。",
+    "example_mm": "လူအနည်းငယ် သူတို့ အလုပ်ခွင်မှာ ထိုင်နေကြတယ်။"
+  },
+  {
+    "number": "1076",
+    "word": "gaze",
+    "meaning_jp": "じっと見る",
+    "meaning_mm": "စိုက်ကြည့်သည်၊ စူးစိုက်ကြည့်သည်",
+    "example": "He is gazing out the window.",
+    "example_jp": "彼は窓の外をじっと見ている。",
+    "example_mm": "သူ ပြတင်းပေါက်အပြင်ကို စိုက်ကြည့်နေတယ်။"
+  },
+  {
+    "number": "1077",
+    "word": "curb",
+    "meaning_jp": "縁石（歩道と車道の間にある石の段差）",
+    "meaning_mm": "လမ်းဘေး ကျောက်တန်း",
+    "example": "A car is parked at a curb.",
+    "example_jp": "車が縁石に止まっている。",
+    "example_mm": "ကားတစ်စီး လမ်းဘေးကျောက်တန်းမှာ ရပ်ထားတယ်။"
+  },
+  {
+    "number": "1078",
+    "word": "slanted",
+    "meaning_jp": "傾斜した、斜めの",
+    "meaning_mm": "စောင်းသော၊ လျှောစောက်သော",
+    "example": "The roof of the house is slanted.",
+    "example_jp": "家の屋根が斜めになっている。",
+    "example_mm": "အိမ်အမိုးက စောင်းနေတယ်။"
+  },
+  {
+    "number": "1079",
+    "word": "staircase",
+    "meaning_jp": "（室内にある）階段",
+    "meaning_mm": "လှေကား",
+    "example": "A man is climbing a staircase.",
+    "example_jp": "男性が手すりの付いた階段を上っている。",
+    "example_mm": "အမျိုးသားတစ်ဦး လက်ရန်းတပ်ထားတဲ့ လှေကားကို တက်နေတယ်။"
+  },
+  {
+    "number": "1080",
+    "word": "spectator",
+    "meaning_jp": "（スポーツ等の）観客、見物客",
+    "meaning_mm": "ကြည့်ရှုသူ၊ ပရိသတ်",
+    "example": "There are spectators in the stadium.",
+    "example_jp": "スタジアムに観客がいる。",
+    "example_mm": "အားကစားကွင်းမှာ ပရိသတ်တွေ ရှိတယ်။"
+  },
+  {
+    "number": "1081",
+    "word": "courtyard",
+    "meaning_jp": "中庭",
+    "meaning_mm": "အတွင်းရင်ပြင်",
+    "example": "A woman is standing in a courtyard.",
+    "example_jp": "女性が中庭に立っている。",
+    "example_mm": "အမျိုးသမီးတစ်ဦး အတွင်းရင်ပြင်မှာ ရပ်နေတယ်။"
+  },
+  {
+    "number": "1082",
+    "word": "pottery",
+    "meaning_jp": "陶器、瀬戸物",
+    "meaning_mm": "မြေအိုး၊ ကြွေထည်",
+    "example": "Some pottery is being displayed.",
+    "example_jp": "陶器がいくつか展示されている。",
+    "example_mm": "မြေအိုးတွေ ခင်းကျင်းပြသနေတယ်။"
+  },
+  {
+    "number": "1083",
+    "word": "cookware",
+    "meaning_jp": "（鍋、フライパン等の）調理器具",
+    "meaning_mm": "ချက်ပြုတ်ရေး ပစ္စည်းများ",
+    "example": "Some cookware is arranged on the counter.",
+    "example_jp": "調理器具がカウンターに並んでいる。",
+    "example_mm": "ချက်ပြုတ်ရေး ပစ္စည်းတွေ ကောင်တာမှာ စီထားတယ်။"
+  },
+  {
+    "number": "1084",
+    "word": "overlook",
+    "meaning_jp": "見下ろす位置にある",
+    "meaning_mm": "အပေါ်စီးမှ မြင်ရသည်၊ ကြည့်ရှုနိုင်သည်",
+    "example": "High-rise buildings overlook the water.",
+    "example_jp": "高層ビルから水面が見下ろせる。",
+    "example_mm": "အထပ်မြင့် အဆောက်အအုံတွေက ရေပြင်ကို မြင်ရတယ်။"
+  },
+  {
+    "number": "1085",
+    "word": "pier",
+    "meaning_jp": "桟橋",
+    "meaning_mm": "သင်္ဘောဆိုက်ကပ်ရာ တံတား",
+    "example": "A boat is sailing past a pier.",
+    "example_jp": "船が桟橋を通り過ぎている。",
+    "example_mm": "သင်္ဘောတစ်စီး သင်္ဘောဆိုက်တံတားကို ဖြတ်သွားနေတယ်။"
+  },
+  {
+    "number": "1086",
+    "word": "lighthouse",
+    "meaning_jp": "灯台",
+    "meaning_mm": "မီးပြတိုက်",
+    "example": "Some people are gathered near a lighthouse.",
+    "example_jp": "数名が灯台の近くに集まっている。",
+    "example_mm": "လူအနည်းငယ် မီးပြတိုက်အနီး စုရုံးနေကြတယ်။"
+  },
+  {
+    "number": "1087",
+    "word": "portrait",
+    "meaning_jp": "肖像画",
+    "meaning_mm": "ပုံတူပန်းချီ",
+    "example": "A man is drawing a portrait.",
+    "example_jp": "男性が肖像画を描いている。",
+    "example_mm": "အမျိုးသားတစ်ဦး ပုံတူပန်းချီ ရေးဆွဲနေတယ်။"
+  },
+  {
+    "number": "1088",
+    "word": "unattended",
+    "meaning_jp": "（担当の）人がいない",
+    "meaning_mm": "ကြည့်ရှုသူမရှိသော၊ စောင့်ကြပ်မှုမရှိသော",
+    "example": "The reception desk is unattended.",
+    "example_jp": "受付に人がいない。",
+    "example_mm": "ဧည့်ကြိုကောင်တာမှာ လူမရှိဘူး။"
+  },
+  {
+    "number": "1089",
+    "word": "awning",
+    "meaning_jp": "日よけ",
+    "meaning_mm": "နေကာမိုး၊ အမိုး",
+    "example": "Some people are standing under an awning.",
+    "example_jp": "数名が日よけの下に立っている。",
+    "example_mm": "လူအနည်းငယ် နေကာမိုးအောက်မှာ ရပ်နေကြတယ်။"
+  },
+  {
+    "number": "1090",
+    "word": "patio",
+    "meaning_jp": "テラス",
+    "meaning_mm": "ဝရန်တာ၊ အိမ်အပြင်ဘက် ကြမ်းခင်း",
+    "example": "A patio overlooks a river.",
+    "example_jp": "テラスから川が見下ろせる。",
+    "example_mm": "ဝရန်တာကနေ မြစ်ကို မြင်ရတယ်။"
+  },
+  {
+    "number": "1091",
+    "word": "unoccupied",
+    "meaning_jp": "使われていない",
+    "meaning_mm": "အသုံးမပြုသော၊ လူမနေသော",
+    "example": "The chairs are unoccupied.",
+    "example_jp": "椅子は使われていない。",
+    "example_mm": "ကုလားထိုင်တွေ အသုံးမပြုဘဲ ရှိနေတယ်။"
+  },
+  {
+    "number": "1092",
+    "word": "pedestrian",
+    "meaning_jp": "歩行者",
+    "meaning_mm": "လမ်းလျှောက်သူ",
+    "example": "Pedestrians are crossing the street.",
+    "example_jp": "歩行者が道路を渡っている。",
+    "example_mm": "လမ်းလျှောက်သူတွေ လမ်းဖြတ်နေကြတယ်။"
+  },
+  {
+    "number": "1093",
+    "word": "crate",
+    "meaning_jp": "（輸送用の）木箱、ケース",
+    "meaning_mm": "သစ်သားသေတ္တာ၊ သေတ္တာ",
+    "example": "Some crates are being transported.",
+    "example_jp": "木箱が輸送されているところだ。",
+    "example_mm": "သစ်သားသေတ္တာတွေ သယ်ယူပို့ဆောင်နေတယ်။"
+  },
+  {
+    "number": "1094",
+    "word": "utensil",
+    "meaning_jp": "調理器具",
+    "meaning_mm": "အသုံးအဆောင်၊ မီးဖိုချောင်သုံး ပစ္စည်း",
+    "example": "She's arranging utensils on a table.",
+    "example_jp": "彼女はテーブルに調理器具を並べている。",
+    "example_mm": "သူမ စားပွဲပေါ်မှာ မီးဖိုချောင်သုံးပစ္စည်းတွေ စီနေတယ်။"
+  },
+  {
+    "number": "1095",
+    "word": "station",
+    "meaning_jp": "配置する、駅",
+    "meaning_mm": "နေရာချထားသည်၊ ဘူတာ",
+    "example": "Some people are stationed at a counter.",
+    "example_jp": "数名がカウンターの後ろに配置されている。",
+    "example_mm": "လူအနည်းငယ် ကောင်တာနောက်မှာ နေရာချထားတယ်။"
+  },
+  {
+    "number": "1096",
+    "word": "window pane",
+    "meaning_jp": "窓ガラス",
+    "meaning_mm": "ပြတင်းပေါက် မှန်ခွဲ",
+    "example": "Workers are cleaning the window panes.",
+    "example_jp": "作業員が窓ガラスを掃除している。",
+    "example_mm": "အလုပ်သမားတွေ ပြတင်းပေါက်မှန်တွေ သန့်ရှင်းရေးလုပ်နေကြတယ်။"
+  },
+  {
+    "number": "1097",
+    "word": "stroll",
+    "meaning_jp": "ぶらぶら歩く",
+    "meaning_mm": "လမ်းလျှောက်သည်၊ လည်ပတ်သည်",
+    "example": "She's strolling along the shore.",
+    "example_jp": "彼女は海辺をぶらぶら歩いている。",
+    "example_mm": "သူမ ကမ်းခြေတစ်လျှောက် လမ်းလျှောက်နေတယ်။"
+  },
+  {
+    "number": "1098",
+    "word": "lamppost",
+    "meaning_jp": "街灯柱",
+    "meaning_mm": "လမ်းမီးတိုင်",
+    "example": "Some lampposts line the street.",
+    "example_jp": "街灯柱が通りに並んでいる。",
+    "example_mm": "လမ်းမီးတိုင်တွေ လမ်းတစ်လျှောက် စီတန်းနေတယ်။"
+  },
+  {
+    "number": "1099",
+    "word": "wheelbarrow",
+    "meaning_jp": "（手押しの）一輪車",
+    "meaning_mm": "တစ်ဘီးလှည်း",
+    "example": "A man is pushing a wheelbarrow.",
+    "example_jp": "男性が一輪車を押している。",
+    "example_mm": "အမျိုးသားတစ်ဦး တစ်ဘီးလှည်း တွန်းနေတယ်။"
+  },
+  {
+    "number": "1100",
+    "word": "canopy",
+    "meaning_jp": "天蓋（店の日除けの布やプラスチック製の覆い）",
+    "meaning_mm": "အမိုး၊ နေကာမိုး",
+    "example": "A canopy is shading some merchandise.",
+    "example_jp": "天蓋で商品が日陰になっている。",
+    "example_mm": "အမိုးတစ်ခုက ကုန်ပစ္စည်းတွေကို အရိပ်ပေးထားတယ်။"
+  }
+]

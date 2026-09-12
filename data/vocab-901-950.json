@@ -1,0 +1,452 @@
+[
+  {
+    "number": "901",
+    "word": "subsequent",
+    "meaning_jp": "その後の数年間",
+    "meaning_mm": "နောက်ဆက်တွဲ၊ နောက်ပိုင်း",
+    "example": "the subsequent years",
+    "example_jp": "その後の数年間",
+    "example_mm": "နောက်ဆက်တွဲ နှစ်များ"
+  },
+  {
+    "number": "902",
+    "word": "thoughtfully",
+    "meaning_jp": "深く考えて書かれた記事",
+    "meaning_mm": "စဉ်းစားဆင်ခြင်စွာ",
+    "example": "a thoughtfully written article",
+    "example_jp": "深く考えて書かれた記事",
+    "example_mm": "စဉ်းစားဆင်ခြင်စွာ ရေးသားထားသော ဆောင်းပါး"
+  },
+  {
+    "number": "903",
+    "word": "abridged",
+    "meaning_jp": "要約版",
+    "meaning_mm": "အတိုချုံးထားသော",
+    "example": "an abridged version",
+    "example_jp": "要約版",
+    "example_mm": "အတိုချုံးထားသော ဗားရှင်း"
+  },
+  {
+    "number": "904",
+    "word": "carpool",
+    "meaning_jp": "従業員に相乗りすることを奨励する",
+    "meaning_mm": "ကားစုပေါင်းစီးခြင်း",
+    "example": "encourage employees to carpool",
+    "example_jp": "従業員に相乗りすることを奨励する",
+    "example_mm": "ဝန်ထမ်းများကို ကားစုပေါင်းစီးရန် အားပေးသည်"
+  },
+  {
+    "number": "905",
+    "word": "compatible",
+    "meaning_jp": "そのソフトはあなたのコンピュータと互換性があります。",
+    "meaning_mm": "ကိုက်ညီသော၊ လိုက်ဖက်သော",
+    "example": "The software is compatible with your computer.",
+    "example_jp": "そのソフトはあなたのコンピュータと互換性があります。",
+    "example_mm": "အဲဒီဆော့ဖ်ဝဲက သင့်ကွန်ပျူတာနဲ့ ကိုက်ညီပါတယ်။"
+  },
+  {
+    "number": "906",
+    "word": "endorse",
+    "meaning_jp": "この製品は有名人の推薦を受けている。",
+    "meaning_mm": "ထောက်ခံသည်၊ ထောက်ပံ့သည်",
+    "example": "This product is endorsed by celebrities.",
+    "example_jp": "この製品は有名人の推薦を受けている。",
+    "example_mm": "ဒီထုတ်ကုန်က ကျော်ကြားသူများ၏ ထောက်ခံမှု ရရှိထားတယ်။"
+  },
+  {
+    "number": "907",
+    "word": "explicit",
+    "meaning_jp": "明確な許可なしに",
+    "meaning_mm": "ရှင်းလင်းပြတ်သားသော",
+    "example": "without explicit permission",
+    "example_jp": "明確な許可なしに",
+    "example_mm": "ရှင်းလင်းပြတ်သားသော ခွင့်ပြုချက်မရှိဘဲ"
+  },
+  {
+    "number": "908",
+    "word": "keenly",
+    "meaning_jp": "リスクを痛感している",
+    "meaning_mm": "ပြင်းထန်စွာ၊ စူးရှစွာ",
+    "example": "keenly aware of the risks",
+    "example_jp": "リスクを痛感している",
+    "example_mm": "အန္တရာယ်များကို ပြင်းထန်စွာ သတိထားမိသည်"
+  },
+  {
+    "number": "909",
+    "word": "plaque",
+    "meaning_jp": "記念の盾",
+    "meaning_mm": "အမှတ်တရ ကမ္ပည်းပြား",
+    "example": "a commemorative plaque",
+    "example_jp": "記念の盾",
+    "example_mm": "အထိမ်းအမှတ် ကမ္ပည်းပြား"
+  },
+  {
+    "number": "910",
+    "word": "dilute",
+    "meaning_jp": "塗料を水で薄める",
+    "meaning_mm": "ဖျော်သည်၊ ရောစပ်သည်",
+    "example": "dilute paint with water",
+    "example_jp": "塗料を水で薄める",
+    "example_mm": "ဆေးကို ရေနဲ့ ဖျော်သည်"
+  },
+  {
+    "number": "911",
+    "word": "exempt",
+    "meaning_jp": "会員は料金を免除されます。",
+    "meaning_mm": "ကင်းလွတ်ခွင့်ရသော",
+    "example": "Members are exempt from the fee.",
+    "example_jp": "会員は料金を免除されます。",
+    "example_mm": "အဖွဲ့ဝင်များသည် အခကြေးငွေမှ ကင်းလွတ်ခွင့် ရရှိသည်။"
+  },
+  {
+    "number": "912",
+    "word": "centerpiece",
+    "meaning_jp": "中心に置かれる花飾り",
+    "meaning_mm": "အလယ်တွင် ထားသောအရာ",
+    "example": "flower centerpieces",
+    "example_jp": "中心に置かれる花飾り",
+    "example_mm": "အလယ်တွင် ထားသော ပန်းအလှဆင်မှုများ"
+  },
+  {
+    "number": "913",
+    "word": "oversight",
+    "meaning_jp": "それはこちらの見落としです。",
+    "meaning_mm": "ကြီးကြပ်မှု၊ လစ်ဟာမှု",
+    "example": "It's an oversight on our part.",
+    "example_jp": "それはこちらの見落としです。",
+    "example_mm": "ဒါက ကျွန်တော်တို့ဘက်က လစ်ဟာမှုပါ။"
+  },
+  {
+    "number": "914",
+    "word": "privileged",
+    "meaning_jp": "あなたとお仕事ができて光栄です。",
+    "meaning_mm": "အခွင့်ထူးခံရသော",
+    "example": "We are privileged to work with you.",
+    "example_jp": "あなたとお仕事ができて光栄です。",
+    "example_mm": "သင့်နှင့် အလုပ်လုပ်ရတာ ကျွန်တော်တို့အတွက် အခွင့်ထူးတစ်ခုပါ။"
+  },
+  {
+    "number": "915",
+    "word": "recur",
+    "meaning_jp": "問題が再発することを防ぐ",
+    "meaning_mm": "ပြန်ဖြစ်သည်၊ ထပ်ဖြစ်သည်",
+    "example": "prevent a problem from recurring",
+    "example_jp": "問題が再発することを防ぐ",
+    "example_mm": "ပြဿနာ ပြန်မဖြစ်အောင် ကာကွယ်သည်"
+  },
+  {
+    "number": "916",
+    "word": "skeptical",
+    "meaning_jp": "可能性に懐疑的な",
+    "meaning_mm": "သံသယရှိသော၊ ယုံမှားသော",
+    "example": "skeptical about the possibility",
+    "example_jp": "可能性に懐疑的な",
+    "example_mm": "ဖြစ်နိုင်ခြေအပေါ် သံသယရှိသည်"
+  },
+  {
+    "number": "917",
+    "word": "sustainable",
+    "meaning_jp": "環境に優しいエネルギー",
+    "meaning_mm": "ရေရှည်ခံသော၊ ထိန်းသိမ်းနိုင်သော",
+    "example": "sustainable energy",
+    "example_jp": "環境に優しいエネルギー",
+    "example_mm": "ရေရှည်တည်တံ့သော စွမ်းအင်"
+  },
+  {
+    "number": "918",
+    "word": "artifact",
+    "meaning_jp": "古代エジプトの工芸品",
+    "meaning_mm": "ရှေးဟောင်းပစ္စည်း၊ လက်မှုပညာ",
+    "example": "ancient Egyptian artifacts",
+    "example_jp": "古代エジプトの工芸品",
+    "example_mm": "ရှေးဟောင်း အီဂျစ် လက်မှုပညာပစ္စည်းများ"
+  },
+  {
+    "number": "919",
+    "word": "keynote",
+    "meaning_jp": "基調演説",
+    "meaning_mm": "အဓိကမိန့်ခွန်း",
+    "example": "keynote address",
+    "example_jp": "基調演説",
+    "example_mm": "အဓိကမိန့်ခွန်း"
+  },
+  {
+    "number": "920",
+    "word": "breathtaking",
+    "meaning_jp": "その部屋は息をのむほどの眺めを提供しています。",
+    "meaning_mm": "အသက်ရှုရပ်သွားစေသော၊ အလွန်လှပသော",
+    "example": "The room offers a breathtaking view.",
+    "example_jp": "その部屋は息をのむほどの眺めを提供しています。",
+    "example_mm": "အဲဒီအခန်းက အသက်ရှုရပ်သွားစေတဲ့ ရှုခင်းကို ပေးပါတယ်။"
+  },
+  {
+    "number": "921",
+    "word": "cubicle",
+    "meaning_jp": "個別の作業スペースで作業する",
+    "meaning_mm": "အကန့်အသတ်ရှိသော အလုပ်နေရာ",
+    "example": "work in a cubicle",
+    "example_jp": "個別の作業スペースで作業する",
+    "example_mm": "သီးသန့် အလုပ်ခန်းထဲမှာ အလုပ်လုပ်သည်"
+  },
+  {
+    "number": "922",
+    "word": "outage",
+    "meaning_jp": "電力の供給停止（停電）",
+    "meaning_mm": "လျှပ်စစ်ပြတ်တောက်မှု",
+    "example": "a power outage",
+    "example_jp": "電力の供給停止（停電）",
+    "example_mm": "လျှပ်စစ်ဓာတ်အား ပြတ်တောက်မှု"
+  },
+  {
+    "number": "923",
+    "word": "perishable",
+    "meaning_jp": "傷みやすい食品",
+    "meaning_mm": "ပျက်စီးလွယ်သော၊ ဆွေးမြေ့လွယ်သော",
+    "example": "perishable food items",
+    "example_jp": "傷みやすい食品",
+    "example_mm": "ပျက်စီးလွယ်သော အစားအသောက်များ"
+  },
+  {
+    "number": "924",
+    "word": "avid",
+    "meaning_jp": "熱心な読者",
+    "meaning_mm": "စိတ်အားထက်သန်သော၊ ဝါသနာထုံသော",
+    "example": "an avid reader",
+    "example_jp": "熱心な読者",
+    "example_mm": "စိတ်အားထက်သန်သော စာဖတ်သူ"
+  },
+  {
+    "number": "925",
+    "word": "detour",
+    "meaning_jp": "回り道をする",
+    "meaning_mm": "လမ်းလွှဲသွားသည်၊ လမ်းကြောင်းပြောင်းသည်",
+    "example": "take a detour",
+    "example_jp": "回り道をする",
+    "example_mm": "လမ်းလွှဲသွားသည်"
+  },
+  {
+    "number": "926",
+    "word": "expedite",
+    "meaning_jp": "処理を早める",
+    "meaning_mm": "အမြန်ဆောင်ရွက်သည်၊ မြန်ဆန်စေသည်",
+    "example": "expedite a process",
+    "example_jp": "処理を早める",
+    "example_mm": "လုပ်ငန်းစဉ်ကို အမြန်ဆောင်ရွက်သည်"
+  },
+  {
+    "number": "927",
+    "word": "vicinity",
+    "meaning_jp": "駅の近辺",
+    "meaning_mm": "အနီးတစ်ဝိုက်၊ ပတ်ဝန်းကျင်",
+    "example": "in the vicinity of the station",
+    "example_jp": "駅の近辺",
+    "example_mm": "ဘူတာအနီးတစ်ဝိုက်မှာ"
+  },
+  {
+    "number": "928",
+    "word": "affiliated",
+    "meaning_jp": "提携している会社",
+    "meaning_mm": "ဆက်စပ်နေသော၊ ချိတ်ဆက်ထားသော",
+    "example": "affiliated companies",
+    "example_jp": "提携している会社",
+    "example_mm": "ဆက်စပ်နေသော ကုမ္ပဏီများ"
+  },
+  {
+    "number": "929",
+    "word": "definitive",
+    "meaning_jp": "TOEIC語彙の決定版の本",
+    "meaning_mm": "အပြီးသတ်၊ အဆုံးအဖြတ်ဖြစ်သော",
+    "example": "a definitive TOEIC vocabulary book",
+    "example_jp": "TOEIC語彙の決定版の本",
+    "example_mm": "TOEIC ဝေါဟာရ အကောင်းဆုံး စာအုပ်"
+  },
+  {
+    "number": "930",
+    "word": "demolish",
+    "meaning_jp": "建物を解体する",
+    "meaning_mm": "ဖြိုချသည်၊ ဖျက်ဆီးသည်",
+    "example": "demolish a building",
+    "example_jp": "建物を解体する",
+    "example_mm": "အဆောက်အအုံကို ဖြိုချသည်"
+  },
+  {
+    "number": "931",
+    "word": "feasible",
+    "meaning_jp": "実現可能な計画",
+    "meaning_mm": "ဖြစ်နိုင်သော၊ လုပ်နိုင်သော",
+    "example": "a feasible plan",
+    "example_jp": "実現可能な計画",
+    "example_mm": "ဖြစ်နိုင်သော အစီအစဉ်"
+  },
+  {
+    "number": "932",
+    "word": "inaugural",
+    "meaning_jp": "雑誌の最初の号（創刊号）",
+    "meaning_mm": "ဖွင့်ပွဲဆိုင်ရာ၊ စတင်သော",
+    "example": "the inaugural issue of a magazine",
+    "example_jp": "雑誌の最初の号（創刊号）",
+    "example_mm": "မဂ္ဂဇင်း၏ ပထမဆုံးစာစောင်"
+  },
+  {
+    "number": "933",
+    "word": "installment",
+    "meaning_jp": "月々の分割払い",
+    "meaning_mm": "အရစ်ကျပေးချေမှု",
+    "example": "pay in monthly installments",
+    "example_jp": "月々の分割払い",
+    "example_mm": "လစဉ် အရစ်ကျ ပေးချေသည်"
+  },
+  {
+    "number": "934",
+    "word": "redeemable",
+    "meaning_jp": "ギフトカードは商品のみと交換可能です。",
+    "meaning_mm": "လဲလှယ်နိုင်သော၊ ပြန်ရနိုင်သော",
+    "example": "Gift cards are redeemable for merchandise only.",
+    "example_jp": "ギフトカードは商品のみと交換可能です。",
+    "example_mm": "လက်ဆောင်ကတ်များကို ကုန်ပစ္စည်းနှင့်သာ လဲလှယ်နိုင်သည်။"
+  },
+  {
+    "number": "935",
+    "word": "streamline",
+    "meaning_jp": "プロセスを簡略化する",
+    "meaning_mm": "ရိုးရှင်းစေသည်၊ ချောမွေ့စေသည်",
+    "example": "streamline the process",
+    "example_jp": "プロセスを簡略化する",
+    "example_mm": "လုပ်ငန်းစဉ်ကို ရိုးရှင်းစေသည်"
+  },
+  {
+    "number": "936",
+    "word": "insulation",
+    "meaning_jp": "部屋と部屋の間の防音",
+    "meaning_mm": "အပူအအေး ကာကွယ်မှု၊ အသံကာကွယ်မှု",
+    "example": "sound insulation between rooms",
+    "example_jp": "部屋と部屋の間の防音",
+    "example_mm": "အခန်းများကြား အသံကာကွယ်မှု"
+  },
+  {
+    "number": "937",
+    "word": "intact",
+    "meaning_jp": "すべてが無傷で届いた。",
+    "meaning_mm": "မပျက်စီးသော၊ နဂိုအတိုင်းရှိသော",
+    "example": "Everything arrived intact.",
+    "example_jp": "すべてが無傷で届いた。",
+    "example_mm": "အားလုံး မပျက်စီးဘဲ ရောက်လာတယ်။"
+  },
+  {
+    "number": "938",
+    "word": "occupancy",
+    "meaning_jp": "ホテルの占有率（稼働率）",
+    "meaning_mm": "နေထိုင်မှုနှုန်း၊ အသုံးပြုမှုနှုန်း",
+    "example": "the occupancy rate of hotels",
+    "example_jp": "ホテルの占有率（稼働率）",
+    "example_mm": "ဟိုတယ်များ၏ အသုံးပြုမှုနှုန်း"
+  },
+  {
+    "number": "939",
+    "word": "turnover",
+    "meaning_jp": "スタッフの離職率",
+    "meaning_mm": "လည်ပတ်မှု၊ ဝန်ထမ်းအပြောင်းအလဲနှုန်း",
+    "example": "staff turnover",
+    "example_jp": "スタッフの離職率",
+    "example_mm": "ဝန်ထမ်း အပြောင်းအလဲနှုန်း"
+  },
+  {
+    "number": "940",
+    "word": "unanimous",
+    "meaning_jp": "満場一致の承諾",
+    "meaning_mm": "တညီတညွတ်တည်း၊ အားလုံးသဘောတူသော",
+    "example": "unanimous approval",
+    "example_jp": "満場一致の承諾",
+    "example_mm": "တညီတညွတ်တည်း သဘောတူညီချက်"
+  },
+  {
+    "number": "941",
+    "word": "deteriorate",
+    "meaning_jp": "路面の状況が悪化するだろう。",
+    "meaning_mm": "ပိုဆိုးလာသည်၊ ယိုယွင်းလာသည်",
+    "example": "Road conditions will deteriorate.",
+    "example_jp": "路面の状況が悪化するだろう。",
+    "example_mm": "လမ်းအခြေအနေများ ပိုဆိုးလာပါမည်။"
+  },
+  {
+    "number": "942",
+    "word": "sturdy",
+    "meaning_jp": "そのテーブルは頑丈に見える。",
+    "meaning_mm": "ခိုင်ခံ့သော၊ တောင့်တင်းသော",
+    "example": "The table looks sturdy.",
+    "example_jp": "そのテーブルは頑丈に見える。",
+    "example_mm": "အဲဒီစားပွဲက ခိုင်ခံ့ပုံရတယ်။"
+  },
+  {
+    "number": "943",
+    "word": "adverse",
+    "meaning_jp": "健康面へのよくない影響",
+    "meaning_mm": "ဆိုးကျိုးဖြစ်စေသော၊ ဆန့်ကျင်ဘက်ဖြစ်သော",
+    "example": "adverse health effects",
+    "example_jp": "健康面へのよくない影響",
+    "example_mm": "ကျန်းမာရေးအပေါ် ဆိုးကျိုးသက်ရောက်မှုများ"
+  },
+  {
+    "number": "944",
+    "word": "bearer",
+    "meaning_jp": "このクーポンの持参人",
+    "meaning_mm": "ကိုင်ဆောင်သူ၊ ယူဆောင်လာသူ",
+    "example": "the bearer of this coupon",
+    "example_jp": "このクーポンの持参人",
+    "example_mm": "ဒီကူပွန်ကို ကိုင်ဆောင်လာသူ"
+  },
+  {
+    "number": "945",
+    "word": "unprecedented",
+    "meaning_jp": "前例のない8カ月に渡っての上昇",
+    "meaning_mm": "ယခင်တစ်ခါမှမဖြစ်ဖူးသော",
+    "example": "rising for an unprecedented eight months",
+    "example_jp": "前例のない8カ月に渡っての上昇",
+    "example_mm": "ယခင်တစ်ခါမှ မဖြစ်ဖူးသော ရှစ်လတာ တက်လာမှု"
+  },
+  {
+    "number": "946",
+    "word": "botanical",
+    "meaning_jp": "植物園",
+    "meaning_mm": "ရုက္ခဗေဒဆိုင်ရာ၊ အပင်နှင့်ဆိုင်သော",
+    "example": "botanical gardens",
+    "example_jp": "植物園",
+    "example_mm": "ရုက္ခဗေဒ ဥယျာဉ်"
+  },
+  {
+    "number": "947",
+    "word": "commensurate",
+    "meaning_jp": "給与は経験に比例します。",
+    "meaning_mm": "အချိုးကျသော၊ လိုက်လျောညီထွေသော",
+    "example": "Salary will be commensurate with experience.",
+    "example_jp": "給与は経験に比例します。",
+    "example_mm": "လစာသည် အတွေ့အကြုံနှင့် အချိုးကျပါမည်။"
+  },
+  {
+    "number": "948",
+    "word": "consecutive",
+    "meaning_jp": "3年連続で",
+    "meaning_mm": "ဆက်တိုက်၊ အဆက်မပြတ်",
+    "example": "for the third consecutive year",
+    "example_jp": "3年連続で",
+    "example_mm": "တတိယနှစ် ဆက်တိုက်"
+  },
+  {
+    "number": "949",
+    "word": "deliberation",
+    "meaning_jp": "熟慮の末",
+    "meaning_mm": "စဉ်းစားဆင်ခြင်မှု၊ ဆွေးနွေးမှု",
+    "example": "after long deliberation",
+    "example_jp": "熟慮の末",
+    "example_mm": "ကြာရှည်စွာ စဉ်းစားဆင်ခြင်ပြီးနောက်"
+  },
+  {
+    "number": "950",
+    "word": "discreetly",
+    "meaning_jp": "分別を持って振る舞う",
+    "meaning_mm": "သတိထားစွာ၊ ပညာရှိစွာ",
+    "example": "behave discreetly",
+    "example_jp": "分別を持って振る舞う",
+    "example_mm": "သတိထားပြီး ပညာရှိစွာ ပြုမူသည်"
+  }
+]

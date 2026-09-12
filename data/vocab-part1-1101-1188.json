@@ -1,0 +1,795 @@
+[
+  {
+    "number": "1101",
+    "word": "accommodate",
+    "meaning_jp": "要望に応える、収容する",
+    "meaning_mm": "ဖြည့်ဆည်းပေးသည်၊ နေရာထိုင်ခင်းပေးသည်",
+    "example": "The hotel can accommodate 300 guests.",
+    "example_jp": "そのホテルは300人を収容できる。",
+    "example_mm": "အဲဒီဟိုတယ်က ဧည့်သည် ၃၀၀ ကို နေရာထိုင်ခင်း ပေးနိုင်တယ်။"
+  },
+  {
+    "number": "1102",
+    "word": "account",
+    "meaning_jp": "口座、得意先、（割合を）占める",
+    "meaning_mm": "အကောင့်၊ ဖောက်သည်၊ ရာခိုင်နှုန်းရှိသည်",
+    "example": "account for 50% of sales",
+    "example_jp": "売り上げの50%を占める",
+    "example_mm": "အရောင်း၏ ၅၀% ရှိသည်"
+  },
+  {
+    "number": "1103",
+    "word": "address",
+    "meaning_jp": "対処する、話しかける、向ける、演説、宛名を書く",
+    "meaning_mm": "ဖြေရှင်းသည်၊ ပြောဆိုသည်၊ ဦးတည်သည်၊ မိန့်ခွန်းပြောသည်၊ လိပ်စာရေးသည်",
+    "example": "address a problem",
+    "example_jp": "問題に対処する",
+    "example_mm": "ပြဿနာကို ဖြေရှင်းသည်"
+  },
+  {
+    "number": "1104",
+    "word": "appearance",
+    "meaning_jp": "外見、出現、出演",
+    "meaning_mm": "အပြင်ပန်းပုံပန်း၊ ပေါ်ထွက်လာမှု၊ သရုပ်ဆောင်မှု",
+    "example": "an appearance in a film",
+    "example_jp": "映画への出演",
+    "example_mm": "ရုပ်ရှင်တွင် ပါဝင်သရုပ်ဆောင်မှု"
+  },
+  {
+    "number": "1105",
+    "word": "apply",
+    "meaning_jp": "応募する、塗る、適用される",
+    "meaning_mm": "လျှောက်ထားသည်၊ လိမ်းသည်၊ သက်ဆိုင်သည်",
+    "example": "apply for the position",
+    "example_jp": "その職に応募する",
+    "example_mm": "အဲဒီရာထူးအတွက် လျှောက်ထားသည်"
+  },
+  {
+    "number": "1106",
+    "word": "appointment",
+    "meaning_jp": "予約、約束、アポ、指名、任命",
+    "meaning_mm": "ချိန်းဆိုမှု၊ ခန့်အပ်မှု",
+    "example": "the appointment of a new CEO",
+    "example_jp": "新しいCEO（最高経営責任者）の指名",
+    "example_mm": "CEO အသစ်၏ ခန့်အပ်မှု"
+  },
+  {
+    "number": "1107",
+    "word": "article",
+    "meaning_jp": "記事、条項、品物",
+    "meaning_mm": "ဆောင်းပါး၊ အပိုဒ်၊ ပစ္စည်း",
+    "example": "a magazine article",
+    "example_jp": "雑誌の記事",
+    "example_mm": "မဂ္ဂဇင်း ဆောင်းပါး"
+  },
+  {
+    "number": "1108",
+    "word": "battery",
+    "meaning_jp": "一連、一式、（電池以外の意味）",
+    "meaning_mm": "အစုအဖွဲ့၊ တစ်စုံတစ်ရာ",
+    "example": "a battery of tests",
+    "example_jp": "一連のテスト",
+    "example_mm": "စမ်းသပ်မှု အစုအဖွဲ့"
+  },
+  {
+    "number": "1109",
+    "word": "board",
+    "meaning_jp": "取締役会、掲示板",
+    "meaning_mm": "ဒါရိုက်တာဘုတ်အဖွဲ့၊ ကြော်ငြာဘုတ်",
+    "example": "The board of directors met yesterday.",
+    "example_jp": "昨日取締役会があった。",
+    "example_mm": "မနေ့က ဒါရိုက်တာဘုတ်အဖွဲ့ အစည်းအဝေး ရှိခဲ့တယ်။"
+  },
+  {
+    "number": "1110",
+    "word": "book",
+    "meaning_jp": "予約する",
+    "meaning_mm": "ကြိုတင်မှာယူသည်၊ ဘွတ်ကင်လုပ်သည်",
+    "example": "book a room",
+    "example_jp": "部屋を予約する",
+    "example_mm": "အခန်း ကြိုတင်မှာယူသည်"
+  },
+  {
+    "number": "1111",
+    "word": "carry",
+    "meaning_jp": "扱う、持ち運ぶ、実行する",
+    "meaning_mm": "သယ်ဆောင်သည်၊ ရောင်းချသည်၊ ဆောင်ရွက်သည်",
+    "example": "carry out a task",
+    "example_jp": "任務を実行する",
+    "example_mm": "တာဝန်တစ်ခုကို ဆောင်ရွက်သည်"
+  },
+  {
+    "number": "1112",
+    "word": "certain",
+    "meaning_jp": "ある決まった、特定の",
+    "meaning_mm": "သတ်မှတ်ထားသော၊ တစ်ချို့သော",
+    "example": "by a certain time",
+    "example_jp": "ある決まった時刻までに",
+    "example_mm": "သတ်မှတ်ထားသော အချိန်တစ်ခုအထိ"
+  },
+  {
+    "number": "1113",
+    "word": "complete",
+    "meaning_jp": "全部そろった、完了した、記入する",
+    "meaning_mm": "ပြည့်စုံသော၊ ပြီးစီးသော၊ ဖြည့်စွက်သည်",
+    "example": "The work is nearly complete.",
+    "example_jp": "作業はほとんど完了した。",
+    "example_mm": "အလုပ်က ပြီးလုနီးပါး ဖြစ်နေတယ်။"
+  },
+  {
+    "number": "1114",
+    "word": "consideration",
+    "meaning_jp": "検討、考慮、配慮、思いやり",
+    "meaning_mm": "စဉ်းစားဆင်ခြင်မှု၊ ထောက်ထားစာနာမှု",
+    "example": "under consideration",
+    "example_jp": "検討中",
+    "example_mm": "စဉ်းစားဆင်ခြင်နေဆဲ"
+  },
+  {
+    "number": "1115",
+    "word": "copy",
+    "meaning_jp": "コピー、一部、冊",
+    "meaning_mm": "မိတ္တူ၊ တစ်စောင်",
+    "example": "one free copy of the book",
+    "example_jp": "無料の本1冊",
+    "example_mm": "စာအုပ် အခမဲ့ တစ်အုပ်"
+  },
+  {
+    "number": "1116",
+    "word": "cover",
+    "meaning_jp": "覆う、報道する、含む",
+    "meaning_mm": "ဖုံးလွှမ်းသည်၊ သတင်းဖော်ပြသည်၊ ပါဝင်သည်",
+    "example": "The fee covers lunch.",
+    "example_jp": "料金には昼食代が含まれます。",
+    "example_mm": "အခကြေးငွေထဲမှာ နေ့လယ်စာ ပါဝင်ပါတယ်။"
+  },
+  {
+    "number": "1117",
+    "word": "critical",
+    "meaning_jp": "批判的な、非常に重要な",
+    "meaning_mm": "ဝေဖန်တတ်သော၊ အလွန်အရေးကြီးသော",
+    "example": "the most critical factor",
+    "example_jp": "一番重要な要因",
+    "example_mm": "အရေးအကြီးဆုံး အချက်"
+  },
+  {
+    "number": "1118",
+    "word": "decline",
+    "meaning_jp": "（丁寧に）断る、下降する、下落",
+    "meaning_mm": "ငြင်းပယ်သည်၊ ကျဆင်းသည်",
+    "example": "Our sales have declined.",
+    "example_jp": "当社の売り上げは下がった。",
+    "example_mm": "ကျွန်တော်တို့ အရောင်းတွေ ကျဆင်းသွားတယ်။"
+  },
+  {
+    "number": "1119",
+    "word": "definition",
+    "meaning_jp": "定義、鮮明度",
+    "meaning_mm": "အဓိပ္ပာယ်ဖွင့်ဆိုချက်၊ ပြတ်သားမှု",
+    "example": "a dictionary definition",
+    "example_jp": "辞書の定義",
+    "example_mm": "အဘိဓာန် အဓိပ္ပာယ်ဖွင့်ဆိုချက်"
+  },
+  {
+    "number": "1120",
+    "word": "deliver",
+    "meaning_jp": "配達する、届ける、（スピーチや講義を）行う",
+    "meaning_mm": "ပို့ဆောင်သည်၊ ပေးအပ်သည်၊ မိန့်ခွန်းပြောသည်",
+    "example": "deliver a speech",
+    "example_jp": "スピーチを行う",
+    "example_mm": "မိန့်ခွန်း ပြောကြားသည်"
+  },
+  {
+    "number": "1121",
+    "word": "demonstrate",
+    "meaning_jp": "実演する、明示する",
+    "meaning_mm": "သရုပ်ပြသည်၊ ဖော်ပြသည်",
+    "example": "demonstrate excellent communication skills",
+    "example_jp": "優れたコミュニケーションスキルを明示する",
+    "example_mm": "ထူးချွန်သော ဆက်သွယ်ပြောဆိုမှု စွမ်းရည်ကို ဖော်ပြသည်"
+  },
+  {
+    "number": "1122",
+    "word": "development",
+    "meaning_jp": "開発、研究開発、住宅地、成長",
+    "meaning_mm": "ဖွံ့ဖြိုးတိုးတက်မှု၊ အိမ်ရာစီမံကိန်း",
+    "example": "research and development",
+    "example_jp": "研究開発",
+    "example_mm": "သုတေသနနှင့် ဖွံ့ဖြိုးတိုးတက်မှု"
+  },
+  {
+    "number": "1123",
+    "word": "direction",
+    "meaning_jp": "道順、指示、方向",
+    "meaning_mm": "လမ်းညွှန်ချက်၊ ဦးတည်ချက်",
+    "example": "directions to the museum",
+    "example_jp": "美術館までの道順",
+    "example_mm": "ပြတိုက်သို့သွားရန် လမ်းညွှန်ချက်"
+  },
+  {
+    "number": "1124",
+    "word": "drawing",
+    "meaning_jp": "抽選、スケッチ、線画",
+    "meaning_mm": "မဲဖွင့်ခြင်း၊ ပုံဆွဲခြင်း",
+    "example": "a drawing for prizes",
+    "example_jp": "賞品が当たる抽選",
+    "example_mm": "ဆုပစ္စည်းများအတွက် မဲဖွင့်ခြင်း"
+  },
+  {
+    "number": "1125",
+    "word": "due",
+    "meaning_jp": "期限の、（支払い）期日、〜が原因で、〜することになっている",
+    "meaning_mm": "သတ်မှတ်ရက်၊ ကြောင့်၊ လုပ်ရမည်",
+    "example": "a due date",
+    "example_jp": "提出期限",
+    "example_mm": "တင်သွင်းရမည့် သတ်မှတ်ရက်"
+  },
+  {
+    "number": "1126",
+    "word": "edge",
+    "meaning_jp": "端、優位性",
+    "meaning_mm": "အစွန်း၊ အားသာချက်",
+    "example": "have an edge over others",
+    "example_jp": "他者に対して優位性を持つ",
+    "example_mm": "အခြားသူများထက် အားသာချက် ရှိသည်"
+  },
+  {
+    "number": "1127",
+    "word": "express",
+    "meaning_jp": "（感情や考え等を）表す、急ぎの、急行の",
+    "meaning_mm": "ဖော်ပြသည်၊ အမြန်၊ အလောတကြီး",
+    "example": "express appreciation",
+    "example_jp": "感謝を表す",
+    "example_mm": "ကျေးဇူးတင်ကြောင်း ဖော်ပြသည်"
+  },
+  {
+    "number": "1128",
+    "word": "extend",
+    "meaning_jp": "延長する、表す、及ぶ",
+    "meaning_mm": "သက်တမ်းတိုးသည်၊ ဖော်ပြသည်၊ ရောက်ရှိသည်",
+    "example": "extend a deadline",
+    "example_jp": "期限を延長する",
+    "example_mm": "သတ်မှတ်ရက် သက်တမ်းတိုးသည်"
+  },
+  {
+    "number": "1129",
+    "word": "fare",
+    "meaning_jp": "運賃、料理",
+    "meaning_mm": "ယာဉ်စီးခ၊ အစားအစာ",
+    "example": "bus fare",
+    "example_jp": "バスの運賃",
+    "example_mm": "ဘတ်စ်ကား စီးခ"
+  },
+  {
+    "number": "1130",
+    "word": "fashion",
+    "meaning_jp": "やり方、方法、ファッション",
+    "meaning_mm": "နည်းလမ်း၊ ဖက်ရှင်",
+    "example": "in a timely fashion",
+    "example_jp": "タイミングの良い方法で",
+    "example_mm": "အချိန်မှန်သော နည်းလမ်းဖြင့်"
+  },
+  {
+    "number": "1131",
+    "word": "feature",
+    "meaning_jp": "特集、特徴、〜を大きく扱う、目玉にする",
+    "meaning_mm": "ထူးခြားချက်၊ အဓိကဖော်ပြချက်၊ မီးမောင်းထိုးပြသည်",
+    "example": "a feature article",
+    "example_jp": "特集記事",
+    "example_mm": "အထူးဆောင်းပါး"
+  },
+  {
+    "number": "1132",
+    "word": "field",
+    "meaning_jp": "分野、現場、原野",
+    "meaning_mm": "နယ်ပယ်၊ ကွင်း၊ လယ်ကွင်း",
+    "example": "in the field of art",
+    "example_jp": "芸術の分野で",
+    "example_mm": "အနုပညာ နယ်ပယ်တွင်"
+  },
+  {
+    "number": "1133",
+    "word": "fine",
+    "meaning_jp": "罰金",
+    "meaning_mm": "ဒဏ်ကြေး၊ ဒဏ်ငွေ",
+    "example": "pay a $10 fine",
+    "example_jp": "10ドルの罰金を払う",
+    "example_mm": "ဒေါ်လာ ၁၀ ဒဏ်ကြေး ပေးဆောင်သည်"
+  },
+  {
+    "number": "1134",
+    "word": "forward",
+    "meaning_jp": "前に、前方に、転送する",
+    "meaning_mm": "ရှေ့သို့၊ ပို့ဆောင်သည်",
+    "example": "look forward to hearing from you",
+    "example_jp": "あなたからの返事を楽しみにしています。",
+    "example_mm": "သင့်ထံမှ ပြန်ကြားချက်ကို မျှော်လင့်နေပါတယ်။"
+  },
+  {
+    "number": "1135",
+    "word": "hold",
+    "meaning_jp": "手に持つ、開催する、〜の地位を占める、保有する",
+    "meaning_mm": "ကိုင်သည်၊ ကျင်းပသည်၊ ရာထူးရှိသည်",
+    "example": "hold an event",
+    "example_jp": "イベントを開催する",
+    "example_mm": "ပွဲတစ်ခု ကျင်းပသည်"
+  },
+  {
+    "number": "1136",
+    "word": "house",
+    "meaning_jp": "保有する、所蔵する、収容する",
+    "meaning_mm": "ထားရှိသည်၊ သိမ်းဆည်းသည်၊ နေရာပေးသည်",
+    "example": "The facility houses six laboratories.",
+    "example_jp": "その施設には6つの研究所が入っている。",
+    "example_mm": "အဲဒီအဆောက်အအုံမှာ သုတေသနခန်း ၆ ခု ရှိသည်။"
+  },
+  {
+    "number": "1137",
+    "word": "input",
+    "meaning_jp": "入力、意見、情報",
+    "meaning_mm": "ထည့်သွင်းချက်၊ ထင်မြင်ချက်",
+    "example": "Thank you for your input.",
+    "example_jp": "ご意見ありがとうございます。",
+    "example_mm": "သင့်ထင်မြင်ချက်အတွက် ကျေးဇူးတင်ပါတယ်။"
+  },
+  {
+    "number": "1138",
+    "word": "invite",
+    "meaning_jp": "（招待する以外の意味）、求める、引き起こす",
+    "meaning_mm": "ဖိတ်ကြားသည်၊ တောင်းဆိုသည်",
+    "example": "The listeners are invited to do?",
+    "example_jp": "聞き手は何をするよう求められていますか。",
+    "example_mm": "နားထောင်သူများကို ဘာလုပ်ရန် တောင်းဆိုထားသနည်း။"
+  },
+  {
+    "number": "1139",
+    "word": "issue",
+    "meaning_jp": "発行する、出す、問題、号",
+    "meaning_mm": "ထုတ်ပြန်သည်၊ ပြဿနာ၊ စာစောင်",
+    "example": "issue a ticket",
+    "example_jp": "チケットを発行する",
+    "example_mm": "လက်မှတ် ထုတ်ပေးသည်"
+  },
+  {
+    "number": "1140",
+    "word": "last",
+    "meaning_jp": "持ちこたえる、続く、一番最近の",
+    "meaning_mm": "ကြာသည်၊ ခံသည်၊ နောက်ဆုံး",
+    "example": "The meeting will last an hour.",
+    "example_jp": "会議は1時間続きます。",
+    "example_mm": "အစည်းအဝေးက တစ်နာရီ ကြာပါမည်။"
+  },
+  {
+    "number": "1141",
+    "word": "lead",
+    "meaning_jp": "導く、先導する、主導する",
+    "meaning_mm": "ဦးဆောင်သည်၊ လမ်းညွှန်သည်",
+    "example": "lead a discussion",
+    "example_jp": "議論を先導する",
+    "example_mm": "ဆွေးနွေးမှုကို ဦးဆောင်သည်"
+  },
+  {
+    "number": "1142",
+    "word": "leave",
+    "meaning_jp": "出発する、去る、辞める、休暇",
+    "meaning_mm": "ထွက်ခွာသည်၊ နုတ်ထွက်သည်၊ ခွင့်",
+    "example": "leave a message",
+    "example_jp": "伝言を残す",
+    "example_mm": "မက်ဆေ့ချ် ချန်ထားသည်"
+  },
+  {
+    "number": "1143",
+    "word": "manage",
+    "meaning_jp": "対処する、なんとかする、運営管理する",
+    "meaning_mm": "စီမံခန့်ခွဲသည်၊ ဖြေရှင်းနိုင်သည်",
+    "example": "manage a store",
+    "example_jp": "店を運営管理する",
+    "example_mm": "ဆိုင်တစ်ခုကို စီမံခန့်ခွဲသည်"
+  },
+  {
+    "number": "1144",
+    "word": "mark",
+    "meaning_jp": "印を付ける、記念する、（マト）の的",
+    "meaning_mm": "အမှတ်အသားပြုသည်၊ ဂုဏ်ပြုသည်",
+    "example": "mark an anniversary",
+    "example_jp": "記念日を祝う",
+    "example_mm": "နှစ်ပတ်လည်နေ့ကို ဂုဏ်ပြုသည်"
+  },
+  {
+    "number": "1145",
+    "word": "match",
+    "meaning_jp": "匹敵する、合わせる、合う",
+    "meaning_mm": "တူညီသည်၊ ကိုက်ညီသည်",
+    "example": "match a price",
+    "example_jp": "価格を合わせる",
+    "example_mm": "စျေးနှုန်းကို ကိုက်ညီစေသည်"
+  },
+  {
+    "number": "1146",
+    "word": "meet",
+    "meaning_jp": "満たす、間に合う",
+    "meaning_mm": "ဖြည့်ဆည်းသည်၊ အချိန်မီသည်",
+    "example": "meet the deadline",
+    "example_jp": "締め切りに間に合う",
+    "example_mm": "သတ်မှတ်ရက် မီအောင်လုပ်သည်"
+  },
+  {
+    "number": "1147",
+    "word": "minute",
+    "meaning_jp": "議事録",
+    "meaning_mm": "အစည်းအဝေး မှတ်တမ်း",
+    "example": "review the minutes",
+    "example_jp": "議事録に目を通す",
+    "example_mm": "အစည်းအဝေး မှတ်တမ်းကို ပြန်လည်သုံးသပ်သည်"
+  },
+  {
+    "number": "1148",
+    "word": "object",
+    "meaning_jp": "反対する、目的、モノ",
+    "meaning_mm": "ကန့်ကွက်သည်၊ ရည်ရွယ်ချက်၊ အရာဝတ္ထု",
+    "example": "object to a plan",
+    "example_jp": "計画に反対する",
+    "example_mm": "အစီအစဉ်ကို ကန့်ကွက်သည်"
+  },
+  {
+    "number": "1149",
+    "word": "once",
+    "meaning_jp": "かつて、一度",
+    "meaning_mm": "တစ်ချိန်က၊ တစ်ကြိမ်",
+    "example": "Tex once owned a car.",
+    "example_jp": "テックスはかつて車を持っていた。",
+    "example_mm": "တက်စ်က တစ်ချိန်က ကားပိုင်ဆိုင်ခဲ့ဖူးတယ်။"
+  },
+  {
+    "number": "1150",
+    "word": "order",
+    "meaning_jp": "注文、注文する、順序",
+    "meaning_mm": "အော်ဒါ၊ မှာယူသည်၊ အစီအစဉ်",
+    "example": "place an order",
+    "example_jp": "注文する",
+    "example_mm": "အော်ဒါတင်သည်"
+  },
+  {
+    "number": "1151",
+    "word": "otherwise",
+    "meaning_jp": "さもなければ、別のやり方で、それ以外には",
+    "meaning_mm": "သို့မဟုတ်ပါက၊ အခြားနည်းလမ်းဖြင့်၊ မဟုတ်ရင်",
+    "example": "Hurry up. Otherwise you'll be late.",
+    "example_jp": "急げ。そうしないと遅れるぞ。",
+    "example_mm": "မြန်မြန်လုပ်။ မဟုတ်ရင် နောက်ကျလိမ့်မယ်။"
+  },
+  {
+    "number": "1152",
+    "word": "outgoing",
+    "meaning_jp": "社交的な人、退職する社長",
+    "meaning_mm": "ဖော်ရွေသော၊ လူမှုဆက်ဆံရေးကောင်းသော၊ ရာထူးမှ ထွက်ခွာသော",
+    "example": "an outgoing person",
+    "example_jp": "社交的な人",
+    "example_mm": "လူမှုဆက်ဆံရေးကောင်းသူ"
+  },
+  {
+    "number": "1153",
+    "word": "outstanding",
+    "meaning_jp": "卓越したサービス、未払いの残高",
+    "meaning_mm": "ထူးချွန်သော၊ မပေးရသေးသော",
+    "example": "outstanding service",
+    "example_jp": "卓越したサービス",
+    "example_mm": "ထူးချွန်သော ဝန်ဆောင်မှု"
+  },
+  {
+    "number": "1154",
+    "word": "party",
+    "meaning_jp": "グループ、仲間、当事者",
+    "meaning_mm": "အဖွဲ့၊ ပါဝင်သူ",
+    "example": "the third party",
+    "example_jp": "第三者",
+    "example_mm": "တတိယပုဂ္ဂိုလ်"
+  },
+  {
+    "number": "1155",
+    "word": "plant",
+    "meaning_jp": "植物、工場、植える",
+    "meaning_mm": "အပင်၊ စက်ရုံ၊ စိုက်ပျိုးသည်",
+    "example": "build a new plant",
+    "example_jp": "新工場を建てる",
+    "example_mm": "စက်ရုံအသစ် ဆောက်သည်"
+  },
+  {
+    "number": "1156",
+    "word": "post",
+    "meaning_jp": "郵便局、掲示板に変更を掲示する、インターネットにコメントを投稿する、赴任させる",
+    "meaning_mm": "စာတိုက်၊ ကြော်ငြာဘုတ်တွင် ကပ်သည်၊ အင်တာနက်တွင် တင်သည်၊ ခန့်အပ်သည်",
+    "example": "Tex was posted to Moscow.",
+    "example_jp": "テックスはモスクワに赴任した。",
+    "example_mm": "တက်စ်က မော်စကိုမှာ ခန့်အပ်ခံခဲ့ရသည်။"
+  },
+  {
+    "number": "1157",
+    "word": "practice",
+    "meaning_jp": "通常の商習慣、開業している医師、独自の方法を実践する",
+    "meaning_mm": "လုပ်ထုံးလုပ်နည်း၊ ဆေးခန်းဖွင့်သည်၊ လက်တွေ့ကျင့်သုံးသည်",
+    "example": "common business practice",
+    "example_jp": "通常の商習慣",
+    "example_mm": "သာမန် စီးပွားရေး လုပ်ထုံးလုပ်နည်း"
+  },
+  {
+    "number": "1158",
+    "word": "present",
+    "meaning_jp": "賞を授与する、提示する、現在の、現住所",
+    "meaning_mm": "ဆုချီးမြှင့်သည်၊ တင်ပြသည်၊ လက်ရှိ၊ လိပ်စာ",
+    "example": "the present address",
+    "example_jp": "現住所",
+    "example_mm": "လက်ရှိ နေရပ်လိပ်စာ"
+  },
+  {
+    "number": "1159",
+    "word": "produce",
+    "meaning_jp": "生産する、農産物",
+    "meaning_mm": "ထုတ်လုပ်သည်၊ စိုက်ပျိုးထွက်ကုန်",
+    "example": "the produce section of a supermarket",
+    "example_jp": "スーパーの農産物売り場",
+    "example_mm": "စူပါမားကတ်၏ ဟင်းသီးဟင်းရွက် ရောင်းချရာနေရာ"
+  },
+  {
+    "number": "1160",
+    "word": "professional",
+    "meaning_jp": "専門的な、プロらしい",
+    "meaning_mm": "ပရော်ဖက်ရှင်နယ်၊ ကျွမ်းကျင်သော",
+    "example": "professional advice",
+    "example_jp": "専門的なアドバイス",
+    "example_mm": "ကျွမ်းကျင်သော အကြံဉာဏ်"
+  },
+  {
+    "number": "1161",
+    "word": "project",
+    "meaning_jp": "プロジェクト、予測する、投影する、印象を与える",
+    "meaning_mm": "စီမံကိန်း၊ ခန့်မှန်းသည်၊ ပုံရိပ်ထင်ဟပ်စေသည်",
+    "example": "project that sales will increase by 10%",
+    "example_jp": "売り上げが10%増えると予測する",
+    "example_mm": "အရောင်း ၁၀% တိုးလာမည်ဟု ခန့်မှန်းသည်"
+  },
+  {
+    "number": "1162",
+    "word": "promote",
+    "meaning_jp": "昇進させる、宣伝する、販売促進する",
+    "meaning_mm": "ရာထူးတိုးပေးသည်၊ ကြော်ငြာသည်၊ မြှင့်တင်သည်",
+    "example": "promote a product",
+    "example_jp": "製品を販売促進する",
+    "example_mm": "ထုတ်ကုန်တစ်ခုကို ရောင်းချမှုမြှင့်တင်သည်"
+  },
+  {
+    "number": "1163",
+    "word": "rate",
+    "meaning_jp": "割合、料金、評価する",
+    "meaning_mm": "နှုန်း၊ နှုန်းထား၊ အကဲဖြတ်သည်",
+    "example": "at the rate of 20% a year",
+    "example_jp": "年20パーセントの割合で",
+    "example_mm": "တစ်နှစ် ၂၀ ရာခိုင်နှုန်းနှုန်းဖြင့်"
+  },
+  {
+    "number": "1164",
+    "word": "reach",
+    "meaning_jp": "到着する、連絡を取る、情報を伝える、手に入れる",
+    "meaning_mm": "ရောက်ရှိသည်၊ ဆက်သွယ်သည်၊ ရရှိသည်",
+    "example": "reach Tokyo early in the morning",
+    "example_jp": "東京に早朝に到着する",
+    "example_mm": "တိုကျိုကို မနက်စောစော ရောက်ရှိသည်"
+  },
+  {
+    "number": "1165",
+    "word": "recall",
+    "meaning_jp": "思い出す、回収する",
+    "meaning_mm": "ပြန်လည်သတိရသည်၊ ပြန်လည်သိမ်းဆည်းသည်",
+    "example": "voluntary recall of products",
+    "example_jp": "製品の自主回収",
+    "example_mm": "ထုတ်ကုန်များ ဆန္ဒအလျောက် ပြန်လည်သိမ်းဆည်းခြင်း"
+  },
+  {
+    "number": "1166",
+    "word": "reception",
+    "meaning_jp": "歓迎会、受付、受信状況",
+    "meaning_mm": "ဧည့်ခံပွဲ၊ ဧည့်ကြိုကောင်တာ၊ အချက်ပြလက်ခံမှု",
+    "example": "The reception will take place next week.",
+    "example_jp": "歓迎会は来週行われる。",
+    "example_mm": "ဧည့်ခံပွဲကို နောက်အပတ်မှာ ကျင်းပပါမည်။"
+  },
+  {
+    "number": "1167",
+    "word": "replace",
+    "meaning_jp": "交換する、後任になる",
+    "meaning_mm": "အစားထိုးသည်၊ နေရာယူသည်",
+    "example": "replace the batteries",
+    "example_jp": "電池を交換する",
+    "example_mm": "ဘက်ထရီများ အစားထိုးသည်"
+  },
+  {
+    "number": "1168",
+    "word": "reservation",
+    "meaning_jp": "予約、懸念、慎重な姿勢",
+    "meaning_mm": "ကြိုတင်မှာယူမှု၊ စိုးရိမ်မှု",
+    "example": "make reservations",
+    "example_jp": "予約する",
+    "example_mm": "ကြိုတင်မှာယူသည်"
+  },
+  {
+    "number": "1169",
+    "word": "run",
+    "meaning_jp": "運営する、出す、掲載する、上演される",
+    "meaning_mm": "စီမံခန့်ခွဲသည်၊ ထုတ်ဝေသည်၊ ပြသသည်",
+    "example": "run a company",
+    "example_jp": "会社を運営する",
+    "example_mm": "ကုမ္ပဏီတစ်ခုကို စီမံခန့်ခွဲသည်"
+  },
+  {
+    "number": "1170",
+    "word": "sample",
+    "meaning_jp": "試食する、試飲する",
+    "meaning_mm": "နမူနာယူသည်၊ မြည်းစမ်းသည်",
+    "example": "sample local food",
+    "example_jp": "地元の食べ物を試食する",
+    "example_mm": "ဒေသခံ အစားအသောက်များ မြည်းစမ်းသည်"
+  },
+  {
+    "number": "1171",
+    "word": "secure",
+    "meaning_jp": "安全な、しっかり固定する、努力で何かを得る",
+    "meaning_mm": "လုံခြုံသော၊ သေချာစွာချည်နှောင်သည်၊ ရရှိသည်",
+    "example": "secure a contract",
+    "example_jp": "契約を得る",
+    "example_mm": "စာချုပ်တစ်ခု ရရှိသည်"
+  },
+  {
+    "number": "1172",
+    "word": "sensitive",
+    "meaning_jp": "敏感度の高い、高精度の、非常に注意が必要な",
+    "meaning_mm": "ထိခိုက်လွယ်သော၊ အလွန်ဂရုစိုက်ရသော",
+    "example": "a highly sensitive camera",
+    "example_jp": "感度の高いカメラ",
+    "example_mm": "အလွန်ထိခိုက်လွယ်သော ကင်မရာ"
+  },
+  {
+    "number": "1173",
+    "word": "serve",
+    "meaning_jp": "サービスを提供する、（食事を）出す、役割を果たす",
+    "meaning_mm": "ဝန်ဆောင်မှုပေးသည်၊ ကျွေးမွေးသည်၊ တာဝန်ထမ်းဆောင်သည်",
+    "example": "serve as the president",
+    "example_jp": "社長としての役割を果たす",
+    "example_mm": "ဥက္ကဋ္ဌအဖြစ် တာဝန်ထမ်းဆောင်သည်"
+  },
+  {
+    "number": "1174",
+    "word": "service",
+    "meaning_jp": "点検する",
+    "meaning_mm": "စစ်ဆေးသည်၊ ပြုပြင်ထိန်းသိမ်းသည်",
+    "example": "The copy machine has been serviced.",
+    "example_jp": "そのコピー機は点検済みだ。",
+    "example_mm": "အဲဒီမိတ္တူစက်ကို စစ်ဆေးပြီးပါပြီ။"
+  },
+  {
+    "number": "1175",
+    "word": "signature",
+    "meaning_jp": "署名、特徴的な",
+    "meaning_mm": "လက်မှတ်၊ ထူးခြားသော",
+    "example": "the chef's signature dish",
+    "example_jp": "シェフの特徴的な料理",
+    "example_mm": "စားဖိုမှူး၏ ထူးခြားသော ဟင်းလျာ"
+  },
+  {
+    "number": "1176",
+    "word": "solution",
+    "meaning_jp": "解決策、溶液",
+    "meaning_mm": "ဖြေရှင်းနည်း၊ အရည်",
+    "example": "find a solution",
+    "example_jp": "解決策を見つける",
+    "example_mm": "ဖြေရှင်းနည်း ရှာဖွေသည်"
+  },
+  {
+    "number": "1177",
+    "word": "star",
+    "meaning_jp": "主役を演じる",
+    "meaning_mm": "သရုပ်ဆောင်သည်၊ အဓိကဇာတ်ဆောင်",
+    "example": "Tex Kato stars in the film.",
+    "example_jp": "テックス加藤はその映画で主演している。",
+    "example_mm": "တက်စ်ကာတိုက အဲဒီရုပ်ရှင်မှာ အဓိကဇာတ်ဆောင်အဖြစ် သရုပ်ဆောင်သည်။"
+  },
+  {
+    "number": "1178",
+    "word": "statement",
+    "meaning_jp": "声明、明細書",
+    "meaning_mm": "ကြေညာချက်၊ စာရင်းရှင်းလင်းချက်",
+    "example": "a monthly statement",
+    "example_jp": "月次明細書",
+    "example_mm": "လစဉ် စာရင်းရှင်းလင်းချက်"
+  },
+  {
+    "number": "1179",
+    "word": "steep",
+    "meaning_jp": "急な坂、法外な値段",
+    "meaning_mm": "မတ်စောက်သော၊ အလွန်ကြီးမားသော",
+    "example": "a steep slope",
+    "example_jp": "急な坂",
+    "example_mm": "မတ်စောက်သော တောင်စောင်း"
+  },
+  {
+    "number": "1180",
+    "word": "subject",
+    "meaning_jp": "〜の対象となる、テーマ、調査対象",
+    "meaning_mm": "ဘာသာရပ်၊ ခေါင်းစဉ်၊ လက်အောက်ခံ",
+    "example": "Prices are subject to change.",
+    "example_jp": "価格は変更になる場合があります。",
+    "example_mm": "စျေးနှုန်းများ ပြောင်းလဲနိုင်ပါသည်။"
+  },
+  {
+    "number": "1181",
+    "word": "suggest",
+    "meaning_jp": "提案する、示す、ほのめかす",
+    "meaning_mm": "အဆိုပြုသည်၊ ညွှန်ပြသည်၊ အရိပ်အမြွက်ပြသည်",
+    "example": "suggest a change",
+    "example_jp": "変更を提案する",
+    "example_mm": "အပြောင်းအလဲတစ်ခုကို အဆိုပြုသည်"
+  },
+  {
+    "number": "1182",
+    "word": "suspend",
+    "meaning_jp": "一時停止する、吊るす",
+    "meaning_mm": "ရပ်ဆိုင်းသည်၊ ချိတ်ဆွဲသည်",
+    "example": "suspend production",
+    "example_jp": "生産を一時停止する",
+    "example_mm": "ထုတ်လုပ်မှုကို ရပ်ဆိုင်းသည်"
+  },
+  {
+    "number": "1183",
+    "word": "table",
+    "meaning_jp": "表、内容一覧",
+    "meaning_mm": "စားပွဲ၊ ဇယား၊ စာရင်း",
+    "example": "a table of contents",
+    "example_jp": "内容一覧（目次）",
+    "example_mm": "မာတိကာ"
+  },
+  {
+    "number": "1184",
+    "word": "terms",
+    "meaning_jp": "条件、専門用語、観点",
+    "meaning_mm": "စည်းကမ်းချက်၊ ဝေါဟာရ၊ ရှုထောင့်",
+    "example": "in terms of price",
+    "example_jp": "値段の点では",
+    "example_mm": "စျေးနှုန်းအရဆိုရင်"
+  },
+  {
+    "number": "1185",
+    "word": "view",
+    "meaning_jp": "意見、眺め",
+    "meaning_mm": "အမြင်၊ ရှုခင်း",
+    "example": "What's your view on the subject?",
+    "example_jp": "そのテーマに関するあなたの意見は何ですか。",
+    "example_mm": "အဲဒီခေါင်းစဉ်နဲ့ပတ်သက်ပြီး သင့်အမြင်က ဘာလဲ။"
+  },
+  {
+    "number": "1186",
+    "word": "weigh",
+    "meaning_jp": "重さを測る、（比較）検討する",
+    "meaning_mm": "အလေးချိန်ချိန်သည်၊ ချင့်ချိန်စဉ်းစားသည်",
+    "example": "weigh the costs against the benefits",
+    "example_jp": "コストと利益を比較検討する",
+    "example_mm": "ကုန်ကျစရိတ်နှင့် အကျိုးအမြတ်ကို နှိုင်းယှဉ်စဉ်းစားသည်"
+  },
+  {
+    "number": "1187",
+    "word": "withdraw",
+    "meaning_jp": "撤退する、引き出す、（お金を）下ろす",
+    "meaning_mm": "ရုပ်သိမ်းသည်၊ ထုတ်ယူသည်၊ ငွေထုတ်သည်",
+    "example": "withdraw a product from the market",
+    "example_jp": "市場から製品を撤退する",
+    "example_mm": "စျေးကွက်မှ ထုတ်ကုန်ကို ရုပ်သိမ်းသည်"
+  },
+  {
+    "number": "1188",
+    "word": "work",
+    "meaning_jp": "作品、仕事、働く、機能する",
+    "meaning_mm": "လက်ရာ၊ အလုပ်၊ အလုပ်လုပ်သည်၊ လည်ပတ်သည်",
+    "example": "of all the works in the museum",
+    "example_jp": "美術館の全作品の中で",
+    "example_mm": "ပြတိုက်ရှိ လက်ရာအားလုံးအနက်"
+  }
+
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "number": "301",
+    "word": "deposit",
+    "meaning_jp": "頭金、敷金、保証金、預け入れる",
+    "meaning_mm": "အပ်ငွေ၊ အာမခံငွေ၊ အပ်နှံသည်",
+    "example": "a security deposit",
+    "example_jp": "安全保証金",
+    "example_mm": "လုံခြုံရေး အာမခံငွေ"
+  },
+  {
+    "number": "302",
+    "word": "contain",
+    "meaning_jp": "含む、所有する",
+    "meaning_mm": "ပါဝင်သည်၊ ပါရှိသည်",
+    "example": "The book contains useful information.",
+    "example_jp": "その本には役立つ情報が含まれている。",
+    "example_mm": "အဲဒီစာအုပ်မှာ အသုံးဝင်တဲ့ အချက်အလက်တွေ ပါဝင်တယ်။"
+  },
+  {
+    "number": "303",
+    "word": "content",
+    "meaning_jp": "内容、中身、満足している",
+    "meaning_mm": "အကြောင်းအရာ၊ အတွင်းပစ္စည်း",
+    "example": "the contents of the book",
+    "example_jp": "その本の内容",
+    "example_mm": "အဲဒီစာအုပ်ရဲ့ အကြောင်းအရာ"
+  },
+  {
+    "number": "304",
+    "word": "proof",
+    "meaning_jp": "証拠、証明",
+    "meaning_mm": "သက်သေ၊ အထောက်အထား",
+    "example": "proof of purchase",
+    "example_jp": "購入の証明",
+    "example_mm": "ဝယ်ယူမှု အထောက်အထား"
+  },
+  {
+    "number": "305",
+    "word": "affect",
+    "meaning_jp": "影響する",
+    "meaning_mm": "သက်ရောက်သည်၊ ထိခိုက်သည်",
+    "example": "affect the price",
+    "example_jp": "値段に影響する",
+    "example_mm": "စျေးနှုန်းအပေါ် သက်ရောက်သည်"
+  },
+  {
+    "number": "306",
+    "word": "recognize",
+    "meaning_jp": "（業績等を）認める、（人を）称える、識別する",
+    "meaning_mm": "အသိအမှတ်ပြုသည်၊ ဂုဏ်ပြုသည်",
+    "example": "Our products are recognized for their quality.",
+    "example_jp": "当社の製品は品質の高さで認められています。",
+    "example_mm": "ကျွန်တော်တို့ ထုတ်ကုန်တွေက အရည်အသွေးမြင့်မားမှုအတွက် အသိအမှတ်ပြုခံရပါတယ်။"
+  },
+  {
+    "number": "307",
+    "word": "represent",
+    "meaning_jp": "代表を務める、相当する、表す",
+    "meaning_mm": "ကိုယ်စားပြုသည်၊ ကိုယ်စားလှယ်လုပ်သည်",
+    "example": "represent a company",
+    "example_jp": "会社の代表を務める",
+    "example_mm": "ကုမ္ပဏီကို ကိုယ်စားပြုသည်"
+  },
+  {
+    "number": "308",
+    "word": "transfer",
+    "meaning_jp": "転勤させる、（移動させる）",
+    "meaning_mm": "ပြောင်းရွှေ့သည်၊ လွှဲပြောင်းသည်",
+    "example": "Tex was transferred to Alaska.",
+    "example_jp": "テックスはアラスカに転勤になった。",
+    "example_mm": "တက်စ်က အလာစကာကို ပြောင်းရွှေ့ခံခဲ့ရတယ်။"
+  },
+  {
+    "number": "309",
+    "word": "anniversary",
+    "meaning_jp": "〜周年、記念日",
+    "meaning_mm": "နှစ်ပတ်လည်နေ့၊ အထိမ်းအမှတ်နေ့",
+    "example": "celebrate the twentieth anniversary",
+    "example_jp": "20周年を祝う",
+    "example_mm": "နှစ် ၂၀ ပြည့် အထိမ်းအမှတ်ကို ကျင်းပသည်"
+  },
+  {
+    "number": "310",
+    "word": "automatically",
+    "meaning_jp": "自動的に",
+    "meaning_mm": "အလိုအလျောက်",
+    "example": "The machine will automatically shut down.",
+    "example_jp": "その機械は自動的に電源が切れます。",
+    "example_mm": "အဲဒီစက်က အလိုအလျောက် ပိတ်သွားပါမယ်။"
+  },
+  {
+    "number": "311",
+    "word": "capacity",
+    "meaning_jp": "（生産）能力、収容能力、役割",
+    "meaning_mm": "စွမ်းရည်၊ ဆံ့နိုင်သည့်ပမာဏ",
+    "example": "production capacity",
+    "example_jp": "生産能力",
+    "example_mm": "ထုတ်လုပ်နိုင်စွမ်း"
+  },
+  {
+    "number": "312",
+    "word": "destination",
+    "meaning_jp": "目的地、行き先",
+    "meaning_mm": "ခရီးဆုံးနေရာ၊ သွားမည့်နေရာ",
+    "example": "travel destinations",
+    "example_jp": "旅行の目的地",
+    "example_mm": "ခရီးသွား နေရာများ"
+  },
+  {
+    "number": "313",
+    "word": "grant",
+    "meaning_jp": "補助金、助成金、与える、許可する",
+    "meaning_mm": "ထောက်ပံ့ငွေ၊ ပေးအပ်သည်",
+    "example": "obtain a grant",
+    "example_jp": "補助金を得る",
+    "example_mm": "ထောက်ပံ့ငွေ ရရှိသည်"
+  },
+  {
+    "number": "314",
+    "word": "publish",
+    "meaning_jp": "出版する",
+    "meaning_mm": "ထုတ်ဝေသည်၊ ပုံနှိပ်ထုတ်ဝေသည်",
+    "example": "publish a magazine",
+    "example_jp": "雑誌を出版する",
+    "example_mm": "မဂ္ဂဇင်း ထုတ်ဝေသည်"
+  },
+  {
+    "number": "315",
+    "word": "accompany",
+    "meaning_jp": "添付する、同行する",
+    "meaning_mm": "ပူးတွဲပါရှိသည်၊ လိုက်ပါသည်",
+    "example": "The book is accompanied by a CD.",
+    "example_jp": "その本にはCDが付いてきます。",
+    "example_mm": "အဲဒီစာအုပ်မှာ CD ပူးတွဲပါလာပါတယ်။"
+  },
+  {
+    "number": "316",
+    "word": "economic",
+    "meaning_jp": "経済の、経済上の",
+    "meaning_mm": "စီးပွားရေးဆိုင်ရာ",
+    "example": "economic growth",
+    "example_jp": "経済成長",
+    "example_mm": "စီးပွားရေး တိုးတက်မှု"
+  },
+  {
+    "number": "317",
+    "word": "extremely",
+    "meaning_jp": "きわめて、非常に",
+    "meaning_mm": "အလွန်အမင်း၊ အလွန်",
+    "example": "check extremely carefully",
+    "example_jp": "非常に丁寧にチェックする",
+    "example_mm": "အလွန်ဂရုတစိုက် စစ်ဆေးသည်"
+  },
+  {
+    "number": "318",
+    "word": "institution",
+    "meaning_jp": "機関、団体、しきたり",
+    "meaning_mm": "အဖွဲ့အစည်း၊ ဌာန",
+    "example": "a financial institution",
+    "example_jp": "金融機関",
+    "example_mm": "ဘဏ္ဍာရေး အဖွဲ့အစည်း"
+  },
+  {
+    "number": "319",
+    "word": "accurate",
+    "meaning_jp": "正確な",
+    "meaning_mm": "တိကျမှန်ကန်သော",
+    "example": "accurate sales figures",
+    "example_jp": "正確な売り上げの数字",
+    "example_mm": "တိကျသော အရောင်းကိန်းဂဏန်းများ"
+  },
+  {
+    "number": "320",
+    "word": "compete",
+    "meaning_jp": "競う",
+    "meaning_mm": "ယှဉ်ပြိုင်သည်၊ ပြိုင်ဆိုင်သည်",
+    "example": "compete with large companies",
+    "example_jp": "大会社と競う",
+    "example_mm": "ကုမ္ပဏီကြီးများနှင့် ယှဉ်ပြိုင်သည်"
+  },
+  {
+    "number": "321",
+    "word": "emphasize",
+    "meaning_jp": "強調する",
+    "meaning_mm": "အလေးပေးပြောဆိုသည်၊ ဖိဖိစီးစီးပြောသည်",
+    "example": "emphasize a point",
+    "example_jp": "ポイントを強調する",
+    "example_mm": "အချက်တစ်ချက်ကို အလေးပေးပြောသည်"
+  },
+  {
+    "number": "322",
+    "word": "aware",
+    "meaning_jp": "気付いて",
+    "meaning_mm": "သတိထားမိသည်၊ သိရှိသည်",
+    "example": "I was aware of the problem.",
+    "example_jp": "私は問題に気付いていた。",
+    "example_mm": "ငါ ပြဿနာကို သတိထားမိခဲ့တယ်။"
+  },
+  {
+    "number": "323",
+    "word": "crowded",
+    "meaning_jp": "混雑した",
+    "meaning_mm": "လူစည်ကားသော၊ ပြည့်ကျပ်နေသော",
+    "example": "The town is crowded with tourists.",
+    "example_jp": "町は旅行客で混雑している。",
+    "example_mm": "မြို့က ခရီးသွားတွေနဲ့ ပြည့်ကျပ်နေတယ်။"
+  },
+  {
+    "number": "324",
+    "word": "praise",
+    "meaning_jp": "ほめる、称賛",
+    "meaning_mm": "ချီးမွမ်းသည်၊ ချီးကျူးသည်",
+    "example": "The team was praised by the CEO.",
+    "example_jp": "そのチームはCEOにほめられた。",
+    "example_mm": "အဲဒီအဖွဲ့ကို CEO က ချီးမွမ်းခဲ့တယ်။"
+  },
+  {
+    "number": "325",
+    "word": "valuable",
+    "meaning_jp": "貴重な",
+    "meaning_mm": "တန်ဖိုးရှိသော၊ အဖိုးတန်သော",
+    "example": "a valuable addition to the team",
+    "example_jp": "チームの貴重な新戦力",
+    "example_mm": "အဖွဲ့အတွက် တန်ဖိုးရှိသော ထပ်တိုးအင်အား"
+  },
+  {
+    "number": "326",
+    "word": "explore",
+    "meaning_jp": "調査する、探検する",
+    "meaning_mm": "စူးစမ်းရှာဖွေသည်၊ လေ့လာသည်",
+    "example": "explore the possibility",
+    "example_jp": "可能性を探る",
+    "example_mm": "ဖြစ်နိုင်ခြေကို စူးစမ်းသည်"
+  },
+  {
+    "number": "327",
+    "word": "found",
+    "meaning_jp": "設立する、創立する",
+    "meaning_mm": "တည်ထောင်သည်၊ စတင်တည်ထောင်သည်",
+    "example": "found a company",
+    "example_jp": "会社を設立する",
+    "example_mm": "ကုမ္ပဏီ တည်ထောင်သည်"
+  },
+  {
+    "number": "328",
+    "word": "function",
+    "meaning_jp": "機能、機能する",
+    "meaning_mm": "လုပ်ဆောင်ချက်၊ အလုပ်လုပ်သည်",
+    "example": "basic functions",
+    "example_jp": "基本機能",
+    "example_mm": "အခြေခံ လုပ်ဆောင်ချက်များ"
+  },
+  {
+    "number": "329",
+    "word": "impact",
+    "meaning_jp": "影響",
+    "meaning_mm": "သက်ရောက်မှု၊ ထိခိုက်မှု",
+    "example": "have a negative impact on the environment",
+    "example_jp": "環境にネガティブな影響を及ぼす",
+    "example_mm": "ပတ်ဝန်းကျင်အပေါ် ဆိုးကျိုးသက်ရောက်မှု ရှိသည်"
+  },
+  {
+    "number": "330",
+    "word": "amazing",
+    "meaning_jp": "驚くべき",
+    "meaning_mm": "အံ့သြဖွယ်ကောင်းသော",
+    "example": "an amazing success",
+    "example_jp": "驚くべき成功",
+    "example_mm": "အံ့သြဖွယ် အောင်မြင်မှု"
+  },
+  {
+    "number": "331",
+    "word": "assure",
+    "meaning_jp": "保証する、請け合う",
+    "meaning_mm": "အာမခံသည်၊ စိတ်ချစေသည်",
+    "example": "assure Tex that he will be promoted",
+    "example_jp": "テックスに彼が昇進することを保証する",
+    "example_mm": "တက်စ်ကို ရာထူးတိုးမယ်လို့ အာမခံသည်"
+  },
+  {
+    "number": "332",
+    "word": "cooperation",
+    "meaning_jp": "協力",
+    "meaning_mm": "ပူးပေါင်းဆောင်ရွက်မှု၊ ပူးပေါင်းမှု",
+    "example": "Thank you for your cooperation.",
+    "example_jp": "ご協力ありがとうございます。",
+    "example_mm": "သင့်ပူးပေါင်းဆောင်ရွက်မှုအတွက် ကျေးဇူးတင်ပါတယ်။"
+  },
+  {
+    "number": "333",
+    "word": "popularity",
+    "meaning_jp": "人気",
+    "meaning_mm": "လူကြိုက်များမှု၊ ကျော်ကြားမှု",
+    "example": "a rise in popularity",
+    "example_jp": "人気の上昇",
+    "example_mm": "လူကြိုက်များမှု မြင့်တက်လာခြင်း"
+  },
+  {
+    "number": "334",
+    "word": "permit",
+    "meaning_jp": "許可証、許可する",
+    "meaning_mm": "ခွင့်ပြုချက်၊ ခွင့်ပြုသည်",
+    "example": "a construction permit",
+    "example_jp": "建設許可証",
+    "example_mm": "ဆောက်လုပ်ရေး ခွင့်ပြုချက်"
+  },
+  {
+    "number": "335",
+    "word": "solve",
+    "meaning_jp": "解決する",
+    "meaning_mm": "ဖြေရှင်းသည်၊ ဖြေရှင်းပေးသည်",
+    "example": "solve a problem",
+    "example_jp": "問題を解決する",
+    "example_mm": "ပြဿနာကို ဖြေရှင်းသည်"
+  },
+  {
+    "number": "336",
+    "word": "vote",
+    "meaning_jp": "投票する、投票",
+    "meaning_mm": "မဲပေးသည်၊ မဲပေးခြင်း",
+    "example": "vote against a proposal",
+    "example_jp": "提案に反対票を投じる",
+    "example_mm": "အဆိုပြုချက်ကို ဆန့်ကျင်မဲ ပေးသည်"
+  },
+  {
+    "number": "337",
+    "word": "crop",
+    "meaning_jp": "作物、収穫量",
+    "meaning_mm": "သီးနှံ၊ ရိတ်သိမ်းမှု",
+    "example": "locally grown crops",
+    "example_jp": "地元で育たられた作物",
+    "example_mm": "ဒေသထွက် သီးနှံများ"
+  },
+  {
+    "number": "338",
+    "word": "neighborhood",
+    "meaning_jp": "近所、地域",
+    "meaning_mm": "အိမ်နီးချင်း၊ ပတ်ဝန်းကျင်",
+    "example": "There are no hotels in this neighborhood.",
+    "example_jp": "この近所にはホテルがない。",
+    "example_mm": "ဒီပတ်ဝန်းကျင်မှာ ဟိုတယ်မရှိဘူး။"
+  },
+  {
+    "number": "339",
+    "word": "permanent",
+    "meaning_jp": "常設の、常雇用の、永久の",
+    "meaning_mm": "အမြဲတမ်း၊ အမြဲရှိနေသော",
+    "example": "the permanent exhibit",
+    "example_jp": "常設の展示物",
+    "example_mm": "အမြဲတမ်း ပြသထားသော ပစ္စည်း"
+  },
+  {
+    "number": "340",
+    "word": "regret",
+    "meaning_jp": "〜をお知らせすることを残念に思います",
+    "meaning_mm": "ဝမ်းနည်းသည်၊ စိတ်မကောင်းဖြစ်သည်",
+    "example": "We regret to inform you that",
+    "example_jp": "〜をお知らせすることを残念に思います",
+    "example_mm": "သင့်ကို အသိပေးရတာ စိတ်မကောင်းပါဘူး"
+  },
+  {
+    "number": "341",
+    "word": "slightly",
+    "meaning_jp": "わずかに",
+    "meaning_mm": "အနည်းငယ်၊ နည်းနည်း",
+    "example": "increased slightly from 24 to 27 percent",
+    "example_jp": "24%から27%にわずかに増えた",
+    "example_mm": "၂၄% ကနေ ၂၇% အထိ အနည်းငယ် တိုးလာတယ်။"
+  },
+  {
+    "number": "342",
+    "word": "complicated",
+    "meaning_jp": "複雑な",
+    "meaning_mm": "ရှုပ်ထွေးသော၊ ခက်ခဲသော",
+    "example": "The system is very complicated.",
+    "example_jp": "そのシステムはとても複雑だ。",
+    "example_mm": "အဲဒီစနစ်က အရမ်းရှုပ်ထွေးတယ်။"
+  },
+  {
+    "number": "343",
+    "word": "factor",
+    "meaning_jp": "要因、要素",
+    "meaning_mm": "အချက်၊ အကြောင်းရင်း",
+    "example": "various factors",
+    "example_jp": "さまざまな要因",
+    "example_mm": "အကြောင်းရင်း အမျိုးမျိုး"
+  },
+  {
+    "number": "344",
+    "word": "favorable",
+    "meaning_jp": "好意的な、有利な",
+    "meaning_mm": "အခွင့်သာသော၊ နှစ်သက်ဖွယ်သော",
+    "example": "favorable customer reviews",
+    "example_jp": "好意的な顧客のレビュー",
+    "example_mm": "ဖောက်သည်များ၏ အပြုသဘောဆောင်သော သုံးသပ်ချက်များ"
+  },
+  {
+    "number": "345",
+    "word": "guarantee",
+    "meaning_jp": "保証する、保証",
+    "meaning_mm": "အာမခံသည်၊ အာမခံချက်",
+    "example": "guarantee same-day delivery",
+    "example_jp": "同日配送を保証する",
+    "example_mm": "တစ်ရက်တည်း ပို့ဆောင်မှုကို အာမခံသည်"
+  },
+  {
+    "number": "346",
+    "word": "mechanical",
+    "meaning_jp": "機械の",
+    "meaning_mm": "စက်မှုဆိုင်ရာ၊ စက်ပိုင်းဆိုင်ရာ",
+    "example": "due to mechanical trouble",
+    "example_jp": "機械のトラブルが原因で",
+    "example_mm": "စက်ပိုင်းဆိုင်ရာ ပြဿနာကြောင့်"
+  },
+  {
+    "number": "347",
+    "word": "priority",
+    "meaning_jp": "優先順位、優先事項",
+    "meaning_mm": "ဦးစားပေးအဆင့်၊ ဦးစားပေးအရာ",
+    "example": "a high priority",
+    "example_jp": "高い優先順位",
+    "example_mm": "မြင့်မားသော ဦးစားပေးအဆင့်"
+  },
+  {
+    "number": "348",
+    "word": "relatively",
+    "meaning_jp": "比較的",
+    "meaning_mm": "နှိုင်းယှဉ်လျှင်၊ အတော်အတန်",
+    "example": "a relatively recent trend",
+    "example_jp": "比較的最近のトレンド",
+    "example_mm": "နှိုင်းယှဉ်လျှင် မကြာသေးမီက ခေတ်ရေစီးကြောင်း"
+  },
+  {
+    "number": "349",
+    "word": "resource",
+    "meaning_jp": "資源",
+    "meaning_mm": "အရင်းအမြစ်၊ သယံဇာတ",
+    "example": "Water is an important natural resource.",
+    "example_jp": "水は貴重な天然資源だ。",
+    "example_mm": "ရေက အဖိုးတန်တဲ့ သဘာဝ အရင်းအမြစ်တစ်ခုပါ။"
+  },
+  {
+    "number": "350",
+    "word": "shuttle",
+    "meaning_jp": "定期往復便",
+    "meaning_mm": "ပုံမှန်သွားလာသော ယာဉ်၊ ရှပ်တယ်",
+    "example": "free shuttle service",
+    "example_jp": "無料の送迎サービス",
+    "example_mm": "အခမဲ့ ပို့ဆောင်ရေး ဝန်ဆောင်မှု"
+  }
+]

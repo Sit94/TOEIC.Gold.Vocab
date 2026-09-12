@@ -1,0 +1,452 @@
+[
+  {
+    "number": "101",
+    "word": "update",
+    "meaning_jp": "最新情報、更新する",
+    "meaning_mm": "နောက်ဆုံးသတင်း၊ အပ်ဒိတ်လုပ်သည်",
+    "example": "traffic updates",
+    "example_jp": "交通の最新情報",
+    "example_mm": "ယာဉ်ကြော သတင်းအချက်အလက်"
+  },
+  {
+    "number": "102",
+    "word": "branch",
+    "meaning_jp": "支店",
+    "meaning_mm": "ဌာနခွဲ၊ ရုံးခွဲ",
+    "example": "open a new branch",
+    "example_jp": "新しい支店をオープンする",
+    "example_mm": "ဌာနခွဲအသစ် ဖွင့်လှစ်သည်"
+  },
+  {
+    "number": "103",
+    "word": "paid",
+    "meaning_jp": "有給の、支払い済みの",
+    "meaning_mm": "လစာရရှိသော၊ ပေးချေပြီးသော",
+    "example": "paid leave",
+    "example_jp": "有給休暇",
+    "example_mm": "လစာရရှိသော ခွင့်ရက်"
+  },
+  {
+    "number": "104",
+    "word": "unfortunately",
+    "meaning_jp": "残念なことに、残念ながら",
+    "meaning_mm": "စိတ်မကောင်းစရာပဲ၊ ကံမကောင်းစွာဖြင့်",
+    "example": "Unfortunately, there are some problems.",
+    "example_jp": "残念なことに、いくつか問題があります。",
+    "example_mm": "စိတ်မကောင်းစရာပဲ၊ ပြဿနာအနည်းငယ် ရှိပါတယ်။"
+  },
+  {
+    "number": "105",
+    "word": "original",
+    "meaning_jp": "元の、最初の、オリジナル、原本",
+    "meaning_mm": "မူရင်း၊ မူလ",
+    "example": "in original condition",
+    "example_jp": "元の状態で",
+    "example_mm": "မူရင်းအခြေအနေအတိုင်း"
+  },
+  {
+    "number": "106",
+    "word": "rent",
+    "meaning_jp": "家賃、賃貸借する",
+    "meaning_mm": "အိမ်ငှားခ၊ ငှားရမ်းသည်",
+    "example": "a rent increase",
+    "example_jp": "家賃の値上げ",
+    "example_mm": "အိမ်ငှားခ တိုးမြှင့်ခြင်း"
+  },
+  {
+    "number": "107",
+    "word": "memo",
+    "meaning_jp": "社内文書",
+    "meaning_mm": "ရုံးတွင်း စာရွက်စာတမ်း၊ မှတ်စု",
+    "example": "write a memo",
+    "example_jp": "社内文書を書く",
+    "example_mm": "ရုံးတွင်း စာရွက်စာတမ်း ရေးသည်"
+  },
+  {
+    "number": "108",
+    "word": "luggage",
+    "meaning_jp": "旅行かばん、手荷物",
+    "meaning_mm": "ခရီးသွား အိတ်၊ ပစ္စည်းများ",
+    "example": "shop for luggage",
+    "example_jp": "旅行かばんを買い求める",
+    "example_mm": "ခရီးသွားအိတ် ဝယ်သည်"
+  },
+  {
+    "number": "109",
+    "word": "editor",
+    "meaning_jp": "編集者",
+    "meaning_mm": "အယ်ဒီတာ",
+    "example": "a newspaper editor",
+    "example_jp": "新聞の編集者",
+    "example_mm": "သတင်းစာ အယ်ဒီတာ"
+  },
+  {
+    "number": "110",
+    "word": "exhibition",
+    "meaning_jp": "展示会、展示物、展示",
+    "meaning_mm": "ပြပွဲ၊ ပြသထားသောပစ္စည်း",
+    "example": "an art exhibition",
+    "example_jp": "美術展",
+    "example_mm": "အနုပညာ ပြပွဲ"
+  },
+  {
+    "number": "111",
+    "word": "leading",
+    "meaning_jp": "首位の、一流の",
+    "meaning_mm": "ထိပ်တန်းဖြစ်သော၊ ဦးဆောင်သော",
+    "example": "a leading company",
+    "example_jp": "トップの会社",
+    "example_mm": "ထိပ်တန်း ကုမ္ပဏီ"
+  },
+  {
+    "number": "112",
+    "word": "organization",
+    "meaning_jp": "団体、会社、組織（化）",
+    "meaning_mm": "အဖွဲ့အစည်း၊ ကုမ္ပဏီ",
+    "example": "lead an organization",
+    "example_jp": "組織を率いる",
+    "example_mm": "အဖွဲ့အစည်းကို ဦးဆောင်သည်"
+  },
+  {
+    "number": "113",
+    "word": "release",
+    "meaning_jp": "発売する、公表する、発売",
+    "meaning_mm": "ထုတ်လွှင့်သည်၊ ထုတ်ပြန်သည်",
+    "example": "release a new album",
+    "example_jp": "ニューアルバムを発売する",
+    "example_mm": "အယ်လ်ဘမ်အသစ် ထုတ်လွှင့်သည်"
+  },
+  {
+    "number": "114",
+    "word": "limited",
+    "meaning_jp": "限られた",
+    "meaning_mm": "အကန့်အသတ်ရှိသော",
+    "example": "for a limited time",
+    "example_jp": "期間限定で",
+    "example_mm": "အချိန်ကန့်သတ်ချက်ဖြင့်"
+  },
+  {
+    "number": "115",
+    "word": "procedure",
+    "meaning_jp": "手続き、手順",
+    "meaning_mm": "လုပ်ထုံးလုပ်နည်း၊ လုပ်ငန်းစဉ်",
+    "example": "a normal procedure",
+    "example_jp": "通常の手続き",
+    "example_mm": "ပုံမှန် လုပ်ထုံးလုပ်နည်း"
+  },
+  {
+    "number": "116",
+    "word": "experienced",
+    "meaning_jp": "経験豊富な",
+    "meaning_mm": "အတွေ့အကြုံရှိသော",
+    "example": "an experienced engineer",
+    "example_jp": "経験豊かなエンジニア",
+    "example_mm": "အတွေ့အကြုံရှိသော အင်ဂျင်နီယာ"
+  },
+  {
+    "number": "117",
+    "word": "personnel",
+    "meaning_jp": "社員、人事部",
+    "meaning_mm": "ဝန်ထမ်းများ၊ လူ့စွမ်းအားအရင်းအမြစ်ဌာန",
+    "example": "all company personnel",
+    "example_jp": "全社員",
+    "example_mm": "ကုမ္ပဏီဝန်ထမ်း အားလုံး"
+  },
+  {
+    "number": "118",
+    "word": "author",
+    "meaning_jp": "著者、作者",
+    "meaning_mm": "စာရေးဆရာ၊ ဖန်တီးရှင်",
+    "example": "the author of a popular book",
+    "example_jp": "人気本の著者",
+    "example_mm": "လူကြိုက်များသော စာအုပ်၏ စာရေးဆရာ"
+  },
+  {
+    "number": "119",
+    "word": "benefit",
+    "meaning_jp": "特典、福利厚生、〜のためにする",
+    "meaning_mm": "အကျိုးခံစားခွင့်၊ ကောင်းကျိုး",
+    "example": "employee benefits",
+    "example_jp": "従業員の福利厚生",
+    "example_mm": "ဝန်ထမ်း အကျိုးခံစားခွင့်များ"
+  },
+  {
+    "number": "120",
+    "word": "focus",
+    "meaning_jp": "（意義等を）〜に集中させる、重点を置く、焦点、集中",
+    "meaning_mm": "အာရုံစိုက်သည်၊ အာရုံစူးစိုက်မှု",
+    "example": "focus on one point",
+    "example_jp": "1点に集中する",
+    "example_mm": "အချက်တစ်ချက်ကို အာရုံစိုက်သည်"
+  },
+  {
+    "number": "121",
+    "word": "participate",
+    "meaning_jp": "参加する",
+    "meaning_mm": "ပါဝင်သည်၊ ပါဝင်ဆောင်ရွက်သည်",
+    "example": "participate in the workshop",
+    "example_jp": "セミナーに参加する",
+    "example_mm": "ဆွေးနွေးပွဲတွင် ပါဝင်သည်"
+  },
+  {
+    "number": "122",
+    "word": "cause",
+    "meaning_jp": "原因、大義、引き起こす",
+    "meaning_mm": "အကြောင်းရင်း၊ ဖြစ်စေသည်",
+    "example": "the cause of the problem",
+    "example_jp": "問題の原因",
+    "example_mm": "ပြဿနာ၏ အကြောင်းရင်း"
+  },
+  {
+    "number": "123",
+    "word": "degree",
+    "meaning_jp": "学位、程度、（温度や角度の単位の）度",
+    "meaning_mm": "ဒီဂရီ၊ ဘွဲ့၊ အတိုင်းအတာ",
+    "example": "a degree in journalism",
+    "example_jp": "ジャーナリズムの学位",
+    "example_mm": "ဂျာနယ်လစ်ဇင်ဘွဲ့"
+  },
+  {
+    "number": "124",
+    "word": "directly",
+    "meaning_jp": "直接",
+    "meaning_mm": "တိုက်ရိုက်",
+    "example": "purchase directly from a Web site",
+    "example_jp": "ウェブサイトから直接購入する",
+    "example_mm": "ဝဘ်ဆိုဒ်မှ တိုက်ရိုက်ဝယ်ယူသည်"
+  },
+  {
+    "number": "125",
+    "word": "host",
+    "meaning_jp": "司会者、主催する",
+    "meaning_mm": "အစီအစဉ်တင်ဆက်သူ၊ အိမ်ရှင်၊ ကျင်းပသည်",
+    "example": "the host of a television show",
+    "example_jp": "テレビ番組の司会者",
+    "example_mm": "ရုပ်မြင်သံကြားအစီအစဉ်၏ အစီအစဉ်တင်ဆက်သူ"
+  },
+  {
+    "number": "126",
+    "word": "expert",
+    "meaning_jp": "専門家、専門的な",
+    "meaning_mm": "ကျွမ်းကျင်သူ၊ ကျွမ်းကျင်သော",
+    "example": "an expert in the field",
+    "example_jp": "その分野の専門家",
+    "example_mm": "နယ်ပယ်တစ်ခုရှိ ကျွမ်းကျင်သူ"
+  },
+  {
+    "number": "127",
+    "word": "impress",
+    "meaning_jp": "感心させる、好印象を与える",
+    "meaning_mm": "အထင်ကြီးစေသည်၊ သဘောကျစေသည်",
+    "example": "We were impressed by your knowledge.",
+    "example_jp": "我々はあなたの知識に感心した。",
+    "example_mm": "သင့်အသိပညာအတွက် ကျွန်တော်တို့ အထင်ကြီးမိပါတယ်။"
+  },
+  {
+    "number": "128",
+    "word": "mainly",
+    "meaning_jp": "主に",
+    "meaning_mm": "အဓိကအားဖြင့်",
+    "example": "work mainly in the steel industry",
+    "example_jp": "主に鉄鋼業界で働く",
+    "example_mm": "အဓိကအားဖြင့် သံမဏိလုပ်ငန်းတွင် အလုပ်လုပ်သည်"
+  },
+  {
+    "number": "129",
+    "word": "suggestion",
+    "meaning_jp": "提案",
+    "meaning_mm": "အဆိုပြုချက်",
+    "example": "make suggestions",
+    "example_jp": "提案を行う",
+    "example_mm": "အဆိုပြုချက်များ ပြုလုပ်သည်"
+  },
+  {
+    "number": "130",
+    "word": "supplier",
+    "meaning_jp": "納入業者、供給業者",
+    "meaning_mm": "ထောက်ပံ့သူ၊ ကုန်ပစ္စည်းပေးသွင်းသူ",
+    "example": "relationships with suppliers",
+    "example_jp": "納入業者との関係",
+    "example_mm": "ထောက်ပံ့သူများနှင့် ဆက်ဆံရေး"
+  },
+  {
+    "number": "131",
+    "word": "document",
+    "meaning_jp": "書類、文書（や映像等で）記録する",
+    "meaning_mm": "စာရွက်စာတမ်း၊ မှတ်တမ်းတင်သည်",
+    "example": "an important document",
+    "example_jp": "重要な書類",
+    "example_mm": "အရေးကြီးသော စာရွက်စာတမ်း"
+  },
+  {
+    "number": "132",
+    "word": "remind",
+    "meaning_jp": "再確認する、念押しする",
+    "meaning_mm": "သတိပေးသည်၊ ပြန်လည်အတည်ပြုသည်",
+    "example": "remind employees about the policy",
+    "example_jp": "従業員に規則に関して再確認する",
+    "example_mm": "ဝန်ထမ်းများကို မူဝါဒအကြောင်း သတိပေးသည်"
+  },
+  {
+    "number": "133",
+    "word": "require",
+    "meaning_jp": "要求する、必要とする",
+    "meaning_mm": "တောင်းဆိုသည်၊ လိုအပ်သည်",
+    "example": "Workers are required to wear uniforms.",
+    "example_jp": "作業員は制服の着用を求められます。",
+    "example_mm": "အလုပ်သမားများသည် ယူနီဖောင်း ဝတ်ဆင်ရန် လိုအပ်သည်။"
+  },
+  {
+    "number": "134",
+    "word": "representative",
+    "meaning_jp": "担当者、代表者",
+    "meaning_mm": "ကိုယ်စားလှယ်၊ တာဝန်ရှိသူ",
+    "example": "a sales representative",
+    "example_jp": "営業担当者",
+    "example_mm": "အရောင်း ကိုယ်စားလှယ်"
+  },
+  {
+    "number": "135",
+    "word": "packaging",
+    "meaning_jp": "梱包、パッケージ",
+    "meaning_mm": "ထုပ်ပိုးခြင်း၊ ထုပ်ပိုးပစ္စည်း",
+    "example": "the packaging area",
+    "example_jp": "梱包エリア",
+    "example_mm": "ထုပ်ပိုးရေး ဧရိယာ"
+  },
+  {
+    "number": "136",
+    "word": "description",
+    "meaning_jp": "説明、記述、描写",
+    "meaning_mm": "ဖော်ပြချက်၊ ရှင်းလင်းချက်",
+    "example": "a job description",
+    "example_jp": "職務内容の説明",
+    "example_mm": "အလုပ်စာရင်း ဖော်ပြချက်"
+  },
+  {
+    "number": "137",
+    "word": "property",
+    "meaning_jp": "不動産、資産",
+    "meaning_mm": "အိမ်ခြံမြေ၊ ပိုင်ဆိုင်မှု",
+    "example": "a property manager",
+    "example_jp": "不動産の管理人",
+    "example_mm": "အိမ်ခြံမြေ မန်နေဂျာ"
+  },
+  {
+    "number": "138",
+    "word": "extension",
+    "meaning_jp": "内線、延長",
+    "meaning_mm": "တိုးချဲ့မှု၊ အတွင်းလိုင်း",
+    "example": "Call me at extension 4649.",
+    "example_jp": "内線4649にお電話ください。",
+    "example_mm": "အတွင်းလိုင်း ၄၆၄၉ ကို ခေါ်ဆိုပါ။"
+  },
+  {
+    "number": "139",
+    "word": "inquire",
+    "meaning_jp": "尋ねる、問い合わせる",
+    "meaning_mm": "စုံစမ်းမေးမြန်းသည်",
+    "example": "inquire about a job",
+    "example_jp": "仕事について問い合わせる",
+    "example_mm": "အလုပ်အကြောင်း စုံစမ်းမေးမြန်းသည်"
+  },
+  {
+    "number": "140",
+    "word": "merchandise",
+    "meaning_jp": "商品",
+    "meaning_mm": "ကုန်ပစ္စည်း",
+    "example": "display merchandise",
+    "example_jp": "商品を陳列する",
+    "example_mm": "ကုန်ပစ္စည်းများ ခင်းကျင်းပြသသည်"
+  },
+  {
+    "number": "141",
+    "word": "highly",
+    "meaning_jp": "非常に",
+    "meaning_mm": "အလွန်၊ အလွန်အမင်း",
+    "example": "a highly successful business",
+    "example_jp": "非常に成功しているビジネス",
+    "example_mm": "အလွန်အောင်မြင်သော စီးပွားရေး"
+  },
+  {
+    "number": "142",
+    "word": "result",
+    "meaning_jp": "生じる、終わる、結果",
+    "meaning_mm": "ရလဒ်၊ ဖြစ်ပေါ်သည်",
+    "example": "The campaign resulted in success.",
+    "example_jp": "そのキャンペーンは成功という結果になった。",
+    "example_mm": "အဲဒီလှုပ်ရှားမှုက အောင်မြင်မှုရလဒ် ဖြစ်ပေါ်စေခဲ့သည်။"
+  },
+  {
+    "number": "143",
+    "word": "assistance",
+    "meaning_jp": "支援、援助",
+    "meaning_mm": "အကူအညီ၊ ပံ့ပိုးမှု",
+    "example": "Thank you for your assistance.",
+    "example_jp": "ご支援ありがとうございます。",
+    "example_mm": "သင့်အကူအညီအတွက် ကျေးဇူးတင်ပါတယ်။"
+  },
+  {
+    "number": "144",
+    "word": "encourage",
+    "meaning_jp": "奨励する、促す",
+    "meaning_mm": "အားပေးသည်၊ တိုက်တွန်းသည်",
+    "example": "Employees are encouraged to attend the event.",
+    "example_jp": "従業員がイベントに参加することを奨励します。",
+    "example_mm": "ဝန်ထမ်းများ ပွဲတွင် ပါဝင်ရန် အားပေးသည်။"
+  },
+  {
+    "number": "145",
+    "word": "individual",
+    "meaning_jp": "個人、個々の、個別の",
+    "meaning_mm": "တစ်ဦးချင်း၊ သီးခြားစီ",
+    "example": "each individual in the company",
+    "example_jp": "会社の一人一人の個人",
+    "example_mm": "ကုမ္ပဏီရှိ တစ်ဦးချင်း ဝန်ထမ်းများ"
+  },
+  {
+    "number": "146",
+    "word": "laboratory",
+    "meaning_jp": "研究所、実験室",
+    "meaning_mm": "ဓာတ်ခွဲခန်း၊ သုတေသနခန်း",
+    "example": "when entering the laboratory",
+    "example_jp": "研究所に入る時",
+    "example_mm": "ဓာတ်ခွဲခန်းထဲ ဝင်သောအခါ"
+  },
+  {
+    "number": "147",
+    "word": "consider",
+    "meaning_jp": "考える、検討する",
+    "meaning_mm": "စဉ်းစားသည်၊ သုံးသပ်သည်",
+    "example": "consider working in Japan",
+    "example_jp": "日本での勤務を検討する",
+    "example_mm": "ဂျပန်တွင် အလုပ်လုပ်ရန် စဉ်းစားသည်"
+  },
+  {
+    "number": "148",
+    "word": "headquarters",
+    "meaning_jp": "本社",
+    "meaning_mm": "ဌာနချုပ်၊ ရုံးချုပ်",
+    "example": "move the headquarters to Boston",
+    "example_jp": "本社をボストンに移転する",
+    "example_mm": "ဌာနချုပ်ကို ဘော့စတွန်သို့ ပြောင်းရွှေ့သည်"
+  },
+  {
+    "number": "149",
+    "word": "ship",
+    "meaning_jp": "出荷する、船",
+    "meaning_mm": "ပို့ဆောင်သည်၊ သင်္ဘော",
+    "example": "We are ready to ship your order.",
+    "example_jp": "注文を出荷する準備ができました。",
+    "example_mm": "သင့်အော်ဒါကို ပို့ဆောင်ရန် အဆင်သင့်ဖြစ်ပါပြီ။"
+  },
+  {
+    "number": "150",
+    "word": "commercial",
+    "meaning_jp": "商業（用）の、商業的な、CM",
+    "meaning_mm": "စီးပွားရေးဆိုင်ရာ၊ ကြော်ငြာ",
+    "example": "commercial buildings",
+    "example_jp": "商業ビル",
+    "example_mm": "စီးပွားရေး အဆောက်အအုံများ"
+  }
+]

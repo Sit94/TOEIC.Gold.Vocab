@@ -1,0 +1,452 @@
+[
+  {
+    "number": "801",
+    "word": "tutorial",
+    "meaning_jp": "オンラインの指導書",
+    "meaning_mm": "သင်ခန်းစာ၊ လမ်းညွှန်",
+    "example": "an online tutorial",
+    "example_jp": "オンラインの指導書",
+    "example_mm": "အွန်လိုင်း သင်ခန်းစာ"
+  },
+  {
+    "number": "802",
+    "word": "apprentice",
+    "meaning_jp": "技術者見習い",
+    "meaning_mm": "အလုပ်သင်သူ၊ အလုပ်သင်",
+    "example": "an apprentice technician",
+    "example_jp": "技術者見習い",
+    "example_mm": "အလုပ်သင် နည်းပညာရှင်"
+  },
+  {
+    "number": "803",
+    "word": "bid",
+    "meaning_jp": "入札を行う",
+    "meaning_mm": "လေလံဆွဲသည်၊ ကမ်းလှမ်းသည်",
+    "example": "make a bid",
+    "example_jp": "入札を行う",
+    "example_mm": "လေလံတင်သည်"
+  },
+  {
+    "number": "804",
+    "word": "discard",
+    "meaning_jp": "古い書類を捨てる",
+    "meaning_mm": "စွန့်ပစ်သည်၊ ဖျက်ပစ်သည်",
+    "example": "discard old papers",
+    "example_jp": "古い書類を捨てる",
+    "example_mm": "စာရွက်စာတမ်းဟောင်းများကို စွန့်ပစ်သည်"
+  },
+  {
+    "number": "805",
+    "word": "outgoing",
+    "meaning_jp": "家族でのお出かけ",
+    "meaning_mm": "အပြင်ထွက်ခြင်း၊ ထွက်ခွာခြင်း",
+    "example": "family outings",
+    "example_jp": "家族でのお出かけ",
+    "example_mm": "မိသားစု အပြင်ထွက်ခြင်းများ"
+  },
+  {
+    "number": "806",
+    "word": "overwhelmingly",
+    "meaning_jp": "圧倒的に好意的な反応",
+    "meaning_mm": "ပြင်းထန်စွာ၊ အလွန်အမင်း",
+    "example": "an overwhelmingly positive response",
+    "example_jp": "圧倒的に好意的な反応",
+    "example_mm": "အလွန်အမင်း အပြုသဘောဆောင်သော တုံ့ပြန်မှု"
+  },
+  {
+    "number": "807",
+    "word": "proceeds",
+    "meaning_jp": "収益は慈善活動に回されます。",
+    "meaning_mm": "ဝင်ငွေ၊ အမြတ်ငွေ",
+    "example": "The proceeds will go to charity.",
+    "example_jp": "収益は慈善活動に回されます。",
+    "example_mm": "ဝင်ငွေကို ပရဟိတလုပ်ငန်းသို့ လှူဒါန်းပါမည်။"
+  },
+  {
+    "number": "808",
+    "word": "refrain",
+    "meaning_jp": "携帯電話のご利用はお控えください。",
+    "meaning_mm": "ရှောင်ကြဉ်သည်၊ မလုပ်ပါနှင့်",
+    "example": "Please refrain from using mobile phones.",
+    "example_jp": "携帯電話のご利用はお控えください。",
+    "example_mm": "မိုဘိုင်းဖုန်း အသုံးပြုခြင်းကို ရှောင်ကြဉ်ပေးပါ။"
+  },
+  {
+    "number": "809",
+    "word": "inclement",
+    "meaning_jp": "荒れた天気",
+    "meaning_mm": "ကြမ်းတမ်းသော၊ ဆိုးရွားသော",
+    "example": "inclement weather",
+    "example_jp": "荒れた天気",
+    "example_mm": "ဆိုးရွားသော ရာသီဥတု"
+  },
+  {
+    "number": "810",
+    "word": "novice",
+    "meaning_jp": "料理の初心者",
+    "meaning_mm": "အစပြုသူ၊ အတွေ့အကြုံမရှိသူ",
+    "example": "novice cooks",
+    "example_jp": "料理の初心者",
+    "example_mm": "အစပြု ချက်ပြုတ်သူများ"
+  },
+  {
+    "number": "811",
+    "word": "activate",
+    "meaning_jp": "クレジットカードを使えるようにする",
+    "meaning_mm": "အသက်သွင်းသည်၊ စတင်အသုံးပြုသည်",
+    "example": "activate a credit card",
+    "example_jp": "クレジットカードを使えるようにする",
+    "example_mm": "ခရက်ဒစ်ကတ်ကို အသက်သွင်းသည်"
+  },
+  {
+    "number": "812",
+    "word": "anecdote",
+    "meaning_jp": "個人の逸話",
+    "meaning_mm": "ဖြစ်ရပ်တစ်ခု၊ ဇာတ်လမ်းတို�",
+    "example": "personal anecdotes",
+    "example_jp": "個人の逸話",
+    "example_mm": "ကိုယ်ပိုင် ဖြစ်ရပ်များ"
+  },
+  {
+    "number": "813",
+    "word": "collaboration",
+    "meaning_jp": "他人と協力して作業する",
+    "meaning_mm": "ပူးပေါင်းဆောင်ရွက်မှု",
+    "example": "work in collaboration with others",
+    "example_jp": "他人と協力して作業する",
+    "example_mm": "အခြားသူများနှင့် ပူးပေါင်းဆောင်ရွက်သည်"
+  },
+  {
+    "number": "814",
+    "word": "commemorate",
+    "meaning_jp": "記念日を祝う",
+    "meaning_mm": "အထိမ်းအမှတ်ပြုသည်",
+    "example": "commemorate an anniversary",
+    "example_jp": "記念日を祝う",
+    "example_mm": "နှစ်ပတ်လည်နေ့ကို အထိမ်းအမှတ်ပြုသည်"
+  },
+  {
+    "number": "815",
+    "word": "duplicate",
+    "meaning_jp": "複製の鍵（合鍵）",
+    "meaning_mm": "မိတ္တူ၊ အစားထိုးပွားသည်",
+    "example": "a duplicate key",
+    "example_jp": "複製の鍵（合鍵）",
+    "example_mm": "မိတ္တူသော့"
+  },
+  {
+    "number": "816",
+    "word": "intermission",
+    "meaning_jp": "休憩時間中に",
+    "meaning_mm": "အနားယူချိန်၊ ကြားခေတ္တရပ်",
+    "example": "during the intermission",
+    "example_jp": "休憩時間中に",
+    "example_mm": "အနားယူချိန်အတွင်း"
+  },
+  {
+    "number": "817",
+    "word": "fertilizer",
+    "meaning_jp": "肥料を作るため食品廃棄物をリサイクルする",
+    "meaning_mm": "မြေဩဇာ",
+    "example": "recycle food waste to make fertilizer",
+    "example_jp": "肥料を作るため食品廃棄物をリサイクルする",
+    "example_mm": "မြေဩဇာပြုလုပ်ရန် အစားအသောက်အမှိုက်ကို ပြန်လည်အသုံးချသည်"
+  },
+  {
+    "number": "818",
+    "word": "proofread",
+    "meaning_jp": "記事を校正する",
+    "meaning_mm": "အမှားစစ်ဆေးသည်၊ ပြင်ဆင်သည်",
+    "example": "proofread an article",
+    "example_jp": "記事を校正する",
+    "example_mm": "ဆောင်းပါးကို အမှားစစ်ဆေးသည်"
+  },
+  {
+    "number": "819",
+    "word": "solicit",
+    "meaning_jp": "寄付を募る",
+    "meaning_mm": "တောင်းခံသည်၊ ရှာဖွေသည်",
+    "example": "solicit donations",
+    "example_jp": "寄付を募る",
+    "example_mm": "လှူဒါန်းငွေ တောင်းခံသည်"
+  },
+  {
+    "number": "820",
+    "word": "unveil",
+    "meaning_jp": "新商品を披露する",
+    "meaning_mm": "ထုတ်ဖော်ပြသသည်၊ ဖွင့်လှစ်သည်",
+    "example": "unveil a new product",
+    "example_jp": "新商品を披露する",
+    "example_mm": "ထုတ်ကုန်အသစ်ကို ထုတ်ဖော်ပြသသည်"
+  },
+  {
+    "number": "821",
+    "word": "applicable",
+    "meaning_jp": "その規則は全社員に適用されます。",
+    "meaning_mm": "သက်ဆိုင်သော၊ အကျုံးဝင်သော",
+    "example": "The rule is applicable to all employees.",
+    "example_jp": "その規則は全社員に適用されます。",
+    "example_mm": "အဲဒီစည်းမျဉ်းက ဝန်ထမ်းအားလုံးနှင့် သက်ဆိုင်ပါသည်။"
+  },
+  {
+    "number": "822",
+    "word": "commend",
+    "meaning_jp": "従業員をほめるための手紙",
+    "meaning_mm": "ချီးမွမ်းသည်၊ ချီးကျူးသည်",
+    "example": "a letter to commend an employee",
+    "example_jp": "従業員をほめるための手紙",
+    "example_mm": "ဝန်ထမ်းတစ်ဦးကို ချီးမွမ်းရန် စာ"
+  },
+  {
+    "number": "823",
+    "word": "complement",
+    "meaning_jp": "そのデザートはメインディッシュに合う。",
+    "meaning_mm": "ဖြည့်စွက်သည်၊ ပြည့်စုံစေသည်",
+    "example": "The dessert complements the main dish.",
+    "example_jp": "そのデザートはメインディッシュに合う。",
+    "example_mm": "အဲဒီအချိုပွဲက အဓိကဟင်းနဲ့ လိုက်ဖက်တယ်။"
+  },
+  {
+    "number": "824",
+    "word": "incentive",
+    "meaning_jp": "お客様に動機付けを提供する",
+    "meaning_mm": "မက်လုံး၊ အားပေးမှု",
+    "example": "offer incentives to customers",
+    "example_jp": "お客様に動機付けを提供する",
+    "example_mm": "ဖောက်သည်များကို မက်လုံးများ ပေးအပ်သည်"
+  },
+  {
+    "number": "825",
+    "word": "incorporate",
+    "meaning_jp": "毎日の生活に運動を取り入れる",
+    "meaning_mm": "ပေါင်းစပ်သည်၊ ထည့်သွင်းသည်",
+    "example": "incorporate exercise into everyday life",
+    "example_jp": "毎日の生活に運動を取り入れる",
+    "example_mm": "နေ့စဉ်ဘဝမှာ လေ့ကျင့်ခန်း ထည့်သွင်းသည်"
+  },
+  {
+    "number": "826",
+    "word": "lapse",
+    "meaning_jp": "会員資格が失効しないようにしてください。",
+    "meaning_mm": "သက်တမ်းကုန်သည်၊ ရပ်ဆိုင်းသည်",
+    "example": "Don't let your membership lapse.",
+    "example_jp": "会員資格が失効しないようにしてください。",
+    "example_mm": "သင့်အသင်းဝင်အဖြစ် သက်တမ်းမကုန်ပါစေနဲ့။"
+  },
+  {
+    "number": "827",
+    "word": "picturesque",
+    "meaning_jp": "絵のように美しい村",
+    "meaning_mm": "ရုပ်ပုံလိုလှပသော၊ ရှုမျှော်ခင်းကောင်းသော",
+    "example": "a picturesque village",
+    "example_jp": "絵のように美しい村",
+    "example_mm": "ပန်းချီကားလို လှပသော ရွာ"
+  },
+  {
+    "number": "828",
+    "word": "prospective",
+    "meaning_jp": "見込み客",
+    "meaning_mm": "အလားအလာရှိသော၊ ဖြစ်လာနိုင်သော",
+    "example": "prospective customers",
+    "example_jp": "見込み客",
+    "example_mm": "အလားအလာရှိသော ဖောက်သည်များ"
+  },
+  {
+    "number": "829",
+    "word": "simplify",
+    "meaning_jp": "システムを簡素化する",
+    "meaning_mm": "ရိုးရှင်းစေသည်",
+    "example": "simplify a system",
+    "example_jp": "システムを簡素化する",
+    "example_mm": "စနစ်ကို ရိုးရှင်းစေသည်"
+  },
+  {
+    "number": "830",
+    "word": "surpass",
+    "meaning_jp": "昨年の売り上げを超える",
+    "meaning_mm": "ကျော်လွန်သည်၊ ပိုသာသည်",
+    "example": "surpass last year's sales",
+    "example_jp": "昨年の売り上げを超える",
+    "example_mm": "မနှစ်က အရောင်းကို ကျော်လွန်သည်"
+  },
+  {
+    "number": "831",
+    "word": "surplus",
+    "meaning_jp": "余分な販促物",
+    "meaning_mm": "ပိုလျှံသော၊ အပိုဖြစ်သော",
+    "example": "surplus promotional materials",
+    "example_jp": "余分な販促物",
+    "example_mm": "ပိုလျှံနေသော ရောင်းချမှုမြှင့်တင်ရေး ပစ္စည်းများ"
+  },
+  {
+    "number": "832",
+    "word": "withstand",
+    "meaning_jp": "高温に耐える",
+    "meaning_mm": "ခံနိုင်ရည်ရှိသည်၊ ခုခံနိုင်သည်",
+    "example": "withstand high temperatures",
+    "example_jp": "高温に耐える",
+    "example_mm": "အပူချိန်မြင့်မားမှုကို ခံနိုင်သည်"
+  },
+  {
+    "number": "833",
+    "word": "advocate",
+    "meaning_jp": "省エネの提唱者",
+    "meaning_mm": "ထောက်ခံသူ၊ အားပေးသူ",
+    "example": "an advocate for energy efficiency",
+    "example_jp": "省エネの提唱者",
+    "example_mm": "စွမ်းအင်ထိရောက်မှုကို ထောက်ခံသူ"
+  },
+  {
+    "number": "834",
+    "word": "aspiring",
+    "meaning_jp": "作家志望",
+    "meaning_mm": "ရည်မှန်းချက်ရှိသော၊ ဖြစ်ချင်သော",
+    "example": "an aspiring writer",
+    "example_jp": "作家志望",
+    "example_mm": "စာရေးဆရာဖြစ်ချင်သူ"
+  },
+  {
+    "number": "835",
+    "word": "assorted",
+    "meaning_jp": "詰め合わせの果物と野菜",
+    "meaning_mm": "အမျိုးမျိုးရောစပ်ထားသော",
+    "example": "assorted fruits and vegetables",
+    "example_jp": "詰め合わせの果物と野菜",
+    "example_mm": "အမျိုးမျိုးရောစပ်ထားသော သစ်သီးနှင့် ဟင်းသီးဟင်းရွက်များ"
+  },
+  {
+    "number": "836",
+    "word": "credentials",
+    "meaning_jp": "科学者としての優れた経歴",
+    "meaning_mm": "အရည်အချင်း၊ လက်မှတ်",
+    "example": "excellent credentials as a scientist",
+    "example_jp": "科学者としての優れた経歴",
+    "example_mm": "သိပ္ပံပညာရှင်တစ်ဦးအနေဖြင့် ထူးချွန်သော အရည်အချင်းများ"
+  },
+  {
+    "number": "837",
+    "word": "interoffice",
+    "meaning_jp": "社内便",
+    "meaning_mm": "ရုံးတွင်း၊ ရုံးအချင်းချင်း",
+    "example": "interoffice mail",
+    "example_jp": "社内便",
+    "example_mm": "ရုံးတွင်း စာပို့စနစ်"
+  },
+  {
+    "number": "838",
+    "word": "malfunction",
+    "meaning_jp": "機械の故障",
+    "meaning_mm": "ချို့ယွင်းမှု၊ ပျက်စီးမှု",
+    "example": "a machine malfunction",
+    "example_jp": "機械の故障",
+    "example_mm": "စက် ချို့ယွင်းမှု"
+  },
+  {
+    "number": "839",
+    "word": "mutually",
+    "meaning_jp": "互いに利益になる関係",
+    "meaning_mm": "အပြန်အလှန်၊ နှစ်ဦးနှစ်ဖက်",
+    "example": "a mutually beneficial relationship",
+    "example_jp": "互いに利益になる関係",
+    "example_mm": "အပြန်အလှန် အကျိုးရှိသော ဆက်ဆံရေး"
+  },
+  {
+    "number": "840",
+    "word": "periodically",
+    "meaning_jp": "ウェブサイトを定期的にチェックする",
+    "meaning_mm": "ပုံမှန်အားဖြင့်၊ အခါအားလျော်စွာ",
+    "example": "check the Web site periodically",
+    "example_jp": "ウェブサイトを定期的にチェックする",
+    "example_mm": "ဝဘ်ဆိုဒ်ကို ပုံမှန် စစ်ဆေးသည်"
+  },
+  {
+    "number": "841",
+    "word": "copyright",
+    "meaning_jp": "著作権法",
+    "meaning_mm": "မူပိုင်ခွင့်",
+    "example": "copyright law",
+    "example_jp": "著作権法",
+    "example_mm": "မူပိုင်ခွင့် ဥပဒေ"
+  },
+  {
+    "number": "842",
+    "word": "nutritious",
+    "meaning_jp": "手ごろな値段で栄養のある料理",
+    "meaning_mm": "အာဟာရရှိသော",
+    "example": "affordable and nutritious dishes",
+    "example_jp": "手ごろな値段で栄養のある料理",
+    "example_mm": "တတ်နိုင်သော စျေးနှုန်းနှင့် အာဟာရရှိသော ဟင်းလျာများ"
+  },
+  {
+    "number": "843",
+    "word": "obstruct",
+    "meaning_jp": "視界をさえぎる",
+    "meaning_mm": "တားဆီးသည်၊ ပိတ်ဆို့သည်",
+    "example": "obstruct the view",
+    "example_jp": "視界をさえぎる",
+    "example_mm": "မြင်ကွင်းကို ပိတ်ဆို့သည်"
+  },
+  {
+    "number": "844",
+    "word": "abundant",
+    "meaning_jp": "キャリアアップのためのあり余る機会",
+    "meaning_mm": "ပေါများသော၊ ကြွယ်ဝသော",
+    "example": "abundant opportunities for career advancement",
+    "example_jp": "キャリアアップのためのあり余る機会",
+    "example_mm": "အသက်မွေးဝမ်းကျောင်း တိုးတက်မှုအတွက် ပေါများသော အခွင့်အလမ်းများ"
+  },
+  {
+    "number": "845",
+    "word": "agreeable",
+    "meaning_jp": "オークランドの天気はとても快適です。",
+    "meaning_mm": "နှစ်သက်ဖွယ်သော၊ သဘောတူသော",
+    "example": "The weather in Auckland is quite agreeable.",
+    "example_jp": "オークランドの天気はとても快適です。",
+    "example_mm": "အော့ကလန်ရဲ့ ရာသီဥတုက တော်တော်နှစ်သက်ဖွယ်ကောင်းပါတယ်။"
+  },
+  {
+    "number": "846",
+    "word": "compromise",
+    "meaning_jp": "妥協点に達する",
+    "meaning_mm": "အပေးအယူလုပ်သည်၊ ညှိနှိုင်းသည်",
+    "example": "reach a compromise",
+    "example_jp": "妥協点に達する",
+    "example_mm": "အပေးအယူ တစ်ခုကို ရောက်ရှိသည်"
+  },
+  {
+    "number": "847",
+    "word": "continuous",
+    "meaning_jp": "絶え間ない品質の改善",
+    "meaning_mm": "ဆက်တိုက်၊ အဆက်မပြတ်",
+    "example": "continuous improvement of quality",
+    "example_jp": "絶え間ない品質の改善",
+    "example_mm": "အရည်အသွေး အဆက်မပြတ် တိုးတက်မှု"
+  },
+  {
+    "number": "848",
+    "word": "dominant",
+    "meaning_jp": "市場での圧倒的なポジション",
+    "meaning_mm": "လွှမ်းမိုးသော၊ ထင်ရှားသော",
+    "example": "a dominant position in the market",
+    "example_jp": "市場での圧倒的なポジション",
+    "example_mm": "စျေးကွက်တွင် လွှမ်းမိုးသော အနေအထား"
+  },
+  {
+    "number": "849",
+    "word": "exhausted",
+    "meaning_jp": "私は疲れ切っていた。",
+    "meaning_mm": "ပင်ပန်းနွမ်းနယ်သော၊ မောပန်းသော",
+    "example": "I was exhausted.",
+    "example_jp": "私は疲れ切っていた。",
+    "example_mm": "ငါ အရမ်းပင်ပန်းနေခဲ့တယ်။"
+  },
+  {
+    "number": "850",
+    "word": "fierce",
+    "meaning_jp": "激しい競争",
+    "meaning_mm": "ပြင်းထန်သော၊ ကြမ်းတမ်းသော",
+    "example": "fierce competition",
+    "example_jp": "激しい競争",
+    "example_mm": "ပြင်းထန်သော ယှဉ်ပြိုင်မှု"
+  }
+]

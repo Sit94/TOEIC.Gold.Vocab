@@ -1,0 +1,452 @@
+[
+  {
+    "number": "401",
+    "word": "lately",
+    "meaning_jp": "最近",
+    "meaning_mm": "မကြာသေးမီက",
+    "example": "I haven't seen Tex lately.",
+    "example_jp": "最近テックスを見ていない。",
+    "example_mm": "မကြာသေးမီက တက်စ်ကို မတွေ့ဘူး။"
+  },
+  {
+    "number": "402",
+    "word": "profession",
+    "meaning_jp": "専門的な職業",
+    "meaning_mm": "အသက်မွေးဝမ်းကျောင်း ပညာရပ်",
+    "example": "Why did you choose this profession?",
+    "example_jp": "なぜあなたはこの職業を選んだのですか。",
+    "example_mm": "မင်း ဘာလို့ ဒီအလုပ်ကို ရွေးခဲ့တာလဲ။"
+  },
+  {
+    "number": "403",
+    "word": "supervisor",
+    "meaning_jp": "上司、監督、責任者",
+    "meaning_mm": "ကြီးကြပ်သူ၊ ဌာနမှူး",
+    "example": "permission from a supervisor",
+    "example_jp": "上司の許可",
+    "example_mm": "ကြီးကြပ်သူ၏ ခွင့်ပြုချက်"
+  },
+  {
+    "number": "404",
+    "word": "ensure",
+    "meaning_jp": "保証する、請け合う",
+    "meaning_mm": "အာမခံသည်၊ သေချာစေသည်",
+    "example": "ensure that the products are safe",
+    "example_jp": "製品が安全であることを保証する",
+    "example_mm": "ထုတ်ကုန်များ ဘေးကင်းကြောင်း အာမခံသည်"
+  },
+  {
+    "number": "405",
+    "word": "submission",
+    "meaning_jp": "提出（物）、提出",
+    "meaning_mm": "တင်သွင်းမှု၊ တင်ပြချက်",
+    "example": "hundreds of submissions from readers",
+    "example_jp": "読者からの何百もの提出物",
+    "example_mm": "စာဖတ်သူများထံမှ ရာနှင့်ချီသော တင်ပြချက်များ"
+  },
+  {
+    "number": "406",
+    "word": "notify",
+    "meaning_jp": "知らせる",
+    "meaning_mm": "အသိပေးသည်၊ အကြောင်းကြားသည်",
+    "example": "notify employees of the change",
+    "example_jp": "従業員に変更を知らせる",
+    "example_mm": "ဝန်ထမ်းများကို အပြောင်းအလဲ အသိပေးသည်"
+  },
+  {
+    "number": "407",
+    "word": "definitely",
+    "meaning_jp": "間違いなく、絶対に",
+    "meaning_mm": "သေချာပေါက်၊ လုံးဝ",
+    "example": "I definitely need the item.",
+    "example_jp": "私は絶対にその品物が必要だ。",
+    "example_mm": "ငါ အဲဒီပစ္စည်း သေချာပေါက် လိုအပ်တယ်။"
+  },
+  {
+    "number": "408",
+    "word": "eligible",
+    "meaning_jp": "資格がある",
+    "meaning_mm": "အရည်အချင်းပြည့်မီသည်၊ သတ်မှတ်ချက်ကိုက်ညီသည်",
+    "example": "Employees are eligible to receive paid holidays.",
+    "example_jp": "社員は有給休暇を受け取る資格がある。",
+    "example_mm": "ဝန်ထမ်းများ လစာရရှိသော ခွင့်ရက် ရရှိခွင့်ရှိသည်။"
+  },
+  {
+    "number": "409",
+    "word": "paperwork",
+    "meaning_jp": "書類、書類作業",
+    "meaning_mm": "စာရွက်စာတမ်းများ၊ စာရွက်စာတမ်း လုပ်ငန်း",
+    "example": "All the paperwork is ready.",
+    "example_jp": "すべての書類の準備ができています。",
+    "example_mm": "စာရွက်စာတမ်းအားလုံး အဆင်သင့်ဖြစ်ပါပြီ။"
+  },
+  {
+    "number": "410",
+    "word": "complimentary",
+    "meaning_jp": "無料の",
+    "meaning_mm": "အခမဲ့",
+    "example": "a complimentary breakfast",
+    "example_jp": "無料の朝食",
+    "example_mm": "အခမဲ့ မနက်စာ"
+  },
+  {
+    "number": "411",
+    "word": "revise",
+    "meaning_jp": "修正する",
+    "meaning_mm": "ပြန်လည်ပြင်ဆင်သည်၊ ပြုပြင်သည်",
+    "example": "revise a plan",
+    "example_jp": "計画を修正する",
+    "example_mm": "အစီအစဉ်ကို ပြန်လည်ပြင်ဆင်သည်"
+  },
+  {
+    "number": "412",
+    "word": "track",
+    "meaning_jp": "注文を追跡する、追う",
+    "meaning_mm": "ခြေရာခံသည်၊ လိုက်လံစစ်ဆေးသည်",
+    "example": "track an order",
+    "example_jp": "注文を追跡する",
+    "example_mm": "အော်ဒါကို ခြေရာခံသည်"
+  },
+  {
+    "number": "413",
+    "word": "administrative",
+    "meaning_jp": "管理（業務、管理）",
+    "meaning_mm": "စီမံခန့်ခွဲရေးဆိုင်ရာ",
+    "example": "an administrative assistant",
+    "example_jp": "管理アシスタント",
+    "example_mm": "စီမံခန့်ခွဲရေး လက်ထောက်"
+  },
+  {
+    "number": "414",
+    "word": "retail",
+    "meaning_jp": "小売店",
+    "meaning_mm": "လက်လီရောင်းချမှု၊ လက်လီဆိုင်",
+    "example": "retail stores",
+    "example_jp": "小売店",
+    "example_mm": "လက်လီဆိုင်များ"
+  },
+  {
+    "number": "415",
+    "word": "inventory",
+    "meaning_jp": "在庫（表）、棚卸",
+    "meaning_mm": "ကုန်ပစ္စည်းလက်ကျန်စာရင်း",
+    "example": "reduce inventory",
+    "example_jp": "在庫を減らす",
+    "example_mm": "လက်ကျန်စာရင်း လျှော့ချသည်"
+  },
+  {
+    "number": "416",
+    "word": "extensive",
+    "meaning_jp": "詳細な、分析、広範囲な",
+    "meaning_mm": "ကျယ်ပြန့်သော၊ အသေးစိတ်သော",
+    "example": "extensive analysis",
+    "example_jp": "詳細な分析",
+    "example_mm": "အသေးစိတ် ခွဲခြမ်းစိတ်ဖြာမှု"
+  },
+  {
+    "number": "417",
+    "word": "promotional",
+    "meaning_jp": "販促（販売促進用の）",
+    "meaning_mm": "ရောင်းချမှု မြှင့်တင်ရေး",
+    "example": "promotional materials",
+    "example_jp": "販促物",
+    "example_mm": "ရောင်းချမှုမြှင့်တင်ရေး ပစ္စည်းများ"
+  },
+  {
+    "number": "418",
+    "word": "catering",
+    "meaning_jp": "仕出しサービス",
+    "meaning_mm": "အစားအသောက် ဝန်ဆောင်မှု",
+    "example": "catering service",
+    "example_jp": "仕出しサービス",
+    "example_mm": "အစားအသောက် ဝန်ဆောင်မှု"
+  },
+  {
+    "number": "419",
+    "word": "wildlife",
+    "meaning_jp": "野生動物",
+    "meaning_mm": "တောရိုင်းတိရစ္ဆာန်",
+    "example": "a wildlife photographer",
+    "example_jp": "野生動物の写真家",
+    "example_mm": "တောရိုင်းတိရစ္ဆာန် ဓာတ်ပုံဆရာ"
+  },
+  {
+    "number": "420",
+    "word": "assign",
+    "meaning_jp": "割り当てる、任命する",
+    "meaning_mm": "တာဝန်ပေးအပ်သည်၊ ခန့်အပ်သည်",
+    "example": "I have been assigned the work.",
+    "example_jp": "私はその仕事を任された。",
+    "example_mm": "ငါ အဲဒီအလုပ်ကို တာဝန်ပေးအပ်ခံခဲ့ရတယ်။"
+  },
+  {
+    "number": "421",
+    "word": "imply",
+    "meaning_jp": "ほのめかす、暗示する",
+    "meaning_mm": "သွယ်ဝိုက်၍ ဆိုလိုသည်၊ အရိပ်အမြွက်ပြသည်",
+    "example": "What is implied about the hotel?",
+    "example_jp": "ホテルについて何がほのめかされていますか。",
+    "example_mm": "ဟိုတယ်အကြောင်း ဘာအရိပ်အမြွက် ပြထားသနည်း။"
+  },
+  {
+    "number": "422",
+    "word": "banquet",
+    "meaning_jp": "（ばんさん会）",
+    "meaning_mm": "ညစာစားပွဲ၊ ဧည့်ခံပွဲ",
+    "example": "I am looking forward to the banquet.",
+    "example_jp": "私は夕食会を楽しみにしている。",
+    "example_mm": "ငါ ညစာစားပွဲကို မျှော်လင့်နေတယ်။"
+  },
+  {
+    "number": "423",
+    "word": "valid",
+    "meaning_jp": "有効な",
+    "meaning_mm": "တရားဝင်သော၊ အကျုံးဝင်သော",
+    "example": "valid until the end of May",
+    "example_jp": "5月末まで有効な",
+    "example_mm": "မေလကုန်အထိ အကျုံးဝင်သော"
+  },
+  {
+    "number": "424",
+    "word": "affordable",
+    "meaning_jp": "手ごろな（値段の）",
+    "meaning_mm": "တတ်နိုင်သော၊ သင့်တင့်သော",
+    "example": "provide quality service at affordable prices",
+    "example_jp": "質の高いサービスを手ごろな価格で提供する",
+    "example_mm": "အရည်အသွေးမြင့် ဝန်ဆောင်မှုကို သင့်တင့်သောစျေးနှုန်းဖြင့် ပေးအပ်သည်"
+  },
+  {
+    "number": "425",
+    "word": "renovate",
+    "meaning_jp": "改装する",
+    "meaning_mm": "ပြုပြင်မွမ်းမံသည်",
+    "example": "a newly renovated library",
+    "example_jp": "新しく改装された図書館",
+    "example_mm": "အသစ်ပြုပြင်ထားသော စာကြည့်တိုက်"
+  },
+  {
+    "number": "426",
+    "word": "guidelines",
+    "meaning_jp": "指針、ガイドライン",
+    "meaning_mm": "လမ်းညွှန်ချက်",
+    "example": "follow industry guidelines",
+    "example_jp": "業界の指針に従う",
+    "example_mm": "လုပ်ငန်းနယ်ပယ် လမ်းညွှန်ချက်များကို လိုက်နာသည်"
+  },
+  {
+    "number": "427",
+    "word": "certificate",
+    "meaning_jp": "認定証、修了証",
+    "meaning_mm": "လက်မှတ်၊ အောင်လက်မှတ်",
+    "example": "a copy of the certificate",
+    "example_jp": "認定証の写し",
+    "example_mm": "အောင်လက်မှတ် မိတ္တူ"
+  },
+  {
+    "number": "428",
+    "word": "innovative",
+    "meaning_jp": "革新的な技術",
+    "meaning_mm": "ဆန်းသစ်တီထွင်သော",
+    "example": "an innovative technology",
+    "example_jp": "革新的な技術",
+    "example_mm": "ဆန်းသစ်သော နည်းပညာ"
+  },
+  {
+    "number": "429",
+    "word": "agenda",
+    "meaning_jp": "議題、協議事項",
+    "meaning_mm": "အစီအစဉ်၊ ဆွေးနွေးရမည့်အချက်",
+    "example": "the first item on the agenda",
+    "example_jp": "議題の最初の項目",
+    "example_mm": "အစီအစဉ်ရဲ့ ပထမဆုံး အချက်"
+  },
+  {
+    "number": "430",
+    "word": "assembly",
+    "meaning_jp": "組み立てラインの作業員",
+    "meaning_mm": "တပ်ဆင်ရေး၊ စုရုံးခြင်း",
+    "example": "assembly line workers",
+    "example_jp": "組み立てラインの作業員",
+    "example_mm": "တပ်ဆင်ရေးလိုင်း အလုပ်သမားများ"
+  },
+  {
+    "number": "431",
+    "word": "install",
+    "meaning_jp": "（機器など）を設置する、インストールする",
+    "meaning_mm": "တပ်ဆင်သည်၊ ထည့်သွင်းသည်",
+    "example": "install a new printer",
+    "example_jp": "新しいプリンターを設置する",
+    "example_mm": "ပရင်တာအသစ် တပ်ဆင်သည်"
+  },
+  {
+    "number": "432",
+    "word": "orientation",
+    "meaning_jp": "新入社員向け説明会",
+    "meaning_mm": "လမ်းညွှန်ချက်၊ မိတ်ဆက်ပွဲ",
+    "example": "new employee orientation",
+    "example_jp": "新入社員向け説明会",
+    "example_mm": "ဝန်ထမ်းအသစ် မိတ်ဆက်ပွဲ"
+  },
+  {
+    "number": "433",
+    "word": "renowned",
+    "meaning_jp": "名高い、著名な",
+    "meaning_mm": "ကျော်ကြားသော၊ နာမည်ကြီးသော",
+    "example": "a renowned scientist",
+    "example_jp": "名高い科学者",
+    "example_mm": "ကျော်ကြားသော သိပ္ပံပညာရှင်"
+  },
+  {
+    "number": "434",
+    "word": "appropriate",
+    "meaning_jp": "適切な、適した",
+    "meaning_mm": "သင့်လျော်သော၊ သင့်တော်သော",
+    "example": "clothes for a job interview",
+    "example_jp": "面接に適した服装",
+    "example_mm": "အလုပ်အင်တာဗျူးအတွက် သင့်တော်သော အဝတ်အစား"
+  },
+  {
+    "number": "435",
+    "word": "ingredient",
+    "meaning_jp": "（料理の）材料",
+    "meaning_mm": "ပါဝင်ပစ္စည်း၊ ဟင်းခတ်ပစ္စည်း",
+    "example": "use fresh ingredients",
+    "example_jp": "新鮮な材料を使う",
+    "example_mm": "လတ်ဆတ်သော ပါဝင်ပစ္စည်းများ အသုံးပြုသည်"
+  },
+  {
+    "number": "436",
+    "word": "storage",
+    "meaning_jp": "貯蔵施設",
+    "meaning_mm": "သိုလှောင်ရေး၊ သိုလှောင်မှု",
+    "example": "a storage facility",
+    "example_jp": "貯蔵施設",
+    "example_mm": "သိုလှောင်ရေး အဆောက်အအုံ"
+  },
+  {
+    "number": "437",
+    "word": "beverage",
+    "meaning_jp": "お客様に食事と飲み物を出す",
+    "meaning_mm": "အဖျော်ယမကာ",
+    "example": "serve food and beverages to guests",
+    "example_jp": "お客様に食事と飲み物を出す",
+    "example_mm": "ဧည့်သည်များကို အစားအသောက်နှင့် အဖျော်ယမကာ ကျွေးမွေးသည်"
+  },
+  {
+    "number": "438",
+    "word": "prior",
+    "meaning_jp": "前の、事前の",
+    "meaning_mm": "ကြိုတင်သော၊ အရင်ဖြစ်သော",
+    "example": "prior to the meeting",
+    "example_jp": "ミーティングの前に",
+    "example_mm": "အစည်းအဝေးမတိုင်မီ"
+  },
+  {
+    "number": "439",
+    "word": "merger",
+    "meaning_jp": "合併、統合",
+    "meaning_mm": "ပေါင်းစည်းခြင်း၊ ပေါင်းစပ်ခြင်း",
+    "example": "the upcoming merger with Tex Corporation",
+    "example_jp": "テックス社との近く行われる合併",
+    "example_mm": "တက်စ်ကော်ပိုရေးရှင်းနှင့် မကြာမီ ပေါင်းစည်းမည့်အရေး"
+  },
+  {
+    "number": "440",
+    "word": "inn",
+    "meaning_jp": "海辺の宿",
+    "meaning_mm": "အရက်ဆိုင်၊ တည်းခိုခန်း",
+    "example": "a seaside inn",
+    "example_jp": "海辺の宿",
+    "example_mm": "ပင်လယ်ကမ်းစပ် တည်းခိုခန်း"
+  },
+  {
+    "number": "441",
+    "word": "equip",
+    "meaning_jp": "装備する、装備させる",
+    "meaning_mm": "တပ်ဆင်ပေးသည်၊ ပြင်ဆင်ပေးသည်",
+    "example": "Each room is equipped with Internet access.",
+    "example_jp": "それぞれの部屋にはインターネットが備わっている。",
+    "example_mm": "အခန်းတစ်ခုချင်းစီမှာ အင်တာနက် တပ်ဆင်ထားပါတယ်။"
+  },
+  {
+    "number": "442",
+    "word": "summary",
+    "meaning_jp": "短い要約",
+    "meaning_mm": "အနှစ်ချုပ်၊ အကျဉ်းချုပ်",
+    "example": "a brief summary",
+    "example_jp": "短い要約",
+    "example_mm": "အတိုချုံး အနှစ်ချုပ်"
+  },
+  {
+    "number": "443",
+    "word": "lease",
+    "meaning_jp": "2年間の賃貸契約",
+    "meaning_mm": "ငှားရမ်းခြင်း စာချုပ်",
+    "example": "a two-year lease",
+    "example_jp": "2年間の賃貸契約",
+    "example_mm": "၂ နှစ် ငှားရမ်းခြင်း စာချုပ်"
+  },
+  {
+    "number": "444",
+    "word": "defective",
+    "meaning_jp": "欠陥のある製品を返品する",
+    "meaning_mm": "ချို့ယွင်းသော၊ ပျက်စီးသော",
+    "example": "return a defective product",
+    "example_jp": "欠陥のある製品を返品する",
+    "example_mm": "ချို့ယွင်းသော ထုတ်ကုန်ကို ပြန်အမ်းသည်"
+  },
+  {
+    "number": "445",
+    "word": "quarterly",
+    "meaning_jp": "季刊誌（年に4回発行される雑誌）",
+    "meaning_mm": "သုံးလတစ်ကြိမ်၊ သုံးလပတ်",
+    "example": "a quarterly magazine",
+    "example_jp": "季刊誌",
+    "example_mm": "သုံးလတစ်ကြိမ် ထုတ်ဝေသော မဂ္ဂဇင်း"
+  },
+  {
+    "number": "446",
+    "word": "extended",
+    "meaning_jp": "長期の保証",
+    "meaning_mm": "တိုးချဲ့ထားသော၊ ရှည်လျားသော",
+    "example": "an extended warranty",
+    "example_jp": "長期の保証",
+    "example_mm": "ရှည်လျားသော အာမခံ"
+  },
+  {
+    "number": "447",
+    "word": "architect",
+    "meaning_jp": "有名な建築家",
+    "meaning_mm": "ဗိသုကာပညာရှင်",
+    "example": "a famous architect",
+    "example_jp": "有名な建築家",
+    "example_mm": "ကျော်ကြားသော ဗိသုကာပညာရှင်"
+  },
+  {
+    "number": "448",
+    "word": "grocery",
+    "meaning_jp": "地元の食品雑貨店",
+    "meaning_mm": "ကုန်စုံဆိုင်၊ စားသောက်ကုန်ဆိုင်",
+    "example": "a local grocery store",
+    "example_jp": "地元の食品雑貨店",
+    "example_mm": "ဒေသခံ ကုန်စုံဆိုင်"
+  },
+  {
+    "number": "449",
+    "word": "sculpture",
+    "meaning_jp": "彫刻展",
+    "meaning_mm": "ပန်းပု၊ ပန်းပုရုပ်တု",
+    "example": "a sculpture exhibition",
+    "example_jp": "彫刻展",
+    "example_mm": "ပန်းပုပြပွဲ"
+  },
+  {
+    "number": "450",
+    "word": "itinerary",
+    "meaning_jp": "旅程表を送る",
+    "meaning_mm": "ခရီးစဉ်အစီအစဉ်",
+    "example": "send an itinerary",
+    "example_jp": "旅程表を送る",
+    "example_mm": "ခရီးစဉ်အစီအစဉ် ပို့သည်"
+  }
+]
