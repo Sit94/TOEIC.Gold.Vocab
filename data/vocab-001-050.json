@@ -21,10 +21,10 @@
     "number": "003",
     "word": "refer",
     "meaning_jp": "参照する、言及する",
-    "meaning_mm": "ရည်ညွှန်းသည်၊ ပြောဆိုသည်",
+    "meaning_mm": "ကိုးကားသည်,ရည်ညွှန်းသည်၊ ပြောဆိုသည်",
     "example": "Please refer to the map.",
     "example_jp": "地図を参照してください。",
-    "example_mm": "မြေပုံကို ရည်ညွှန်းကြည့်ပါ။"
+    "example_mm": "မြေပုံကို ကိုးကားကြည့်ပါ။"
   },
   {
     "number": "004",
